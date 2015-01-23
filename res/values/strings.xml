@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TrExam</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="top_bar_name">交规考试平台</string>
+	<string name="selflearning_title">自学模式</string>
+	<string name="selflearning_content">以做题代学习，加深知识点的记忆</string>
+	<string name="test_title">测试模式</string>
+	<string name="test_content">测试下自己的学习成果</string>
+	<string name="error_title">错题集合</string>
+	<string name="error_content">通过错题巩固自己薄弱的知识点</string>
+	<string name="favorite_title">题目收藏</string>
+	<string name="favorite_content">收藏自己容易做错的题目</string>
+	
+	
+	
+	<string name="string_test">行车中遇有非机动车准备绕过停放的车辆时，应怎样做？</string>
+</resources>

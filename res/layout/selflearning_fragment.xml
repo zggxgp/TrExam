@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    
+    <!-- 显示题目 -->
+    <TextView 
+        android:id="@+id/tv_question_area_selflearning"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:background="@drawable/question_area"
+        android:text="@string/string_test"
+        android:textSize="20sp"
+        android:padding="5dp"
+        />
+    
+    <!-- 显示题目插图 -->
+    <ImageView
+        android:id="@+id/iv_question_area_selflearning"
+        android:layout_height="wrap_content"
+        android:layout_width="wrap_content"
+        android:layout_gravity="center"
+        android:src="@drawable/test"
+        ></ImageView>
+    
+    
+    <!-- 显示选项 -->
+    <RadioGroup 
+        android:id="@+id/option_selflearning"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        >
+        
+        <RadioButton 
+            android:id="@+id/option_0"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:text="测试按钮0"
+            android:padding="5dp"
+            android:layout_marginBottom="8dp"
+            android:textSize="25sp"
+            android:button="@null" 	
+            android:background="@drawable/btn_radio"
+            />
+        
+        <RadioButton 
+            android:id="@+id/option_1"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:text="测试按钮1"
+            android:padding="5dp"
+            android:textSize="25sp"
+            android:button="@null" 	
+            android:background="@drawable/btn_radio"
+            />
+        
+        <RadioButton 
+            android:id="@+id/option_2"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:text="测试按钮2"
+            android:padding="5dp"
+            android:textSize="25sp"
+            android:visibility="invisible"
+            android:button="@null" 	
+            android:background="@drawable/btn_radio"
+            />
+        
+        <RadioButton 
+            android:id="@+id/option_3"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="8dp"
+            android:text="测试按钮3"
+            android:padding="5dp"
+            android:textSize="25sp"
+            android:visibility="invisible"
+            android:button="@null" 	
+            android:background="@drawable/btn_radio"
+            />
+    </RadioGroup>
+    
+    <!-- 显示结果 -->
+    <TextView 
+        android:id="@+id/result_selflearning"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:text="答题结果"
+        android:background="@color/green"
+        android:visibility="invisible"
+        android:gravity="center"
+        android:textSize="25sp"
+        />
+
+</LinearLayout>

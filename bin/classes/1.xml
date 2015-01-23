@@ -1,0 +1,975 @@
+<?xml version="1.0" encoding="UTF-8"?><root>
+  <exam answer="2" answerDesc="只要是非机动车、行人、牲口，什么时候都得让行。" id="0" imgName="" option="正确@@错误" question="当行人出现交通安全违法行为时，车辆可以不给行人让行。" type="0"></exam>
+  <exam answer="2" answerDesc="第一百三十三条　违反交通运输管理法规，因而发生重大事故，致人重伤、死亡或者使公私财产遭受重大损失的，处三年以下有期徒刑或者拘役；别逃，一逃就是3年以上了，如果因为你的逃导致人死亡了，7年以上。" id="1" imgName="" option="处5年以上徒刑@@处3年以下徒刑或者拘役@@处3年以上徒刑@@处3年以上7年以下徒刑" question="驾驶人违反交通运输管理法规发生重大事故使公私财产遭受重大损失，可能会受到什么刑罚？" type="1"></exam>
+  <exam answer="1" answerDesc="第一百三十三条　违反交通运输管理法规，因而发生重大事故，致人重伤、死亡或者使公私财产遭受重大损失的，处三年以下有期徒刑或者拘役；别逃，一逃就是3年以上了，如果因为你的逃导致人死亡了，7年以上。" id="2" imgName="" option="处3年以下徒刑或者拘役@@处3年以上7年以下徒刑@@处5年以上徒刑@@处7年以上徒刑" question="驾驶人违反交通运输管理法规发生重大事故致人重伤、死亡，可能会受到什么刑罚？" type="1"></exam>
+  <exam answer="1" answerDesc="此题争议太大，经过跟考过这道题的考生交流，车管所给的答案是正确。" id="3" imgName="" option="正确@@错误" question="申请小型汽车、三轮汽车驾驶证的，年龄应在18周岁以上70周岁以下。" type="0"></exam>
+  <exam answer="4" answerDesc="现在都是违法行为，没有违规行为和违章行为一说。" id="4" imgName="" option="过失行为@@违规行为@@违章行为@@违法行为" question="驾驶机动车在道路上违反道路交通安全法的行为，属于什么行为？" type="1"></exam>
+  <exam answer="1" answerDesc="因为你造成重大交通事故构成犯罪了，所以得追求刑事责任。" id="5" imgName="" option="刑事责任@@民事责任@@直接责任@@经济责任" question="机动车驾驶人违法驾驶造成重大交通事故构成犯罪的，依法追究什么责任？" type="1"></exam>
+  <exam answer="4" answerDesc="吊二撤三醉五逃终生，这样就好理解了吧！" id="6" imgName="" option="5年内@@10年内@@20年内@@终生" question="机动车驾驶人造成事故后逃逸构成犯罪的，吊销驾驶证且多长时间不得重新取得驾驶证？" type="1"></exam>
+  <exam answer="2" answerDesc="应该是属于违法行为。" id="7" imgName="" option="正确@@错误" question="驾驶机动车违反道路交通安全法律法规发生交通事故属于交通违章行为。" type="0"></exam>
+  <exam answer="1" answerDesc="常识题，犯错就得接受相应的处罚。" id="8" imgName="" option="正确@@错误" question="驾驶机动车在道路上违反道路通行规定应当接受相应的处罚。" type="0"></exam>
+  <exam answer="1" answerDesc="这个是要追究你的法律责任的。而且出任何事故都是你全职，因为你是无证驾驶。" id="9" imgName="" option="正确@@错误" question="对未取得驾驶证驾驶机动车的，追究其法律责任。" type="0"></exam>
+  <exam answer="2" answerDesc="重大交通事故且构成犯罪的，这个肯定是要追究刑事责任的。" id="10" imgName="" option="正确@@错误" question="对违法驾驶发生重大交通事故且构成犯罪的，不追究其刑事责任。" type="0"></exam>
+  <exam answer="1" answerDesc="吊二撤三醉五逃终生，这样就好理解了吧！" id="11" imgName="" option="正确@@错误" question="造成交通事故后逃逸且构成犯罪的驾驶人,将吊销驾驶证且终生不得重新取得驾驶证。" type="0"></exam>
+  <exam answer="1" answerDesc="常识题，现在都是违法行为，没有违章行为和违规行为一说。" id="12" imgName="" option="正确@@错误" question="驾驶机动车在道路上违反交通安全法规的行为属于违法行为。" type="0"></exam>
+  <exam answer="3" answerDesc="驾驶证是必须的。" id="13" imgName="" option="职业资格证@@身份证@@驾驶证@@工作证" question="驾驶机动车应当随身携带哪种证件？" type="1"></exam>
+  <exam answer="1" answerDesc="规定：未取得驾驶证的学员在道路上学习驾驶技能，使用所学车型的教练车由教练员随车指导。" id="14" imgName="" option="使用所学车型的教练车由教练员随车指导@@使用所学车型的教练车单独驾驶学习@@使用所学车型的教练车由非教练员的驾驶人随车指导@@使用私家车由教练员随车指导" question="未取得驾驶证的学员在道路上学习驾驶技能，下列哪种做法是正确的？" type="1"></exam>
+  <exam answer="3" answerDesc="常识题：一年的实习期。" id="15" imgName="" option="18个月@@16个月@@12个月@@6个月" question="机动车驾驶人初次申领驾驶证后的实习期是多长时间？" type="1"></exam>
+  <exam answer="3" answerDesc="规定在实习期内驾驶机动车的，应当在车身后部粘贴或者悬挂统一式样的实习标志。" id="16" imgName="" option="注意避让标志@@注意新手标志@@统一式样的实习标志@@注意车距标志" question="在实习期内驾驶机动车的，应当在车身后部粘贴或者悬挂哪种标志？" type="1"></exam>
+  <exam answer="1" answerDesc="以欺骗、贿赂等不正当手段取得驾驶证被依法撤销驾驶许可的，3年内不得重新考取驾驶本。" id="17" imgName="" option="3年内@@终身@@1年内@@5年内" question="以欺骗、贿赂等不正当手段取得驾驶证被依法撤销驾驶许可的，多长时间不得重新申请驾驶许可？" type="1"></exam>
+  <exam answer="1" answerDesc="常识题，你c1的本肯定不能去开大货和大客。" id="18" imgName="" option="正确@@错误" question="驾驶人要按照驾驶证载明的准驾车型驾驶车辆。" type="0"></exam>
+  <exam answer="2" answerDesc="上路行驶的机动车未随车携带机动车行驶证的，交通警察可依法扣留机动车。" id="19" imgName="" option="正确@@错误" question="上路行驶的机动车未随车携带身份证的，交通警察可依法扣留机动车。" type="0"></exam>
+  <exam answer="1" answerDesc="没有问题，记住吧。" id="20" imgName="" option="正确@@错误" question="上路行驶的机动车未放置检验合格标志的, 交通警察可依法扣留机动车。" type="0"></exam>
+  <exam answer="1" answerDesc="常识题" id="21" imgName="" option="正确@@错误" question="伪造、变造机动车驾驶证构成犯罪的将被依法追究刑事责任。" type="0"></exam>
+  <exam answer="1" answerDesc="常识题，小车都开不好，还要牵引挂车，安全第一。" id="22" imgName="" option="正确@@错误" question="机动车驾驶人在实习期内驾驶机动车不得牵引挂车。" type="0"></exam>
+  <exam answer="2" answerDesc="对驾驶拼装的机动车上道路行驶的驾驶人，处200元以上2000元以下罚款，并吊销驾驶证。" id="23" imgName="" option="暂扣驾驶证@@吊销驾驶证@@追究刑事责任@@处10日以下拘留" question="驾驶拼装机动车上路行驶的驾驶人，除按规定接受罚款外，还要受到哪种处理？" type="1"></exam>
+  <exam answer="4" answerDesc="对于驾驶已达到报废标准的机动车上路行驶的驾驶人，处200元以上2000元以下罚款，并吊销机动车驾驶证。" id="24" imgName="" option="收缴驾驶证@@撤销驾驶许可@@强制恢复车况@@吊销驾驶证" question="驾驶报废机动车上路行驶的驾驶人，除按规定罚款外，还要受到哪种处理？" type="1"></exam>
+  <exam answer="4" answerDesc="对驾驶拼装的机动车上道路行驶的驾驶人，处200元以上2000元以下罚款，并吊销驾驶证。" id="25" imgName="" option="处20以上200元以下罚款@@追究刑事责任@@处15日以下拘留@@吊销机动车驾驶证" question="对驾驶已达到报废标准的机动车上路行驶的驾驶人，会受到下列哪种处罚？" type="1"></exam>
+  <exam answer="2" answerDesc="对驾驶拼装的机动车上道路行驶的驾驶人，处200元以上2000元以下罚款，并吊销驾驶证。" id="26" imgName="" option="依法追究刑事责任@@处200以上2000元以下罚款@@吊销机动车行驶证@@处15日以下拘留" question="对驾驶拼装机动车上路行驶的驾驶人，会受到下列哪种处罚？" type="1"></exam>
+  <exam answer="1" answerDesc="常识题。" id="27" imgName="" option="正确@@错误" question="驾驶机动车上路前应当检查车辆安全技术性能。" type="0"></exam>
+  <exam answer="1" answerDesc="常识题。" id="28" imgName="" option="正确@@错误" question="不得驾驶具有安全隐患的机动车上道路行驶。" type="0"></exam>
+  <exam answer="2" answerDesc="机动车不跟电脑一样可以拼装，机动车都是品牌的不能动的。" id="29" imgName="" option="正确@@错误" question="拼装的机动车只要认为安全就可以上路行驶。" type="0"></exam>
+  <exam answer="2" answerDesc="已经达到报废标准的机动车再怎么修也不能上路。最新出台的机动车报废标准，不限年限，历程到达60万公里就得报废。" id="30" imgName="" option="正确@@错误" question="已经达到报废标准的机动车经大修后可以上路行驶。" type="0"></exam>
+  <exam answer="2" answerDesc="常识题。" id="31" imgName="" option="机动车保险单@@机动车行驶证@@出厂合格证明@@机动车登记证" question="下列哪种证件是驾驶机动车上路行驶应当随车携带？" type="1"></exam>
+  <exam answer="3" answerDesc="现在不按规定行车的都是违法行为。已经没有违章行为和违规行为一说了。" id="32" imgName="1369107882515.jpg" option="违章行为@@违规行为@@违法行为@@犯罪行为" question="驾驶这种机动车上路行驶属于什么行为？" type="1"></exam>
+  <exam answer="3" answerDesc="检验合格标志，保险标志都是必须要放置的。" id="33" imgName="" option="保持车距标志@@提醒危险标志@@检验合格标志@@产品合格标志" question="下列哪种标志是驾驶机动车上路行驶应当在车上放置的标志？" type="1"></exam>
+  <exam answer="3" answerDesc="很明显，喝酒后不能开车。" id="34" imgName="" option="喝咖啡后@@喝牛奶后@@饮酒后@@喝茶后" question="驾驶人在下列哪种情况下不能驾驶机动车？" type="1"></exam>
+  <exam answer="2" answerDesc="很明显的用光盘遮挡号牌了，现在遮挡号牌的直接扣12分，小心吧您。" id="35" imgName="1369107882871.jpg" option="未按规定悬挂号牌@@故意遮挡号牌@@占用非机动车道@@逆向行驶" question="这辆在道路上行驶的机动车有下列哪种违法行为？" type="1"></exam>
+  <exam answer="1" answerDesc="常识题。" id="36" imgName="" option="正确@@错误" question="驾驶机动车上路行驶应当按规定悬挂号牌。" type="0"></exam>
+  <exam answer="2" answerDesc="涉嫌服用国家管制的精神药品、麻醉药品后不得驾驶车辆。" id="37" imgName="" option="正确@@错误" question="服用国家管制的精神药品可以短途驾驶机动车。" type="0"></exam>
+  <exam answer="2" answerDesc="这个不用说吧，喝了酒就不能开车，不管你喝了多少。" id="38" imgName="" option="正确@@错误" question="饮酒后只要不影响驾驶操作可以短距离驾驶机动车。" type="0"></exam>
+  <exam answer="4" answerDesc="驾照共12分，违反交规一次，就是扣一次分，在一年内累积扣完12分，需要进学习班，再考交规。所以违反交规，不仅要罚钱，还要扣分。" id="39" imgName="" option="违法登记制度@@奖励里程制度@@强制报废制度@@累积记分制度" question="公安交通管理部门对驾驶人的交通违法行为除依法给予行政处罚外,实行下列哪种制度？" type="1"></exam>
+  <exam answer="1" answerDesc="《机动车驾驶证申领和使用规定》（公安部令第123号）第五十五条  道路交通安全违法行为累积记分周期（即记分周期）为12个月，满分为12分，从机动车驾驶证初次领取之日起计算。" id="40" imgName="" option="12个月@@24个月@@3个月@@6个月" question="道路交通安全违法行为累积记分的周期是多长时间？" type="1"></exam>
+  <exam answer="3" answerDesc="满12分了你就重新去学习一下吧，再来金手指重新回锅一下。" id="41" imgName="" option="处15日以下拘留@@终生禁驾@@进行法律法规教育，重新考试@@依法追究刑事责任" question="公安机关交通管理部门对累积记分达到规定分值的驾驶人怎样处理？" type="1"></exam>
+  <exam answer="3" answerDesc="驾驶证丢失、损毁的算是没有驾驶证，此时驾驶就是无证驾驶。" id="42" imgName="" option="记分达到10分@@记分达到6分@@驾驶证丢失、损毁@@驾驶证接近有效期" question="驾驶人出现下列哪种情况，不得驾驶机动车？" type="1"></exam>
+  <exam answer="2" answerDesc="不可以，没有驾驶证都算无证驾驶。" id="43" imgName="" option="正确@@错误" question="驾驶人在驾驶证丢失后3个月内还可以驾驶机动车。" type="0"></exam>
+  <exam answer="2" answerDesc="机动车驾驶人应当于机动车驾驶证有效期满前九十日内，向机动车驾驶证核发地车辆管理所申请换证。过了有效期就不能用了。" id="44" imgName="" option="正确@@错误" question="驾驶人持超过有效期的驾驶证可以在1年内驾驶机动车。" type="0"></exam>
+  <exam answer="1" answerDesc="请保证驾驶证的整洁，不然警察叔叔都不能确定是不是你了，给你算无证驾驶了" id="45" imgName="" option="正确@@错误" question="驾驶人的驾驶证损毁后不得驾驶机动车。" type="0"></exam>
+  <exam answer="1" answerDesc="这个没有问题。" id="46" imgName="" option="正确@@错误" question="记分满12分的驾驶人拒不参加学习和考试的将被公告驾驶证停止使用。" type="0"></exam>
+  <exam answer="1" answerDesc="没驾驶本了还怎么开车，逮住了就是无证驾驶。" id="47" imgName="" option="正确@@错误" question="驾驶人的机动车驾驶证被依法扣留、暂扣的情况下不得驾驶机动车。" type="0"></exam>
+  <exam answer="4" answerDesc="红灯停。" id="48" imgName="1369107883528.jpg" option="准许通行@@提醒注意@@路口警示@@禁止通行" question="前方路口这种信号灯亮表示什么意思？" type="1"></exam>
+  <exam answer="3" answerDesc="黄灯为警示灯，所以是路口警示。" id="49" imgName="1369107883712.jpg" option="加速左转@@禁止右转@@路口警示@@加速直行" question="前方路口这种信号灯亮表示什么意思？" type="1"></exam>
+  <exam answer="4" answerDesc="绿灯行。" id="50" imgName="1369107883892.jpg" option="路口警示@@禁止通行@@提醒注意@@准许通行" question="前方路口这种信号灯亮表示什么意思？" type="1"></exam>
+  <exam answer="1" answerDesc="交通信号分为：交通信号灯、交通标志、交通标线和交通警察的指挥。" id="51" imgName="" option="正确@@错误" question="交通信号包括交通信号灯、交通标志、交通标线和交通警察的指挥。" type="0"></exam>
+  <exam answer="2" answerDesc="交通信号分为：交通信号灯、交通标志、交通标线和交通警察的指挥。" id="52" imgName="" option="正确@@错误" question="交通标志和交通标线不属于交通信号。" type="0"></exam>
+  <exam answer="1" answerDesc="嗯，目前我还没见到过其他颜色的灯。" id="53" imgName="" option="正确@@错误" question="交通信号灯由红灯、绿灯和黄灯组成。" type="0"></exam>
+  <exam answer="1" answerDesc="没有问题记住吧。" id="54" imgName="" option="正确@@错误" question="道路交通标线分为指示标线、警告标线、禁止标线。" type="0"></exam>
+  <exam answer="1" answerDesc="这种道路在在道路中间通行最安全" id="55" imgName="1369107884276.jpg" option="在道路中间通行@@在道路两边通行@@实行分道通行@@可随意通行" question="驾驶机动车在这种道路上如何通行？" type="1"></exam>
+  <exam answer="1" answerDesc="看见上边的大字没，公交专用车道，你在不选A，你选谁。" id="56" imgName="1369107884513.jpg" option="公交车@@私家车@@出租车@@公务用车" question="道路上划设这种标线的车道内允许下列哪类车辆通行？" type="1"></exam>
+  <exam answer="1" answerDesc="看警察叔叔的手，让你停了。在有警察和指示灯的路口，当然听警察的。" id="57" imgName="1369107884743.jpg" option="停车等待@@遵守交通信号灯@@靠右侧直行@@可以向右转弯" question="驾驶机动车在路口遇到这种情况如何行驶？" type="1"></exam>
+  <exam answer="1" answerDesc="只有右转的灯是绿灯，所以可以向右转弯。" id="58" imgName="1369107885021.jpg" option="向右转弯@@停车等待@@向左转弯@@直行通过" question="有这种信号灯的路口允许机动车如何行驶？" type="1"></exam>
+  <exam answer="1" answerDesc="前方是警告性的黄灯，所以此路口是确认安全后通过。" id="59" imgName="1369107885204.jpg" option="确认安全后通过@@右转弯加速通过@@加速直行通过@@左转弯加速通过" question="遇到这种情况的路口怎样通过？" type="1"></exam>
+  <exam answer="1" answerDesc="最左侧为快速车道。" id="60" imgName="1369107885425.jpg" option="快速车道@@慢速车道@@应急车道@@专用车道" question="这段道路红车所在车道是什么车道？" type="1"></exam>
+  <exam answer="3" answerDesc="只有C最和谐。" id="61" imgName="" option="开启转向灯迅速向左转向@@进入左侧车道时适当减速@@不能影响其他车辆正常行驶@@尽快加速进入左侧车道" question="机动车在道路上变更车道需要注意什么？" type="1"></exam>
+  <exam answer="2" answerDesc="不要占用公交车道，小心被拍罚款扣分。" id="62" imgName="1369107885647.jpg" option="正确@@错误" question="在这种情况下可以借右侧公交车道超车。" type="0"></exam>
+  <exam answer="2" answerDesc="灯是死的，人是活的嘛。" id="63" imgName="" option="正确@@错误" question="在路口遇有交通信号灯和交通警察指挥不一致时，按照交通信号灯通行。" type="0"></exam>
+  <exam answer="2" answerDesc="黄灯，车身在安全线里边，请停车等待。" id="64" imgName="1369107885908.jpg" option="正确@@错误" question="在这种情况下可加速通过交叉路口。" type="0"></exam>
+  <exam answer="2" answerDesc="施主，请看清前边是红灯，还不赶快停下。" id="65" imgName="1369107886127.jpg" option="正确@@错误" question="在路口这个位置时可以加速通过路口。" type="0"></exam>
+  <exam answer="1" answerDesc="红灯停嘛。" id="66" imgName="" option="正确@@错误" question="驾驶机动车不能进入红色叉形灯或者红色箭头灯亮的车道。" type="0"></exam>
+  <exam answer="2" answerDesc="看右侧的标志，此路段最高车速是80公里每小时，最低车速是50公里每小时。" id="67" imgName="1369107886387.jpg" option="正确@@错误" question="在这段路的最高时速为每小时50公里。" type="0"></exam>
+  <exam answer="2" answerDesc="红车明显就是没留出足够安全的行车距离强行并线，也没打灯。" id="68" imgName="1369107886579.jpg" option="正确@@错误" question="这辆红色轿车变更车道的方法和路线是正确的。" type="0"></exam>
+  <exam answer="3" answerDesc="无论左转还有右转都得提前打灯告诉其他车你的意图，这样才比较安全。" id="69" imgName="" option="提前开启右转向灯@@不用开启转向灯@@提前开启左转向灯@@提前开启近光灯" question="驾驶机动车在道路上向左变更车道时如何使用灯光？" type="1"></exam>
+  <exam answer="2" answerDesc="靠边停车首先开启右转向灯然后再打方向盘停车。" id="70" imgName="" option="开启危险报警闪光灯@@提前开启右转向灯@@变换使用远近光灯@@不用指示灯提示" question="驾驶机动车在道路上靠路边停车过程中如何使用灯光？" type="1"></exam>
+  <exam answer="2" answerDesc="能见度这么低一定要开启雾灯。" id="71" imgName="1369107886842.jpg" option="使用远光灯@@使用雾灯@@不使用灯光@@开启右转向灯" question="在这种天气条件下行车如何使用灯光？" type="1"></exam>
+  <exam answer="3" answerDesc="路过没有路灯和信号灯的路口，应该交替使用远近光灯，提示周围的车辆，以免发生事故。" id="72" imgName="1369107887142.jpg" option="关闭远光灯@@使用危险报警闪光灯@@交替使用远近光灯@@使用远光灯" question="在这种环境下通过路口如何使用灯光？" type="1"></exam>
+  <exam answer="4" answerDesc="因为是弯道，实线变窄，所以要减速鸣喇叭示意提示对方来的车，安全第一。" id="73" imgName="1369107887304.jpg" option="占对方道路转弯@@在弯道中心转弯@@加速鸣喇叭通过@@减速鸣喇叭示意" question="在这种路段如何行驶？" type="1"></exam>
+  <exam answer="2" answerDesc="超车是应该开启左转向灯。" id="74" imgName="" option="正确@@错误" question="驾驶机动车在道路上超车时可以不使用转向灯。" type="0"></exam>
+  <exam answer="1" answerDesc="转向灯就是行车过程中的语言，一定要遵守规则。" id="75" imgName="" option="正确@@错误" question="驾驶机动车在道路上超车完毕驶回原车道时开启右转向灯。" type="0"></exam>
+  <exam answer="1" answerDesc="这个没有问题。" id="76" imgName="" option="正确@@错误" question="驾驶机动车在道路上掉头时提前开启左转向灯。" type="0"></exam>
+  <exam answer="2" answerDesc="大家要养成良好的行车习惯。" id="77" imgName="" option="正确@@错误" question="驾驶机动车在道路上向右变更车道可以不使用转向灯。" type="0"></exam>
+  <exam answer="2" answerDesc="沙尘天气条件下能见度低，要开启前照灯、示廓灯和后位灯防止出现事故。" id="78" imgName="" option="正确@@错误" question="驾驶机动车在沙尘天气条件下行车不用开启前照灯、示廓灯和后位灯。" type="0"></exam>
+  <exam answer="1" answerDesc="近光灯不会影响人家的视线。" id="79" imgName="1369107887685.jpg" option="正确@@错误" question="在这种环境里行车使用近光灯。" type="0"></exam>
+  <exam answer="1" answerDesc="《中华人民共和国道路交通安全法实施条例》第五十八条 机动车在夜间没有路灯、照明不良或者遇有雾、雨、雪、沙尘、冰雹等低能见度情况下行驶时，应当开启前照灯、示廓灯和后位灯，但同方向行驶的后车与前车近距离行驶时，不得使用远光灯。&lt;b&gt;机动车雾天行驶应当开启雾灯和危险报警闪光灯&lt;/b&gt;。" id="80" imgName="" option="正确@@错误" question="驾驶机动车在雾天行车开启雾灯和危险报警闪光灯。" type="0"></exam>
+  <exam answer="1" answerDesc="交替使用远近光灯，先变远光灯再回近光灯的包括以下情况：急弯、坡路、超车（同时打左灯）、拱桥、人行横道、没有信号灯的路口。" id="81" imgName="1369107887863.jpg" option="正确@@错误" question="在这种急弯道路上行车应交替使用远近光灯。" type="0"></exam>
+  <exam answer="1" answerDesc="" id="82" imgName="" option="正确@@错误" question="夜间驾驶机动车通过人行横道时需要交替使用远近光灯。" type="0"></exam>
+  <exam answer="2" answerDesc="肯定是错的，鸣喇叭对，但是加速是错误的。" id="83" imgName="" option="正确@@错误" question="驾驶机动车上坡时,在将要到达坡道顶端时要加速并鸣喇叭。" type="0"></exam>
+  <exam answer="2" answerDesc="" id="84" imgName="" option="违反道路通行规定@@超过规定时速50%@@造成交通事故后逃逸@@驾车没带驾驶证" question="下列哪种行为会受到200元以上2000元以下罚款，并处吊销机动车驾驶证？" type="1"></exam>
+  <exam answer="1" answerDesc="请看右侧的标志，此为限速标志，所以最高车速不能超过110公里每小时。" id="85" imgName="1369107888134.jpg" option="110公里/小时@@120公里/小时@@90公里 /小时@@100公里/小时" question="在这条高速公路上行驶时的最高速度不能超过多少？" type="1"></exam>
+  <exam answer="2" answerDesc="根据《中华人民共和国道路交通安全法实施条例》第四十五条：……在没有限速标志、标线的道路上，机动车不得超过下列最高行驶速度：　　(一)没有道路中心线的道路，城市道路为每小时30公里，公路为每小时40公里；　　(二)同方向只有1条机动车道的道路，城市道路为每小时50公里，公路为每小时70公里。图为没有道路中心线的城市道路，所以最高时速为每小时30公里。" id="86" imgName="1369107888317.jpg" option="40公里/小时@@30公里/小时@@50公里/小时@@70公里/小时" question="在这段城市道路上行驶的最高速度不能超过多少？" type="1"></exam>
+  <exam answer="3" answerDesc="根据《中华人民共和国道路交通安全法实施条例》第四十五条：……在没有限速标志、标线的道路上，机动车不得超过下列最高行驶速度：　　(一)没有道路中心线的道路，城市道路为每小时30公里，公路为每小时40公里；　　(二)同方向只有1条机动车道的道路，城市道路为每小时50公里，公路为每小时70公里。图为没有道路中心线的公路，所以最高时速为40公里每小时。" id="87" imgName="1369107888495.jpg" option="70公里/小时@@50公里/小时@@40公里/小时@@30公里/小时" question="在这条公路上行驶的最高速度不能超过多少？" type="1"></exam>
+  <exam answer="3" answerDesc="根据《中华人民共和国道路交通安全法实施条例》第四十五条：……在没有限速标志、标线的道路上，机动车不得超过下列最高行驶速度：　　(一)没有道路中心线的道路，城市道路为每小时30公里，公路为每小时40公里；　　(二)同方向只有1条机动车道的道路，城市道路为每小时50公里，公路为每小时70公里。图为同方向只有1条机动车道的城市道路，所以最高每小时50公里。" id="88" imgName="1369107888673.jpg" option="30公里/小时@@40公里/小时@@50公里/小时@@70公里/小时" question="在这条城市道路上行驶的最高速度不能超过多少？" type="1"></exam>
+  <exam answer="4" answerDesc="根据《中华人民共和国道路交通安全法实施条例》第四十五条：……在没有限速标志、标线的道路上，机动车不得超过下列最高行驶速度：　　(一)没有道路中心线的道路，城市道路为每小时30公里，公路为每小时40公里；　　(二)同方向只有1条机动车道的道路，城市道路为每小时50公里，公路为每小时70公里。图为公路，所以最高时速为70公里/每小时。" id="89" imgName="1369107888890.jpg" option="30公里/小时@@40公里/小时@@50公里/小时@@70公里/小时" question="在这条公路上行驶的最高速度不能超过多少？" type="1"></exam>
+  <exam answer="2" answerDesc="规定：驾驶机动车通过急弯路时，最高速度不能超过30公里/小时" id="90" imgName="1369107889061.jpg" option="40公里/小时@@30公里/小时@@50公里/小时@@70公里/小时" question="在这个弯道上行驶时的最高速度不能超过多少？" type="1"></exam>
+  <exam answer="4" answerDesc="规定：驾驶机动车遇雾、雨、雪等能见度在50米以内时，最高速度不能超过30公里/小时" id="91" imgName="" option="70公里/小时@@50公里/小时@@40公里/小时@@30公里/小时" question="驾驶机动车遇雾、雨、雪等能见度在50米以内时，最高速度不能超过多少？" type="1"></exam>
+  <exam answer="4" answerDesc="规定：驾驶机动车在进出非机动车道时，最高速度不能超过30公里/小时" id="92" imgName="" option="40公里/小时@@50公里/小时@@60公里/小时@@30公里/小时" question="驾驶机动车在进出非机动车道时，最高速度不能超过多少？" type="1"></exam>
+  <exam answer="3" answerDesc="规定：驾驶机动车通过铁路道口时，最高速度不能超过30公里/小时" id="93" imgName="" option="15公里/小时@@20公里/小时@@30公里/小时@@40公里/小时" question="驾驶机动车通过铁路道口时，最高速度不能超过多少？" type="1"></exam>
+  <exam answer="2" answerDesc="规定：驾驶机动车通过急弯路时，最高速度不能超过30公里/小时" id="94" imgName="" option="20公里/小时@@30公里/小时@@40公里/小时@@50公里/小时" question="驾驶机动车通过急弯路时，最高速度不能超过多少？" type="1"></exam>
+  <exam answer="3" answerDesc="规定：驾驶机动车通过窄路、窄桥时，最高速度不能超过30公里/小时" id="95" imgName="" option="50公里/小时@@40公里/小时@@30公里/小时@@60公里/小时" question="驾驶机动车通过窄路、窄桥时，最高速度不能超过多少？" type="1"></exam>
+  <exam answer="3" answerDesc="规定：机动车下陡坡、转弯、掉头时，最高速度不能超过30公里/小时" id="96" imgName="" option="50公里/小时@@60公里/小时@@30公里/小时@@40公里/小时" question="驾驶机动车下陡坡、转弯、掉头时，最高速度不能超过多少？" type="1"></exam>
+  <exam answer="3" answerDesc="规定：机动车在冰雪道路行驶时，最高速度不能超过30公里/小时" id="97" imgName="" option="50公里/小时@@40公里/小时@@30公里/小时@@20公里/小时" question="驾驶机动车在冰雪道路行驶时，最高速度不能超过多少？" type="1"></exam>
+  <exam answer="4" answerDesc="规定是：驾驶机动车在泥泞道路行驶时，最高速度不能超过30公里/小时" id="98" imgName="" option="15公里/小时@@20公里/小时@@40公里/小时@@30公里/小时" question="驾驶机动车在泥泞道路行驶时，最高速度不能超过多少？" type="1"></exam>
+  <exam answer="1" answerDesc="这个没问题，按照标志行驶不会错。" id="99" imgName="" option="正确@@错误" question="驾驶机动车上道路行驶,不允许超过限速标志标明的最高时速。" type="0"></exam>
+  <exam answer="2" answerDesc="根据《中华人民共和国道路交通安全法实施条例》第四十五条：……在没有限速标志、标线的道路上，机动车不得超过下列最高行驶速度：　　(一)没有道路中心线的道路，城市道路为每小时30公里，公路为每小时40公里；　　(二)同方向只有1条机动车道的道路，城市道路为每小时50公里，公路为每小时70公里。" id="100" imgName="" option="正确@@错误" question="驾驶机动车在没有中心线的城市道路上，最高速度不能超过每小时50公里。" type="0"></exam>
+  <exam answer="2" answerDesc="根据《中华人民共和国道路交通安全法实施条例》第四十五条：……在没有限速标志、标线的道路上，机动车不得超过下列最高行驶速度：　　(一)没有道路中心线的道路，城市道路为每小时30公里，公路为每小时40公里；　　(二)同方向只有1条机动车道的道路，城市道路为每小时50公里，公路为每小时70公里。" id="101" imgName="" option="正确@@错误" question="驾驶机动车在没有中心线的公路上，最高速度不能超过每小时70公里。" type="0"></exam>
+  <exam answer="2" answerDesc="冰雪路面最高速度不能超过每小时30公里。" id="102" imgName="1369107889709.jpg" option="正确@@错误" question="车在这种条件的道路上，最高速度不能超过每小时50公里。" type="0"></exam>
+  <exam answer="2" answerDesc="机动车行驶中遇有下列情形之一的，最高行驶速度不得超过每小时30公里，其中拖拉机、电瓶车、轮式专用机械车不得超过每小时15公里：　　 （一）进出非机动车道，通过铁路道口、急弯路、窄路、窄桥时；　　 （二）掉头、转弯、下陡坡时；　　 （三）遇雾、雨、雪、沙尘、冰雹，能见度在50米以内时；　　 （四）在冰雪、泥泞的道路上行驶时；" id="103" imgName="" option="正确@@错误" question="驾驶机动车掉头、转弯、下陡坡时的最高速度不能超过每小时40公里。" type="0"></exam>
+  <exam answer="1" answerDesc="这个是规定，记住吧。" id="104" imgName="" option="正确@@错误" question="驾驶机动车通过窄路、窄桥时的最高速度不能超过每小时30公里。" type="0"></exam>
+  <exam answer="4" answerDesc="追尾都是后车的责任，因为你没有保持足有的安全距离。" id="105" imgName="1369107890013.jpg" option="前车采取制动时没看后视镜@@前车采取制动过急@@后车超车时距离前车太近@@后车未与前车保持安全距离" question="这两辆车发生追尾的主要原因是什么？" type="1"></exam>
+  <exam answer="2" answerDesc="因为要从左侧超车正好他左转那不撞上了，所以前车正在左转弯的时候不能超车。" id="106" imgName="" option="前车减速让行@@前车正在左转弯@@前车靠边停车@@前车正在右转弯" question="驾驶机动车在下列哪种情形下不能超越前车？" type="1"></exam>
+  <exam answer="3" answerDesc="和谐第一，人家要超车就减速靠右给他让出超车的位置。" id="107" imgName="" option="保持原状态行驶@@加速行驶@@降速靠右让路@@迅速停车让行" question="在没有中心线的道路上发现后车发出超车信号时，如果条件许可如何行驶？" type="1"></exam>
+  <exam answer="3" answerDesc="任何超车都是从左侧超车的。" id="108" imgName="1369107890297.jpg" option="左右两侧均可超越@@从前车的右侧超越@@从前车的左侧超越@@从无障碍一侧超越" question="这种情况超车时，从前车的哪一侧超越？" type="1"></exam>
+  <exam answer="3" answerDesc="同车道行驶的机动车，后车应当与前车保持足以采取紧急制动措施的安全距离。有下列情形之一的，不得超车：  ①《《前车正在左转弯、掉头、超车的》》;  ②与对面来车有会车可能的;  ③前车为执行紧急任务的警车、消防车、救护车、工程救险车的;  ④行经铁路道口、交叉路口、窄桥、弯道、陡坡、隧道、人行横道、市区交通流量大的路段等没有超车条件的。" id="109" imgName="" option="减速让行@@正常行驶@@正在超车@@正在停车" question="同车道行驶的车辆遇前车有下列哪种情形时不得超车？" type="1"></exam>
+  <exam answer="3" answerDesc="同车道行驶的机动车，后车应当与前车保持足以采取紧急制动措施的安全距离。有下列情形之一的，不得超车：  ①《《前车正在左转弯、掉头、超车的》》;  ②与对面来车有会车可能的;  ③前车为执行紧急任务的警车、消防车、救护车、工程救险车的;  ④行经铁路道口、交叉路口、窄桥、弯道、陡坡、隧道、人行横道、市区交通流量大的路段等没有超车条件的。" id="110" imgName="" option="正在停车@@减速让行@@正在掉头@@正常行驶" question="同车道行驶的车辆遇前车有下列哪种情形时不得超车？" type="1"></exam>
+  <exam answer="3" answerDesc="同车道行驶的机动车，后车应当与前车保持足以采取紧急制动措施的安全距离。有下列情形之一的，不得超车：  ①前车正在左转弯、掉头、超车的;  ②与对面来车有会车可能的;  ③前车为执行紧急任务的警车、消防车、救护车、工程救险车的;  ④行经铁路道口、交叉路口、窄桥、弯道、陡坡、隧道、人行横道、《《市区交通流量大的路段》》等没有超车条件的。" id="111" imgName="" option="主要街道@@单向行驶路段@@交通流量大的路段@@单向两条行车道" question="驾驶机动车行经市区下列哪种道路时不得超车？" type="1"></exam>
+  <exam answer="3" answerDesc="《中华人民共和国道路交通管理条例》第六章 第五十条 机动车超车，必须遵守下列规定：行经交叉路口、人行横道、漫水路、漫水桥等，不准超车。" id="112" imgName="" option="主要街道@@高架路@@人行横道@@环城高速" question="驾驶机动车行经下列哪种路段不得超车？" type="1"></exam>
+  <exam answer="2" answerDesc="《中华人民共和国道路交通管理条例》第六章 第五十条 机动车超车，必须遵守下列规定：行经交叉路口、人行横道、漫水路、漫水桥等，不准超车。" id="113" imgName="" option="高架路@@交叉路口@@中心街道@@环城高速" question="驾驶机动车行经下列哪种路段时不得超车？" type="1"></exam>
+  <exam answer="4" answerDesc="按照规定窄桥、弯道是不可超车的。" id="114" imgName="" option="山区道路@@城市高架路@@城市快速路@@窄桥、弯道" question="驾驶机动车在下列哪种路段不得超车？" type="1"></exam>
+  <exam answer="4" answerDesc="高速上超车时候也尽量使用变换远、近光灯，变换远、近光灯是提醒前车的意思。" id="115" imgName="" option="关闭前大灯@@开启远光灯@@开启雾灯@@变换远、近光灯" question="驾驶机动车在夜间超车时怎样使用灯光？" type="1"></exam>
+  <exam answer="1" answerDesc="前车已经在超车了，为了安全不要再超了。" id="116" imgName="1369107890769.jpg" option="正确@@错误" question="遇到这种情况不能超车。" type="0"></exam>
+  <exam answer="1" answerDesc="这个没有问题。" id="117" imgName="" option="正确@@错误" question="驾驶机动车超车应该提前开启左转向灯、变换使用远近光灯或鸣喇叭。" type="0"></exam>
+  <exam answer="2" answerDesc="应该跟后车有了安全距离并且确保安全的情况下在开启右转向灯驶回原车道。" id="118" imgName="" option="正确@@错误" question="驾驶机动车超车后立即开启右转向灯驶回原车道。" type="0"></exam>
+  <exam answer="2" answerDesc="不要影响警察叔叔抓坏人。" id="119" imgName="1369107891065.jpg" option="正确@@错误" question="在道路上遇到这种情况可以从两侧超车。" type="0"></exam>
+  <exam answer="2" answerDesc="超车只能从左侧超车。" id="120" imgName="1369107891264.jpg" option="正确@@错误" question="遇到这种情况下可以从右侧超车。" type="0"></exam>
+  <exam answer="2" answerDesc="安全第一。" id="121" imgName="" option="正确@@错误" question="驾驶机动车行经城市没有列车通过的铁路道口时允许超车。" type="0"></exam>
+  <exam answer="1" answerDesc="隧道、陡坡等特殊路段路况那么复杂还超车，记住安全第一。" id="122" imgName="" option="正确@@错误" question="驾驶机动车在隧道、陡坡等特殊路段不得超车。" type="0"></exam>
+  <exam answer="1" answerDesc="人家已经在路上了，你在过去，谁都别走了。" id="123" imgName="1369107891540.jpg" option="停车让对方车辆通过@@开启左转向灯向左行驶@@开前照灯告知对方让行@@加速超越障碍后会车" question="遇到这种情形怎样行驶？" type="1"></exam>
+  <exam answer="1" answerDesc="山路狭窄，这种山路一般有在靠山体一侧挖个让车位，说白了就是加宽点用来会车用的，两车交会时靠山的开进去停住，不一定有落石的， 让不靠山体车先行，是不会开到路边去的，总不能不靠山的停下来，靠山的车转弯进去再转弯出来吧，这要加宽多长哦，这样子的话就不叫狭窄山路了。" id="124" imgName="" option="不靠山体的一方先行@@靠山体的一方先行@@重车让空车先行@@速度慢的先行" question="驾驶机动车在没有道路中心线的狭窄山路怎样会车？" type="1"></exam>
+  <exam answer="3" answerDesc="我们国家都是靠右行驶的，所以要尽快靠右避让。" id="125" imgName="" option="紧靠路边行驶@@靠路中心行驶@@减速靠右行驶@@借非机动车道行驶" question="驾驶机动车在没有中心线的道路上遇相对方向来车时怎样行驶？" type="1"></exam>
+  <exam answer="2" answerDesc="记住，只有在没有路灯或者没有照明的情况下才能用远光灯，一般都用近光灯。" id="126" imgName="" option="关闭所有灯光@@开启近光灯@@关闭前照灯@@开启远光灯" question="夜间驾驶机动车在窄路、窄桥会车怎样使用灯光？" type="1"></exam>
+  <exam answer="1" answerDesc="你要不过去大家都堵了。" id="127" imgName="1369107891879.jpg" option="正确@@错误" question="遇到这种情况可以优先通行。" type="0"></exam>
+  <exam answer="1" answerDesc="在狭窄的坡路，上坡的一方先行；但下坡的一方已行至中途而上坡的一方未上坡时，下坡的一方先行。由图可知下坡的一方行之中途而上坡的一方没有上坡时，下坡的一方先行！" id="128" imgName="1369107892061.jpg" option="正确@@错误" question="未上坡的车辆遇到这种情况让对向下坡车先行。" type="0"></exam>
+  <exam answer="2" answerDesc="记住，只有在没有路灯或者没有照明的情况下才能用远光灯，一般都用近光灯。" id="129" imgName="" option="正确@@错误" question="夜间驾驶机动车在窄路、窄桥会车时正确的做法是使用远光灯。" type="0"></exam>
+  <exam answer="3" answerDesc="这么多的人要减速慢行啊，安全第一。" id="130" imgName="1369107892279.jpg" option="保持速度通过@@鸣笛催促@@减速慢行@@加速通过" question="如何通过这种交叉路口？" type="1"></exam>
+  <exam answer="1" answerDesc="只有最左侧车道有左转的标志，按照标志行车没错。" id="131" imgName="1369107892489.jpg" option="最左侧车道@@中间车道@@不用变道@@最右侧车道" question="在这个路口左转弯选择哪条车道？" type="1"></exam>
+  <exam answer="2" answerDesc="这个是规定，左转要靠路口中心点左侧转弯。" id="132" imgName="1369107892674.jpg" option="靠路口中心点右侧转弯@@靠路口中心点左侧转弯@@骑路口中心点转弯@@不能左转弯" question="在这个路口怎样左转弯？" type="1"></exam>
+  <exam answer="1" answerDesc="和谐第一。" id="133" imgName="" option="依次停车等候@@鸣喇叭让前车让路@@从右侧占道转弯@@从前车左侧转弯" question="在路口右转弯遇同车道前车等候放行信号时如何行驶？" type="1"></exam>
+  <exam answer="4" answerDesc="人家都到路中间了，你还不让人间转完了。" id="134" imgName="1369107892936.jpg" option="直接向右转弯@@抢在对面车前右转弯@@鸣喇叭催促@@先让对面车左转弯" question="在这个路口右转弯如何通行？" type="1"></exam>
+  <exam answer="3" answerDesc="右方的车直行，左方的车左转，左转让直行。" id="135" imgName="1369107893121.jpg" option="开启危险报警闪光灯通行@@直接加速直行通过@@让右方道路车辆先行@@让左方道路车辆先行" question="在路口直行时,遇这种情形如何通行？" type="1"></exam>
+  <exam answer="1" answerDesc="减速慢行并且观察路况，搞不好哪里飞出辆车来。" id="136" imgName="" option="减速慢行@@加速通过@@大型车先行@@左侧车辆先行" question="驾驶机动车通过没有交通信号的交叉路口怎样行驶？" type="1"></exam>
+  <exam answer="3" answerDesc="别跟火车过意不去，停车确认安全后在通过。" id="137" imgName="" option="适当减速通过@@空挡滑行通过@@停车确认安全后通过@@加速尽快通过" question="驾驶机动车通过没有交通信号和管理人员的铁路道口怎样通过？" type="1"></exam>
+  <exam answer="1" answerDesc="这个最基本的，没什么解释的。" id="138" imgName="" option="正确@@错误" question="驾驶机动车通过交叉路口要遵守交通信号。" type="0"></exam>
+  <exam answer="2" answerDesc="一定要注意观察，在通过啊，哪能尽快通过。" id="139" imgName="" option="正确@@错误" question="驾驶机动车在没有交通信号的路口要尽快通过。" type="0"></exam>
+  <exam answer="2" answerDesc="前边是火车道啊，一定要观察后在慢慢的通过" id="140" imgName="1369107893461.jpg" option="正确@@错误" question="在这种情况的铁路道口要加速通过。" type="0"></exam>
+  <exam answer="1" answerDesc="是正确的，你看到火车的标志没，你要没停车观察，万一火车开过来肿么办。" id="141" imgName="1369107893676.jpg" option="正确@@错误" question="行至这种情况的铁路道口要停车观察。" type="0"></exam>
+  <exam answer="1" answerDesc="左转让直行。" id="142" imgName="1369107893903.jpg" option="正确@@错误" question="在这种情况的交叉路口转弯要让直行车先行。" type="0"></exam>
+  <exam answer="1" answerDesc="右转让左转，没有问题。" id="143" imgName="1369107894117.jpg" option="正确@@错误" question="在交叉路口遇到这种情况享有优先通行权。" type="0"></exam>
+  <exam answer="2" answerDesc="右转让左转。" id="144" imgName="1369107894313.jpg" option="正确@@错误" question="在交叉路口遇到这种情况享有优先通行权。" type="0"></exam>
+  <exam answer="3" answerDesc="大家都排队你凭什么不排队。" id="145" imgName="1369107894487.jpg" option="从左侧跨越实线超越@@从两侧随意超越@@依次排队等候@@从右侧借道超越" question="遇有这种排队等候的情形怎么做？" type="1"></exam>
+  <exam answer="1" answerDesc="请选最和谐的答案。" id="146" imgName="1369107894734.jpg" option="依次排队行驶@@占对向车道超越@@从右侧借道超越@@从两侧随意超越" question="遇到前方车辆缓慢行驶时怎样行驶？" type="1"></exam>
+  <exam answer="2" answerDesc="首先看前边是已经堵车了（请仔细看图片，前边不只一辆车），你若跟过去只能停在网状线区域，但是规定网状线区域是禁止停车的，所以虽然是绿灯那也得停在路口以外等待。" id="147" imgName="1369107894928.jpg" option="停在网状线区域内等待@@停在路口以外等待@@跟随前车通过路口@@停在路口内等待" question="在路口遇到这种情形时怎样做？" type="1"></exam>
+  <exam answer="3" answerDesc="永远选最和谐的答案。" id="148" imgName="" option="从前车右侧路肩进入路口@@从有空隙一侧进入路口@@每车道一辆依次交替驶入路口@@向左变道穿插进入路口" question="驾驶机动车在车道减少的路口，遇到前方车辆依次停车或缓慢行驶时怎么办？" type="1"></exam>
+  <exam answer="3" answerDesc="肯定不能占用对面车道，大家排队吧，不要做让别人讨厌的事。" id="149" imgName="" option="可借道超车@@占用对面车道@@依次行驶@@穿插等候的车辆" question="驾驶机动车遇到前方车辆停车排队等候或缓慢行驶时怎么办？" type="1"></exam>
+  <exam answer="2" answerDesc="只有B最和谐。" id="150" imgName="" option="可借对向车道通过@@依次停在路口外等候@@从前车两侧穿插通过@@进入路口内等候" question="驾驶机动车遇有前方交叉路口交通阻塞时怎么办？" type="1"></exam>
+  <exam answer="1" answerDesc="这个没问题。" id="151" imgName="" option="正确@@错误" question="驾驶机动车在没有交通信号的路口遇到前方车辆缓慢行驶时要依次交替通行。" type="0"></exam>
+  <exam answer="2" answerDesc="礼貌让行，不然出事故更麻烦。" id="152" imgName="1369107895563.jpg" option="正确@@错误" question="遇到这种情况时，要加速从红车前变更车道。" type="0"></exam>
+  <exam answer="2" answerDesc="黄灯亮了，车身没过白线，请停车等待。" id="153" imgName="1369107895789.jpg" option="正确@@错误" question="在交叉路口遇到这种情况时，要在红灯亮以前加速通过路口。" type="0"></exam>
+  <exam answer="2" answerDesc="网状线区域是禁止停车的。" id="154" imgName="1369107896008.jpg" option="正确@@错误" question="遇到这种情况的路段，可以进入网状线区域内停车等候。" type="0"></exam>
+  <exam answer="1" answerDesc="人家人行横道你还停。" id="155" imgName="1369107896227.jpg" option="正确@@错误" question="这辆小轿车不能在这个位置停车。" type="0"></exam>
+  <exam answer="3" answerDesc="遇到漫水桥首先观察情况。" id="156" imgName="1369107896471.jpg" option="保持匀速通过@@尽快加速通过@@停车察明水情@@低速缓慢通过" question="驾驶机动车遇到这种桥时首先怎样办？" type="1"></exam>
+  <exam answer="2" answerDesc="要先观察水深情况。" id="157" imgName="" option="正确@@错误" question="驾驶机动车通过漫水路时要加速行驶。" type="0"></exam>
+  <exam answer="1" answerDesc="这个是对的因为不知道水深，小心盲目的冲过去，然后汽车飘起来。" id="158" imgName="" option="正确@@错误" question="驾驶机动车遇到漫水桥时要察明水情确认安全后再低速通过。" type="0"></exam>
+  <exam answer="1" answerDesc="以人为本，没有问题。" id="159" imgName="1369107896798.jpg" option="停车让行人先行@@从行人前方绕行@@鸣喇叭提醒行人@@从行人后方绕行" question="遇到这种情形时，应怎么办？" type="1"></exam>
+  <exam answer="2" answerDesc="要减速通过，看到那个白色的菱形没，那是人行横道预告，所以要减速防止撞到行人。" id="160" imgName="1369107897021.jpg" option="正确@@错误" question="行经这种交通标线的路段要加速行驶。" type="0"></exam>
+  <exam answer="1" answerDesc="答题以人为本，此题正确。" id="161" imgName="1369107897232.jpg" option="正确@@错误" question="遇到这种情形时要停车避让行人。" type="0"></exam>
+  <exam answer="1" answerDesc="从中心线虚线处是可以掉头的，其他的选项都不对。" id="162" imgName="1369107897462.jpg" option="从中心线虚线处掉头@@从右侧车道掉头@@进入路口后掉头@@在人行横道上掉头" question="在这种路口怎样进行掉头？" type="1"></exam>
+  <exam answer="2" answerDesc="此处有禁止掉头的标志，所以是不可以掉头的。" id="163" imgName="1369107897713.jpg" option="沿左侧车道掉头@@该路口不能掉头@@选择中间车道掉头@@在路口内掉头" question="遇到这种情况的路口，以下做法正确的是什么？" type="1"></exam>
+  <exam answer="2" answerDesc="都禁止左转了，你还掉什么头啊亲。" id="164" imgName="1369107897896.jpg" option="正确@@错误" question="在这个路口可以掉头。" type="0"></exam>
+  <exam answer="2" answerDesc="此处可以掉头有掉头的标志，还有黄色的虚线。" id="165" imgName="1369107898157.jpg" option="正确@@错误" question="在这个路口不能掉头。" type="0"></exam>
+  <exam answer="1" answerDesc="黄色实线是不可以压的，况且是弯道不能掉头。" id="166" imgName="1369107898370.jpg" option="正确@@错误" question="在这段道路上不能掉头。" type="0"></exam>
+  <exam answer="1" answerDesc="《中华人民共和国道路交通安全法实施条例》第四十九条第一款“机动车在有禁止掉头或者禁止左转弯标志、标线的地点以及在铁路道口、人行横道、桥梁、急弯、陡坡、隧道或者容易发生危险的路段,不得掉头。”" id="167" imgName="" option="正确@@错误" question="驾驶机动车在铁路道口、桥梁、陡坡、隧道或者容易发生危险的路段不能掉头。" type="0"></exam>
+  <exam answer="1" answerDesc="黄色虚线，是可以掉头的，如果是实线就不可以了。" id="168" imgName="1369107898586.jpg" option="正确@@错误" question="在这段道路上，只要不影响其他车辆通行的前提下可以掉头。" type="0"></exam>
+  <exam answer="3" answerDesc="这个妹子没系安全带。" id="169" imgName="1369107898802.jpg" option="没按规定握转向盘@@座椅角度不对@@没系安全带@@驾驶姿势不正确" question="这位驾驶人违反法律规定的行为是什么？" type="1"></exam>
+  <exam answer="1" answerDesc="这个没问题，都得系安全带。" id="170" imgName="" option="正确@@错误" question="驾驶机动车在上道路行驶前驾驶人要按规定系好安全带。" type="0"></exam>
+  <exam answer="2" answerDesc="系安全带分什么前排后排，都得系。" id="171" imgName="" option="正确@@错误" question="机动车上路行驶时，前排乘车人可不系安全带。" type="0"></exam>
+  <exam answer="2" answerDesc="当然不是，儿童的体格比我们大人差远了所以儿童更应该使用安全带，有孩子的朋友一定要买儿童安全座椅，不然出事哭都来不及。" id="172" imgName="" option="正确@@错误" question="机动车行驶中，车上少年儿童可不使用安全带。" type="0"></exam>
+  <exam answer="4" answerDesc="没有看到警告标志，所以D选项是对的。" id="173" imgName="1369107899068.jpg" option="没有开启危险报警闪光灯@@没有将车停到路边@@没有立即排除故障@@没有设置警告标志" question="找出这辆故障车有哪种违法行为？" type="1"></exam>
+  <exam answer="2" answerDesc="只有B最合理，首先应该是不妨碍交通的地方，放在路中间，搞不好后边的看不到撞上来。" id="174" imgName="" option="将车停在道路中间@@将车停到不妨碍交通的地方@@开启近光灯或雾灯@@就地停车排除故障" question="机动车在道路上发生故障，需要停车排除时，驾驶人应该怎么办？" type="1"></exam>
+  <exam answer="1" answerDesc="机动车在道路上发生故障，难以移动时应该立即把车上的人疏散到安全栏外，开启危险报警闪光灯，在车的后方设置警告标志。" id="175" imgName="" option="开启危险报警闪光灯@@开启车上所有灯光@@禁止车上人员下车@@在车前方设置警告标志" question="机动车在道路上发生故障，难以移动时下列做法正确的是什么？" type="1"></exam>
+  <exam answer="2" answerDesc="警告标志设置的太近了，应该在150米处设置。" id="176" imgName="1369107899322.jpg" option="正确@@错误" question="这辆停在路边的机动车没有违法行为。" type="0"></exam>
+  <exam answer="2" answerDesc="机动车在道路上发生故障或者发生交通事故，妨碍交通又难以移动的，应当按照规定开启危险报警闪光灯并在车后50米至100米处设置警告标志，夜间还应当同时开启示廓灯和后位灯。 所以不是在50米内，应该是50米以外100米内。扩展提示：记不记得在高速公路上要在车后150米外设置警告标志。" id="177" imgName="" option="正确@@错误" question="机动车在道路上发生故障难以移动时要在车后50米以内设置警告标志。" type="0"></exam>
+  <exam answer="2" answerDesc="机动车在道路上发生轻微交通事故就赶紧协商一下花不了几百块，不要挡着路了就，不然大家都过不去堵在一起了。" id="178" imgName="" option="正确@@错误" question="机动车在道路上发生轻微交通事故且妨碍交通时，不需移动。" type="0"></exam>
+  <exam answer="1" answerDesc="这个没有问题，危险报警闪光灯、示廓灯、后位灯都是为了晚上提示周围的车你的位置，以防发生碰撞和刮蹭。" id="179" imgName="" option="正确@@错误" question="机动车在夜间道路上发生故障难以移动时要开启危险报警闪光灯、示廓灯、后位灯。" type="0"></exam>
+  <exam answer="2" answerDesc="警察叔叔在执行公务，我们应该礼让。" id="180" imgName="1369107899659.jpg" option="正常行驶@@及时让行@@开启危险报警闪光灯行驶@@不得变更车道" question="在这种情形中前车怎样行驶？" type="1"></exam>
+  <exam answer="1" answerDesc="看题干，都说是执行紧急任务了，当然是应当让行啦！" id="181" imgName="" option="正确@@错误" question="行车中遇到执行紧急任务的消防车、救护车、工程救险车时要及时让行。" type="0"></exam>
+  <exam answer="1" answerDesc="他在为人民服务，我们还是要让一让的。" id="182" imgName="" option="正确@@错误" question="行车中遇到正在进行作业的道路养护车辆、工程作业车时要注意避让。" type="0"></exam>
+  <exam answer="3" answerDesc="图中右侧路边是黄色的禁止停车标线，所以此处是不能停车的。" id="183" imgName="1369107899914.jpg" option="停车占用机动车道@@距离路边超过30厘米@@在有禁停标线路段停车@@在非机动车道停车" question="这样在路边临时停放机动车有什么违法行为？" type="1"></exam>
+  <exam answer="2" answerDesc="只有停车泊位是可以停放的。" id="184" imgName="" option="靠左侧路边逆向停放@@在停车泊位内停放@@在路边随意停放@@在人行道上停放" question="驾驶机动车需要在路边停车时怎样选择停车地点？" type="1"></exam>
+  <exam answer="1" answerDesc="图中汽车停在人行横道。规定是：在设有禁停标志、标线的路段，在机动车道与非机动车道、人行道之间设有隔离设施的路段以及人行横道、施工地段，不得停车；" id="185" imgName="1369107900141.jpg" option="在人行横道上停车@@距离路边超过30厘米@@在有禁停标线路段停车@@在非机动车道停车" question="这样在路边临时停放机动车有什么违法行为？" type="1"></exam>
+  <exam answer="3" answerDesc="图为加油站，规定加油站50米内不得停车。公共汽车站、急救站、加油站、消防栓或者消防队（站）门前以及距离上述地点３０米以内的路段，除使用上述设施的以外，不得停车；" id="186" imgName="1369107900317.jpg" option="距离路边超过30厘米@@在有禁停标线路段停车@@距离加油站不到30米@@停车占用非机动车道" question="这样临时停放红色轿车有什么违法行为？" type="1"></exam>
+  <exam answer="3" answerDesc="图为公共汽车站。公共汽车站、急救站、加油站、消防栓或者消防队（站）门前以及距离上述地点３０米以内的路段，除使用上述设施的以外，不得停车。" id="187" imgName="1369107900551.jpg" option="在非机动车道停车@@在有禁停标志路段停车@@在公共汽车站停车@@停车占用人行道" question="这样停放机动车什么违法行为？" type="1"></exam>
+  <exam answer="3" answerDesc="图片为急弯路。《中华人民共和国道路交通安全法实施条例》第六十三条 机动车在道路上临时停车，应当遵守下列规定：　　（二）交叉路口、铁路道口、急弯路、宽度不足４米的窄路、桥梁、陡坡、隧道以及距离上述地点５０米以内的路段，不得停车。" id="188" imgName="1369107900730.jpg" option="5米以内@@10米以内@@50米以内@@30米以内" question="在距这段路多少米以内的路段不能停放机动车？" type="1"></exam>
+  <exam answer="1" answerDesc="和谐第一，这个错了不应该了亲。" id="189" imgName="" option="正确@@错误" question="在道路上临时停车不得妨碍其他车辆和行人通行。" type="0"></exam>
+  <exam answer="2" answerDesc="这个当然是不可以的，人行横道禁止停车。" id="190" imgName="" option="正确@@错误" question="驾驶机动车找不到停车位时可以借人行道停放。" type="0"></exam>
+  <exam answer="1" answerDesc="《中华人民共和国道路交通安全法实施条例》第六十三条 机动车在道路上临时停车，应当遵守下列规定：（二）交叉路口、铁路道口、急弯路、宽度不足４米的窄路、桥梁、陡坡、隧道以及距离上述地点５０米以内的路段，不得停车。" id="191" imgName="" option="正确@@错误" question="距离交叉路口50米以内的路段不能停车。" type="0"></exam>
+  <exam answer="2" answerDesc="这个是非机动车道，当然不能占道，不然人家骑车的怎么过去。" id="192" imgName="1369107901030.jpg" option="正确@@错误" question="这个路段可以在非机动车道上临时停车。" type="0"></exam>
+  <exam answer="1" answerDesc="《中华人民共和国道路交通安全法实施条例》第六十三条 机动车在道路上临时停车，应当遵守下列规定：　　（三）公共汽车站、急救站、加油站、消防栓或者消防队（站）门前以及距离上述地点３０米以内的路段，除使用上述设施的以外，不得停车；" id="193" imgName="" option="正确@@错误" question="社会车辆距离消防栓或者消防队(站)门前30米以内的路段不能停车。" type="0"></exam>
+  <exam answer="1" answerDesc="《中华人民共和国道路交通安全法实施条例》第六十三条 机动车在道路上临时停车，应当遵守下列规定：　　（二）交叉路口、铁路道口、急弯路、宽度不足４米的窄路、桥梁、陡坡、隧道以及距离上述地点５０米以内的路段，不得停车；" id="194" imgName="" option="正确@@错误" question="距离桥梁、陡坡、隧道50米以内的路段不能停车。" type="0"></exam>
+  <exam answer="1" answerDesc="《中华人民共和国道路交通安全法实施条例》第六十三条 机动车在道路上临时停车，应当遵守下列规定：　　（二）交叉路口、铁路道口、急弯路、宽度不足４米的窄路、桥梁、陡坡、隧道以及距离上述地点５０米以内的路段，不得停车；" id="195" imgName="" option="正确@@错误" question="距离宽度不足4米的窄路50米以内的路段不能停车。" type="0"></exam>
+  <exam answer="1" answerDesc="安全第一。" id="196" imgName="" option="正确@@错误" question="机动车停稳前不能开车门和上下人员。" type="0"></exam>
+  <exam answer="1" answerDesc="这个没有问题。" id="197" imgName="" option="正确@@错误" question="打开机动车车门时，不得妨碍其他车辆和行人通行。" type="0"></exam>
+  <exam answer="4" answerDesc="那个120的牌子就是最高车速限制。" id="198" imgName="1369107901418.jpg" option="60公里/小时@@90公里/小时@@100公里/小时@@120公里/小时" question="在这段高速公路上行驶的最高车速是多少？" type="1"></exam>
+  <exam answer="3" answerDesc="图片上那个蓝色的牌子60就是最低车速。" id="199" imgName="1369107901633.jpg" option="100公里/小时@@80公里/小时@@60公里/小时@@50公里/小时" question="在这段高速公路上行驶的最低车速是多少？" type="1"></exam>
+  <exam answer="3" answerDesc="高速路同方向有2条车道，左侧车的速度范围为100公里到120公里，右侧车的速度范围为60公里到100公里。" id="200" imgName="1369107901885.jpg" option="60公里/小时@@90公里/小时@@100公里/小时@@110公里/小时" question="在这条车道行驶的最低车速是多少？" type="1"></exam>
+  <exam answer="4" answerDesc="高速路同方向有3条车道，最左侧的为110公里到120公里，中间的为90公里到110公里，最右侧的速度范围为60公里到90公里。" id="201" imgName="1369107902113.jpg" option="100公里/小时@@110公里/小时@@60公里/小时@@90公里/小时" question="在这条车道行驶的最低车速是多少？" type="1"></exam>
+  <exam answer="2" answerDesc="右边那个牌子就是告诉你最高时速是90公里/小时，安标志行驶。" id="202" imgName="1369107902315.jpg" option="100公里/小时@@90公里/小时@@120公里/小时@@110公里/小时" question="在这条车道行驶的最高车速是多少？" type="1"></exam>
+  <exam answer="2" answerDesc="不对，每条车道的最低车速是不一样的，不是统一的最低90公里/小时" id="203" imgName="" option="正确@@错误" question="驾驶小型载客汽车在高速公路行驶的最低车速为90公里/小时。" type="0"></exam>
+  <exam answer="1" answerDesc="是的，否则超速的后果很严重，在高速公路上超速不足50%的,按照以下第九十条处罚,罚款20到200元(记3分).超速50%以上的(记6分),处二百元以上二千元以下罚款,并处吊销机动车驾驶证." id="204" imgName="" option="正确@@错误" question="驾驶机动车在高速公路要按照限速标志标明的车速行驶。" type="0"></exam>
+  <exam answer="2" answerDesc="因为你要从直行并入左侧的车道所以要开启左转向灯。" id="205" imgName="1369107902584.jpg" option="开启右转向灯@@开启左转向灯@@开启危险报警闪光灯@@开启前照灯" question="在这个位置时怎样使用灯光？" type="1"></exam>
+  <exam answer="4" answerDesc="因为你要先进入减速车道，所以要打开右转向进入减速车道。" id="206" imgName="1369107902851.jpg" option="开启危险报警闪光灯@@开启前照灯@@开启左转向灯@@开启右转向灯" question="进入减速车道时怎样使用灯光？" type="1"></exam>
+  <exam answer="3" answerDesc="规定，记住吧。" id="207" imgName="" option="保持50米以上@@保持60米以上@@保持100米以上@@保持80米以上" question="驾驶小型载客汽车在高速公路上时速超过100公里时的跟车距离是多少？" type="1"></exam>
+  <exam answer="3" answerDesc="规定，记住吧。" id="208" imgName="" option="不得少于20米@@不得少于10米@@不得少于50米@@不得少于30米" question="驾驶小型载客汽车在高速公路上时速低于100公里时的最小跟车距离是多少？" type="1"></exam>
+  <exam answer="3" answerDesc="规定，记住吧。" id="209" imgName="" option="不得超过100公里/小时@@不得超过90公里/小时@@不得超过60公里/小时@@不得超过80公里/小时" question="驾驶机动车在高速公路遇到能见度低于200米的气象条件时，最高车速是多少？" type="1"></exam>
+  <exam answer="1" answerDesc="这是规定，没什么好解释的。" id="210" imgName="" option="不得超过40公里/小时@@不得超过60公里/小时@@不得超过80公里/小时@@不得超过90公里/小时" question="驾驶机动车在高速公路遇到能见度低于100米的气象条件时，最高车速是多少？" type="1"></exam>
+  <exam answer="2" answerDesc="能见度只有50米，尽快驶离高速，连50米都看不到说明太危险了。" id="211" imgName="" option="进入应急车道行驶@@尽快驶离高速公路@@尽快在路边停车@@在路肩低速行驶" question="驾驶机动车在高速公路遇到能见度低于50米的气象条件时，车速不得超过20公里/小时，还应怎么做？" type="1"></exam>
+  <exam answer="1" answerDesc="下一步肯定是驶入减速车道，在减速，再驶离高速。" id="212" imgName="1369107903277.jpg" option="驶入减速车道@@继续向前行驶@@车速保持100公里/小时@@车速降到40公里/小时以下" question="驾驶机动车驶离高速公路时，在这个位置怎样行驶？" type="1"></exam>
+  <exam answer="2" answerDesc="应该按照标线行驶，不要乱开。" id="213" imgName="1369107903506.jpg" option="正确@@错误" question="可以从这个位置直接驶入高速公路行车道。" type="0"></exam>
+  <exam answer="2" answerDesc="不能压实线直接过去的啊，应该提前换到驶离的车道，在进入匝道。" id="214" imgName="1369107903686.jpg" option="正确@@错误" question="驶离高速公路可以从这个位置直接驶入匝道。" type="0"></exam>
+  <exam answer="2" answerDesc="此车压实线，不按标线要求行车。" id="215" imgName="1369107903913.jpg" option="正确@@错误" question="这辆小型载客汽车进入高速公路行车道的行为是正确的。" type="0"></exam>
+  <exam answer="1" answerDesc="这个车是按规定驶离高速的，没有问题。" id="216" imgName="1369107904114.jpg" option="正确@@错误" question="这辆小型载客汽车驶离高速公路行车道的方法是正确的。" type="0"></exam>
+  <exam answer="1" answerDesc="请看清道路，高速公路是150米是最佳距离，普通道路是50-100米。" id="217" imgName="1369107904300.jpg" option="150米以外@@50～150米@@50米以内@@50～100米" question="这辆在高速公路上临时停放的故障车，警告标志应该设置在车后多远处？" type="1"></exam>
+  <exam answer="2" answerDesc="车上的人员应该立即撤到安全栏外。" id="218" imgName="" option="按规定设置警告标志@@车上人员不能下车@@迅速报警@@开启危险报警闪光灯" question="机动车在高速公路上发生故障时错误的做法是什么？" type="1"></exam>
+  <exam answer="4" answerDesc="应该有专门的清障车来拖拽和牵引。" id="219" imgName="" option="过路车@@大客车@@同行车@@清障车" question="机动车在高速公路上发生故障或交通事故无法正常行驶时由什么车拖曳或牵引？" type="1"></exam>
+  <exam answer="2" answerDesc="请看清道路，高速公路是150米是最佳距离，普通道路是50-100米。" id="220" imgName="" option="正确@@错误" question="机动车在高速公路上发生故障时，在来车方向50至100米处设置警告标志。" type="0"></exam>
+  <exam answer="1" answerDesc="一定要移到里边，放着车道上太危险。" id="221" imgName="" option="正确@@错误" question="机动车在高速公路上发生故障时，将车上人员迅速转移到右侧路肩上或者应急车道内，并且迅速报警。" type="0"></exam>
+  <exam answer="1" answerDesc="这个没有问题。" id="222" imgName="" option="正确@@错误" question="机动车在高速公路上发生交通事故无法正常行驶时，用救援车、清障车拖曳、牵引。" type="0"></exam>
+  <exam answer="3" answerDesc="在道路上发生未造成人员伤亡且无争议的就赶紧闪开吧，别堵路了。" id="223" imgName="" option="不要移动车辆@@疏导其他车辆绕行@@撤离现场自行协商@@保护好现场再协商" question="在道路上发生未造成人员伤亡且无争议的轻微交通事故如何处置？" type="1"></exam>
+  <exam answer="2" answerDesc="要先判断事故责任，双方无争议后将车移动到路边。" id="224" imgName="" option="正确@@错误" question="驾驶机动车在道路上发生交通事故要立即将车移到路边。" type="0"></exam>
+  <exam answer="1" answerDesc="对的，要留下证据。" id="225" imgName="" option="正确@@错误" question="驾驶人在发生交通事故后因抢救伤员变动现场时要标明位置。" type="0"></exam>
+  <exam answer="1" answerDesc="这个没问题，很和谐。" id="226" imgName="" option="正确@@错误" question="在道路上发生交通事故造成人身伤亡时，要立即抢救受伤人员并迅速报警。" type="0"></exam>
+  <exam answer="4" answerDesc="规定的4小时以上是疲劳驾驶。" id="227" imgName="" option="6小时@@8小时@@10小时@@4小时" question="驾驶人连续驾驶不得超过多长时间？" type="1"></exam>
+  <exam answer="3" answerDesc="《中华人民共和国道路交通安全法实施条例》第六十二条 驾驶机动车不得有下列行为：　　（七）连续驾驶机动车超过４小时未停车休息或者停车休息时间少于２０分钟； " id="228" imgName="" option="10分钟@@15分钟@@20分钟@@5分钟" question="驾驶人连续驾驶4小时以上，停车休息的时间不得少于多少？" type="1"></exam>
+  <exam answer="1" answerDesc="空挡滑行只能用刹车系统减速，如果不用发动机制动控制车速会让刹车片过热使得刹车失灵，所以是危险行为。" id="229" imgName="" option="空挡滑行@@低挡行驶@@制动减速@@提前减挡" question="驾驶机动车下陡坡时不得有哪些危险行为？" type="1"></exam>
+  <exam answer="2" answerDesc="右侧的标志明显是禁止鸣喇叭。" id="230" imgName="1369107904957.jpg" option="正确@@错误" question="在这段道路上一定要减少鸣喇叭的频率。" type="0"></exam>
+  <exam answer="1" answerDesc="安全第一。" id="231" imgName="" option="正确@@错误" question="在车门、车厢没有关好时不要驾驶机动车起步。" type="0"></exam>
+  <exam answer="1" answerDesc="视线是咱开车的第一位的。" id="232" imgName="" option="正确@@错误" question="不要在驾驶室的前后窗范围内悬挂和放置妨碍驾驶人视线的物品。" type="0"></exam>
+  <exam answer="2" answerDesc="当然不可以，开车是一个注意力极为集中的工作，出错就是人命。" id="233" imgName="" option="正确@@错误" question="行车中在道路情况良好的条件下可以观看车载视频。" type="0"></exam>
+  <exam answer="2" answerDesc="当然不行，一定要用着火并且挂着档下陡坡。" id="234" imgName="" option="正确@@错误" question="驾驶小型汽车下陡坡时允许熄火滑行。" type="0"></exam>
+  <exam answer="2" answerDesc="不要影响其他人在道路上正常驾驶么。" id="235" imgName="" option="正确@@错误" question="驾驶机动车时可以向道路上抛撒物品。" type="0"></exam>
+  <exam answer="1" answerDesc="第一百三十三条　违反交通运输管理法规，因而发生重大事故，致人重伤、死亡或者使公私财产遭受重大损失的，处三年以下有期徒刑或者拘役；" id="236" imgName="" option="正确@@错误" question="驾驶人违反交通运输管理法规发生重大事故致人重伤的可能判处3年以下徒刑或拘役。" type="0"></exam>
+  <exam answer="2" answerDesc="第一百三十三条　违反交通运输管理法规，因而发生重大事故，致人重伤、死亡或者使公私财产遭受重大损失的，处三年以下有期徒刑或者拘役；别逃，一逃就是3年以上了，如果因为你的逃导致人死亡了，7年以上。" id="237" imgName="" option="正确@@错误" question="驾驶人违反交通运输管理法规发生重大事故致人死亡的处3年以上有期徒刑。" type="0"></exam>
+  <exam answer="1" answerDesc="朋友，要安全驾驶啊。" id="238" imgName="" option="正确@@错误" question="驾驶人违反交通运输管理法规发生重大事故使公私财产遭受重大损失的可能处3年以下徒刑或拘役。" type="0"></exam>
+  <exam answer="3" answerDesc="因为逃逸致死亡的才是7年以上，致人死亡且逃逸的是3年以上7年以下。" id="239" imgName="" option="7年以上@@3年以下@@3年以上7年以下@@10年以上" question="驾驶人违反交通运输管理法规发生重大事故致人死亡且逃逸的，处多少年有期徒刑？" type="1"></exam>
+  <exam answer="4" answerDesc="要看清题目致人死亡的是不是因为逃逸造成的，如果是那就是7年以上。" id="240" imgName="" option="2年以下@@3年以下@@7年以下@@7年以上" question="驾驶人违反交通运输管理法规发生重大事故后，因逃逸致人死亡的，处多少年有期徒刑？" type="1"></exam>
+  <exam answer="2" answerDesc="应该是处以3年以上7年以下有期徒刑。" id="241" imgName="" option="正确@@错误" question="驾驶人违反交通运输管理法规发生重大事故后，逃逸或者有其他特别恶劣情节的，处7年以上有期徒刑。" type="0"></exam>
+  <exam answer="2" answerDesc="看清题目是因逃逸致人死亡的，不是先死亡再逃逸的，所以应该是7年以上。" id="242" imgName="" option="正确@@错误" question="驾驶人违反交通运输管理法规发生重大事故后，因逃逸致人死亡的，处3年以上7年以下有期徒刑。" type="0"></exam>
+  <exam answer="4" answerDesc="2011年《中华人民共和国刑法修正案（八）》第二十二条：在刑法第一百三十三条后增加一条，作为第一百三十三条之一：“在道路上驾驶机动车追逐竞驶，情节恶劣的，或者在道路上醉酒驾驶机动车的，处拘役，并处罚金。”" id="243" imgName="" option="处6个月徒刑@@处1年以上徒刑@@处管制，并处罚金@@处拘役，并处罚金" question="驾驶机动车在道路上追逐竞驶，情节恶劣，会受到什么处罚？" type="1"></exam>
+  <exam answer="2" answerDesc="2011年《中华人民共和国刑法修正案（八）》第二十二条：在刑法第一百三十三条后增加一条，作为第一百三十三条之一：“在道路上驾驶机动车追逐竞驶，情节恶劣的，或者在道路上醉酒驾驶机动车的，处拘役，并处罚金。”不至于处3年以下有期徒刑。" id="244" imgName="" option="正确@@错误" question="驾驶人在道路上驾驶机动车追逐竞驶，情节恶劣的处3年以下有期徒刑。" type="0"></exam>
+  <exam answer="3" answerDesc="醉酒驾驶，由公安机关约束至酒醒。吊销机驾驶证，依法追究刑事责任，5年内不得重新取得驾驶证。" id="245" imgName="" option="处管制，并处罚金@@处2年以上徒刑@@处拘役，并处罚金@@处2年以下徒刑" question="醉酒驾驶机动车在道路上行驶会受到什么处罚？" type="1"></exam>
+  <exam answer="2" answerDesc="醉酒驾驶，由公安机关约束至酒醒。吊销机驾驶证，依法追究刑事责任，5年内不得重新取得驾驶证。" id="246" imgName="" option="正确@@错误" question="驾驶人在道路上醉酒驾驶机动车的处3年以上有期徒刑。" type="0"></exam>
+  <exam answer="1" answerDesc="未放置检验合格标志，未悬挂机动车号牌，未放置保险标志的，未携带机动车行驶证的都是可依法扣留车辆的。" id="247" imgName="" option="未悬挂机动车号牌@@未携带身份证@@未携带保险合同@@未放置城市环保标志" question="上道路行驶的机动车有哪种情形交通警察可依法扣留车辆？" type="1"></exam>
+  <exam answer="1" answerDesc="未放置检验合格标志，未悬挂机动车号牌，未放置保险标志的，未携带机动车行驶证的都是可依法扣留车辆的。" id="248" imgName="" option="未放置检验合格标志@@未携带身份证@@未放置城市环保标志@@未携带机动车登记证书" question="上道路行驶的机动车有哪种情形交通警察可依法扣留车辆？" type="1"></exam>
+  <exam answer="4" answerDesc="未放置检验合格标志，未悬挂机动车号牌，未放置保险标志的，未携带机动车行驶证的都是可依法扣留车辆的。" id="249" imgName="" option="未携带机动车登记证书@@未携带保险合同@@未放置城市环保标志@@未放置保险标志" question="上道路行驶的机动车有哪种情形交通警察可依法扣留车辆？" type="1"></exam>
+  <exam answer="1" answerDesc="《道路交通安全违法行为处理程序规定》第十三条 “有下列情形之一的，因无其他机动车驾驶人代替驾驶、违法行为尚未消除、需要调查或者证据保全等原因不能立即放行的，可以扣留车辆：    （一）未悬挂机动车号牌，未放置检验合格标志、保险标志，或者未携带行驶证、机动车驾驶证的；" id="250" imgName="" option="机动车驾驶证@@居民身份证@@机动车通行证@@从业资格证" question="驾驶人未携带哪种证件驾驶机动车上路，交通警察可依法扣留车辆？" type="1"></exam>
+  <exam answer="1" answerDesc="《道路交通安全违法行为处理程序规定》第十三条 “有下列情形之一的，因无其他机动车驾驶人代替驾驶、违法行为尚未消除、需要调查或者证据保全等原因不能立即放行的，可以扣留车辆：    （一）未悬挂机动车号牌，未放置检验合格标志、保险标志，或者未携带行驶证、机动车驾驶证的；" id="251" imgName="" option="机动车行驶证@@从业资格证@@居民身份证@@机动车通行证" question="驾驶人未携带哪种证件驾驶机动车上路，交通警察可依法扣留车辆？" type="1"></exam>
+  <exam answer="1" answerDesc="没有问题。" id="252" imgName="" option="正确@@错误" question="对未放置检验合格标志上道路行驶的车辆，交通警察可依法予以扣留。" type="0"></exam>
+  <exam answer="2" answerDesc="应该是扣留车辆，不是扣留行驶证。" id="253" imgName="" option="正确@@错误" question="交通警察对未放置保险标志上道路行驶的车辆可依法扣留行驶证。" type="0"></exam>
+  <exam answer="1" answerDesc="这个没有问题。" id="254" imgName="" option="正确@@错误" question="对有伪造或变造号牌、行驶证嫌疑的车辆，交通警察可依法予以扣留" type="0"></exam>
+  <exam answer="2" answerDesc="交警要扣留车的。" id="255" imgName="" option="正确@@错误" question="对有使用伪造或变造检验合格标志嫌疑的车辆，交通警察只进行罚款处罚。" type="0"></exam>
+  <exam answer="1" answerDesc="一定得号牌和行驶证等对上，这个很重要，这样才好查你的信息，不然都乱掉了。" id="256" imgName="" option="正确@@错误" question="对使用其他车辆号牌、行驶证的车辆，交通警察可依法予以扣留。" type="0"></exam>
+  <exam answer="1" answerDesc="强制险是必须交的。" id="257" imgName="" option="正确@@错误" question="对未按照国家规定投保交强险的车辆，交通警察可依法予以扣留。" type="0"></exam>
+  <exam answer="1" answerDesc="警察叔叔是有这个权利滴。" id="258" imgName="" option="正确@@错误" question="对发生道路交通事故需要收集证据的事故车，交通警察可以依法扣留。" type="0"></exam>
+  <exam answer="1" answerDesc="这个规定是可以的。万一是犯罪的车辆所以可以扣留车辆。" id="259" imgName="" option="正确@@错误" question="驾驶人有使用其他车辆号牌、行驶证嫌疑的，交通警察可依法扣留车辆。" type="0"></exam>
+  <exam answer="1" answerDesc="交通警察可依法扣留 车辆，等他们查清楚车的来由，当场教导让其车在指定时间内接受车辆检验并放行。" id="260" imgName="" option="正确@@错误" question="驾驶人有使用其他车辆检验合格标志嫌疑的，交通警察可依法扣留车辆。" type="0"></exam>
+  <exam answer="1" answerDesc="交通警察可依法扣留 车辆，等他们查清楚车的来由，当场教导让其车在指定时间内接受车辆检验并放行。" id="261" imgName="" option="正确@@错误" question="驾驶人有使用其他车辆保险标志嫌疑的，交通警察可依法扣留车辆。" type="0"></exam>
+  <exam answer="4" answerDesc="其他的都不足以扣留驾驶证只有D最严重。" id="262" imgName="" option="超过规定速度10%@@疲劳后驾驶机动车@@行车中未系安全带@@饮酒后驾驶机动车" question="驾驶人有哪种情形，交通警察可依法扣留机动车驾驶证？" type="1"></exam>
+  <exam answer="3" answerDesc="驾驶证被吊销的人，驾驶证被在暂扣的人，无证驾驶的人" id="263" imgName="" option="实习期驾驶人@@取得驾驶证的人@@驾驶证被吊销的人@@驾驶证记分达到6分的人" question="驾驶人将机动车交由什么样的人驾驶的，交通警察可依法扣留机动车驾驶证？" type="1"></exam>
+  <exam answer="1" answerDesc="规定是：驾驶人将机动车交给驾驶证被吊销的人驾驶的将被处200元以上2000元以下罚款，可以并处吊销机动车驾驶证。" id="264" imgName="" option="正确@@错误" question="驾驶人将机动车交给驾驶证被吊销的人驾驶的，交通警察依法扣留驾驶证。" type="0"></exam>
+  <exam answer="2" answerDesc="规定是：驾驶人将机动车交给驾驶证被暂扣的人驾驶的将被处200元以上2000元以下罚款，可以并处吊销机动车驾驶证。" id="265" imgName="" option="正确@@错误" question="驾驶人将机动车交给驾驶证被暂扣的人驾驶的，交通警察给予口头警告。" type="0"></exam>
+  <exam answer="2" answerDesc="交警只能扣留车辆，还没达到拘留的地步。" id="266" imgName="" option="正确@@错误" question="驾驶人驾驶有达到报废标准嫌疑机动车上路的，交通警察依法予以拘留。" type="0"></exam>
+  <exam answer="1" answerDesc="正确的，所以要及时去处理扣分。" id="267" imgName="" option="正确@@错误" question="驾驶人在一个记分周期内累积记分达到12分的，交通警察依法扣留驾驶证。" type="0"></exam>
+  <exam answer="2" answerDesc="当然不行的。要负责任的亲。" id="268" imgName="" option="正确@@错误" question="驾驶机动车碰撞建筑物、公共设施后可即行撤离现场。" type="0"></exam>
+  <exam answer="1" answerDesc="造成人员受伤了，不能私了，要保护现场，并报警和叫救护车。" id="269" imgName="" option="正确@@错误" question="发生交通事故造成人员受伤时，要保护现场并立即报警。" type="0"></exam>
+  <exam answer="1" answerDesc="就该对这些人给予教训，不仅拿自己的生命开玩笑，还拿别人的生命开玩笑，报警给予丫惩罚。" id="270" imgName="" option="正确@@错误" question="道路交通事故中，驾驶人有饮酒、醉酒嫌疑时，要保护现场并立即报警。" type="0"></exam>
+  <exam answer="1" answerDesc="这样的人违规在先，先报警，责任在他。" id="271" imgName="" option="正确@@错误" question="道路交通事故中，机动车无号牌、检验合格标志、保险标志时，要保护现场并立即报警。" type="0"></exam>
+  <exam answer="1" answerDesc="也就是私了。" id="272" imgName="" option="正确@@错误" question="驾驶机动车发生财产损失交通事故，当事人对事实及成因无争议的可先撤离现场。" type="0"></exam>
+  <exam answer="1" answerDesc="这个是正确的，移动车子使得交通顺畅，拍照等是为了留下证据。" id="273" imgName="" option="正确@@错误" question="驾驶机动车发生财产损失交通事故后，当事人对事实及成因无争议移动车辆时需要对现场拍照或者标划停车位置。" type="0"></exam>
+  <exam answer="2" answerDesc="当然不是，警察叔叔来了首先就是疏导好交通在处理案子。" id="274" imgName="" option="正确@@错误" question="机动车发生财产损失交通事故，对应当自行撤离现场而未撤离的，交通警察不可以责令当事人撤离现场。" type="0"></exam>
+  <exam answer="1" answerDesc="这个是正确的。" id="275" imgName="" option="正确@@错误" question="机动车发生财产损失交通事故，对应当自行撤离现场而未撤离造成交通堵塞的，可以对驾驶人处以200元罚款。" type="0"></exam>
+  <exam answer="2" answerDesc="申请小型汽车、小型自动挡汽车、残疾人专用小型自动挡载客汽车、轻便摩托车准驾车型的，在18周岁以上、70周岁以下。" id="276" imgName="" option="18周岁以上60周岁以下@@18周岁以上70周岁以下@@24周岁以上70周岁以下@@21周岁以上50周岁以下" question="申请小型汽车准驾车型驾驶证的人年龄条件是多少？" type="1"></exam>
+  <exam answer="4" answerDesc="第十二条有下列情形之一的，不得申请机动车驾驶证：三年内有吸食、注射毒品行为或者解除强制隔离戒毒措施未满三年，或者长期服用依赖性精神药品成瘾尚未戒除的；" id="277" imgName="" option="注射胰岛素@@酒醉经历@@吸烟成瘾@@注射毒品" question="3年内有下列哪种行为的人不得申请机动车驾驶证？" type="1"></exam>
+  <exam answer="1" answerDesc="“马路杀手”先生，你这样的人真的不配再拿驾驶证了。" id="278" imgName="" option="正确@@错误" question="酒后驾驶发生重大交通事故被依法追究刑事责任的人不能申请机动车驾驶证。" type="0"></exam>
+  <exam answer="1" answerDesc="你被列入“马路杀手”行列。" id="279" imgName="" option="正确@@错误" question="造成交通事故后逃逸构成犯罪的人不能申请机动车驾驶证。" type="0"></exam>
+  <exam answer="3" answerDesc="《机动车驾驶证申领和使用规定》（公安部令第123号）第四十八条  机动车驾驶人应当于机动车驾驶证有效期满前九十日内，向机动车驾驶证核发地车辆管理所申请换证。" id="280" imgName="" option="60日内@@30日内@@90日内@@6个月内" question="驾驶人在驾驶证有效期满前多长时间申请换证？" type="1"></exam>
+  <exam answer="3" answerDesc="因为你要去下一个迁入地办理迁入手续，即申请更换。方便驾驶员不用去以前那个车管所再办理手续，减少了办理程序，各车管所的信息是联网的。" id="281" imgName="" option="迁出地@@居住地@@迁入地@@所在地" question="驾驶人户籍迁出原车辆管理所需要向什么地方的车辆管所提出申请？" type="1"></exam>
+  <exam answer="1" answerDesc="应当在30日内到驾驶证核发地车管所申请换证。填写申请表、带一寸彩色数码照片、身份证、驾驶证。" id="282" imgName="" option="30日@@40日@@50日@@60日" question="驾驶证记载的驾驶人信息发生变化的要在多长时间内申请换证？" type="1"></exam>
+  <exam answer="1" answerDesc="这个没问题的，你无论在哪里居住都可以向当地的车管所申请换证。" id="283" imgName="" option="正确@@错误" question="驾驶人在驾驶证核发地车辆管理所管辖区以外居住的，可以向居住地车辆管理所申请换证。" type="0"></exam>
+  <exam answer="2" answerDesc="常识题，积分周期为一年" id="284" imgName="" option="14个月@@12个月@@6个月@@10个月" question="道路交通违法行为累积记分周期是多长时间？" type="1"></exam>
+  <exam answer="1" answerDesc="这个是常识和规定，记住。" id="285" imgName="" option="正确@@错误" question="道路交通安全违法行为累积记分一个周期满分为12分。" type="0"></exam>
+  <exam answer="1" answerDesc="《中华人民共和国道路交通安全法实施条例》第二十四条 机动车驾驶人在一个记分周期内记分未达到12分，所处罚款已经缴纳的，记分予以清除；记分虽未达到12分，但尚有罚款未缴纳的，记分转入下一记分周期。" id="286" imgName="" option="正确@@错误" question="驾驶人记分没有达到满分，有罚款尚未缴纳的，记分转入下一记分周期。" type="0"></exam>
+  <exam answer="2" answerDesc="换发驾驶证的时候才接受审验，积分周期满12分的接受理论一科目再教育。" id="287" imgName="" option="一个记分周期末@@有效期满换发驾驶证时@@记分周期未满分@@记分周期满12分" question="持小型汽车驾驶证的驾驶人在下列哪种情况下需要接受审验？" type="1"></exam>
+  <exam answer="1" answerDesc="第六十三条  机动车驾驶人因服兵役、出国（境）等原因，无法在规定时间内办理驾驶证期满换证、审验、提交身体条件证明的，可以向机动车驾驶证核发地车辆管理所申请延期办理。申请时应当填写申请表，并提交机动车驾驶人的身份证明、机动车驾驶证和延期事由证明。延期期限最长不超过三年。延期期间机动车驾驶人不得驾驶机动车。" id="288" imgName="" option="3年@@5年@@1年@@2年" question="驾驶人因服兵役、出国（境）等原因无法办理审验时，延期审验期限最长不超过多长时间？" type="1"></exam>
+  <exam answer="1" answerDesc="《机动车驾驶证申领和使用规定》（公安部令第123号）第六十条 小型汽车驾驶人发生交通事故造成人员死亡承担同等以上责任未被吊销机动车驾驶证的，应当在本记分周期结束后三十日内到公安机关交通管理部门接受审验。" id="289" imgName="" option="正确@@错误" question="小型汽车驾驶人发生交通事故造成人员死亡，承担同等以上责任未被吊销驾驶证的，应当在记分周期结束后30日内接受审验。" type="0"></exam>
+  <exam answer="1" answerDesc="规定" id="290" imgName="" option="正确@@错误" question="驾驶人因服兵役、出国（境）等原因延期审验期间不得驾驶机动车。" type="0"></exam>
+  <exam answer="4" answerDesc="记住吧" id="291" imgName="" option="每3年@@每2年@@每6个月@@每1年" question="年龄在60周岁以上的驾驶人多长时间提交一次身体条件证明？" type="1"></exam>
+  <exam answer="2" answerDesc="2013年1月1日起施行的公安部123号令，已明确规定，大、中型客货车驾驶人每年参加审验，审验时自己申报身体条件情况" id="292" imgName="" option="正确@@错误" question="大型客车、牵引车、城市公交车、中型客车、大型货车驾驶人应当每两年提交一次身体条件证明." type="0"></exam>
+  <exam answer="2" answerDesc="常识题" id="293" imgName="" option="6个月@@12个月@@2年@@3个月" question="机动车驾驶人初次申请机动车驾驶证和增加准驾车型后的多长时间为实习期？" type="1"></exam>
+  <exam answer="2" answerDesc="驾驶人在实习期内驾驶机动车上高速公路行驶，应当由持相应或者更高准驾车型驾驶证三年以上的驾驶人陪同。其中，驾驶残疾人专用小型自动挡载客汽车的，可以由持有小型自动挡载客汽车以上准驾车型驾驶证的驾驶人陪同。" id="294" imgName="" option="正确@@错误" question="初次申领驾驶证的驾驶人在实习期内可以单独驾驶机动车上高速公路行驶。" type="0"></exam>
+  <exam answer="1" answerDesc="驾驶机动车未按规定粘贴、悬挂实习标志或者残疾人机动车专用标志的；由公安机关交通管理部门处二十元以上二百元以下罚款" id="295" imgName="" option="正确@@错误" question="驾驶人在实习期内驾驶机动车时，应当在车身后部粘贴或者悬挂统一式样的实习标志。" type="0"></exam>
+  <exam answer="1" answerDesc="规定。" id="296" imgName="" option="正确@@错误" question="机动车驾驶人在实习期内有记满12分记录的，注销其实习的准驾车型驾驶资格。" type="0"></exam>
+  <exam answer="3" answerDesc="《机动车驾驶证申领和使用规定》（公安部令第123号）第七十八条  隐瞒有关情况或者提供虚假材料申领机动车驾驶证的，申请人在一年内不得再次申领机动车驾驶证。" id="297" imgName="" option="处20元以上200元以下罚款@@取消申领驾驶证资格@@1年内不得再次申领驾驶证@@2年内不能再次申领驾驶证" question="提供虚假材料申领驾驶证的申请人会承担下列哪种法律责任？" type="1"></exam>
+  <exam answer="1" answerDesc="《机动车驾驶证申领和使用规定》（公安部令第123号）第八十一条  伪造、变造或者使用伪造、变造的机动车驾驶证的，由公安机关交通管理部门予以收缴，依法拘留，并处二千元以上五千元以下罚款；构成犯罪的，依法追究刑事责任。" id="298" imgName="" option="正确@@错误" question="伪造、变造或者使用伪造、变造驾驶证的驾驶人构成犯罪的，将依法追究刑事责任。" type="0"></exam>
+  <exam answer="2" answerDesc="使用伪造、变造的机动车号牌、行驶证、驾驶证、校车标牌或者使用其他机动车号牌、行驶证的一次记12分。" id="299" imgName="" option="违反交通信号灯@@使用伪造机动车号牌@@拨打、接听手机的@@违反禁令标志指示" question="驾驶人有下列哪种违法行为一次记12分？" type="1"></exam>
+  <exam answer="4" answerDesc="驾驶与准驾车型不符的机动车的一次记12分。" id="300" imgName="" option="2分@@3分@@6分@@12分" question="驾驶与准驾车型不符的机动车一次记几分？" type="1"></exam>
+  <exam answer="4" answerDesc="饮酒后驾驶机动车的一次记12分。" id="301" imgName="" option="3分@@2分@@6分@@12分" question="饮酒后驾驶机动车一次记几分？" type="1"></exam>
+  <exam answer="3" answerDesc="造成交通事故后逃逸，尚不构成犯罪的一次记12分。" id="302" imgName="" option="3分@@2分@@12分@@6分" question="造成交通事故后逃逸，尚不构成犯罪的一次记几分？" type="1"></exam>
+  <exam answer="2" answerDesc="上道路行驶的机动车未悬挂机动车号牌的，或者故意遮挡、污损、不按规定安装机动车号牌的一次记12分。" id="303" imgName="" option="6分@@12分@@2分@@3分" question="上道路行驶的机动车未悬挂机动车号牌的一次记几分？" type="1"></exam>
+  <exam answer="4" answerDesc="上道路行驶的机动车未悬挂机动车号牌的，或者故意遮挡、污损、不按规定安装机动车号牌的一次记12分。" id="304" imgName="" option="2分@@3分@@6分@@12分" question="上道路行驶的机动车故意遮挡、污损、不按规定安装机动车号牌的一次记几分？" type="1"></exam>
+  <exam answer="3" answerDesc="使用伪造、变造的机动车号牌的一次记12分。" id="305" imgName="" option="2分@@3分@@12分@@6分" question="使用伪造、变造的机动车号牌一次记几分？" type="1"></exam>
+  <exam answer="4" answerDesc="使用伪造、变造的机动车号牌、行驶证、驾驶证、校车标牌或者使用其他机动车号牌、行驶证的一次记12分。" id="306" imgName="" option="6分@@3分@@2分@@12分" question="使用伪造、变造的行驶证一次记几分？" type="1"></exam>
+  <exam answer="3" answerDesc="A,B,D都是一次记12分。C选择是一次记6分。" id="307" imgName="" option="使用其他车辆行驶证@@车速超过规定时速50%以上@@违法占用应急车道行驶@@饮酒后驾驶机动车" question="驾驶人有下列哪种违法行为一次记6分？" type="1"></exam>
+  <exam answer="3" answerDesc="驾驶机动车违反道路交通信号灯通行的一次记6分。" id="308" imgName="" option="2分@@3分@@6分@@12分" question="驾驶人驾驶机动车违反道路交通信号灯通行一次记多少分?" type="1"></exam>
+  <exam answer="1" answerDesc="闯灯的一次6分。B,C,D都是一次记12分。" id="309" imgName="" option="驾驶机动车违反道路交通信号灯@@未取得校车驾驶资格驾驶校车@@驾驶与准驾车型不符的机动车@@饮酒后驾驶机动车" question="有下列哪种违法行为的机动车驾驶人将被一次记6分？" type="1"></exam>
+  <exam answer="4" answerDesc="A,B,C都是扣6分，只有D是扣12分。" id="310" imgName="" option="机动车驾驶证被暂扣期间驾驶机动车的@@以隐瞒、欺骗手段补领机动车驾驶证的@@驾驶机动车不按照规定避让校车的@@驾驶故意污损号牌的机动车上道路行驶" question="有下列哪种违法行为的机动车驾驶人将被一次记12分？" type="1"></exam>
+  <exam answer="1" answerDesc="发生事故一定别跑，你是跑不掉的。造成交通事故后逃逸，尚不构成犯罪的一次记12分。" id="311" imgName="" option="正确@@错误" question="造成交通事故后逃逸，尚不构成犯罪的一次记12分。" type="0"></exam>
+  <exam answer="1" answerDesc="不尊重自己和别人的生命，这么严重的事情肯定是一次把分扣光光。" id="312" imgName="" option="正确@@错误" question="饮酒后驾驶机动车的一次记12分。" type="0"></exam>
+  <exam answer="1" answerDesc="使用伪造、变造的机动车号牌、行驶证、驾驶证、校车标牌或者使用其他机动车号牌、行驶证的一次记12分。" id="313" imgName="" option="正确@@错误" question="使用伪造、变造的驾驶证一次记12分。" type="0"></exam>
+  <exam answer="2" answerDesc="使用伪造、变造的机动车号牌、行驶证、驾驶证、校车标牌或者使用其他机动车号牌、行驶证的一次记12分。" id="314" imgName="" option="正确@@错误" question="使用其他机动车号牌、行驶证的一次记3分。" type="0"></exam>
+  <exam answer="2" answerDesc="驾驶机动车在高速公路上倒车、逆行、穿越中央分隔带掉头的一次记12分。" id="315" imgName="" option="正确@@错误" question="驾驶机动车在高速公路上倒车、逆行、穿越中央分隔带掉头的一次记6分。" type="0"></exam>
+  <exam answer="1" answerDesc="新修订的《机动车驾驶证申领和使用规定》出台将违反道路交通信号灯通行等违法记分由3分提高到6分。" id="316" imgName="" option="正确@@错误" question="违反交通信号灯通行的一次记6分。" type="0"></exam>
+  <exam answer="1" answerDesc="超速驾驶一次记12分的情形有：驾驶中型以上载客载货汽车、校车、危险物品运输车辆在高速公路、城市快速路上行驶超过规定时速20％以上或者在高速公路、城市快速路以外的道路上行驶超过规定时速50％以上；驾驶其他机动车行驶超过规定时速50%以上的。" id="317" imgName="" option="正确@@错误" question="车速超过规定时速50%以上的一次记12分。" type="0"></exam>
+  <exam answer="2" answerDesc="车速超过规定时速达到50%的直接扣12分" id="318" imgName="" option="正确@@错误" question="车速超过规定时速达到50%的一次记3分。" type="0"></exam>
+  <exam answer="1" answerDesc="新年新规定，记住吧。" id="319" imgName="" option="正确@@错误" question="驾驶机动车在高速公路违法占用应急车道行驶的一次记6分。" type="0"></exam>
+  <exam answer="1" answerDesc="记住吧。" id="320" imgName="" option="正确@@错误" question="驾驶机动车不按照规定避让校车的，一次记6分。" type="0"></exam>
+  <exam answer="2" answerDesc="只有前后防撞装置不备案，可以加装。" id="321" imgName="" option="机动车更换发动机@@加装前后防撞装置@@改变车身颜色@@更换车身或者车架" question="已注册登记的小型载客汽车有下列哪种情形，所有人不需要办理变更登记？" type="1"></exam>
+  <exam answer="1" answerDesc="常识题" id="322" imgName="" option="正确@@错误" question="机动车达到国家规定的强制报废标准的不能办理注册登记。" type="0"></exam>
+  <exam answer="1" answerDesc="常识题，记住。" id="323" imgName="" option="正确@@错误" question="机动车行驶证灭失、丢失，机动车所有人要向登记地车辆管理所申请补领、换领。" type="0"></exam>
+  <exam answer="1" answerDesc="常识题，机动车号牌损毁上路的直接扣12分。" id="324" imgName="" option="正确@@错误" question="机动车号牌损毁，机动车所有人要向登记地车辆管理所申请补领、换领。" type="0"></exam>
+  <exam answer="4" answerDesc="红灯请停在停止线内。" id="325" imgName="1369107908812.jpg" option="进入路口等待@@左转弯行驶@@加速直行通过@@不得越过停止线" question="驾驶机动车在路口直行遇到这种信号灯应该怎样行驶？" type="1"></exam>
+  <exam answer="2" answerDesc="都红灯了，赶紧停车吧。" id="326" imgName="1369107909022.jpg" option="正确@@错误" question="驾驶机动车行驶到这个位置时，如果车前轮已越过停止线可以继续通过。" type="0"></exam>
+  <exam answer="1" answerDesc="没有问题，只要安全的情况下就可以右转，前边的红灯是管直行的。" id="327" imgName="1369107909250.jpg" option="正确@@错误" question="驾驶机动车在这种信号灯亮的路口，可以右转弯。" type="0"></exam>
+  <exam answer="2" answerDesc="绿灯行。不是禁止通行。" id="328" imgName="1369107909474.jpg" option="正确@@错误" question="驾驶机动车在路口遇到这种信号灯禁止通行。" type="0"></exam>
+  <exam answer="1" answerDesc="常识题" id="329" imgName="" option="正确@@错误" question="绿灯亮表示前方路口允许机动车通行。" type="0"></exam>
+  <exam answer="2" answerDesc="绿灯，赶紧的走你。" id="330" imgName="1369107909731.jpg" option="正确@@错误" question="驾驶机动车在路口遇到这种信号灯亮时，要在停止线前停车瞭望。" type="0"></exam>
+  <exam answer="2" answerDesc="右转灯不是红灯，右转没问题。" id="331" imgName="1369107909950.jpg" option="正确@@错误" question="驾驶机动车在路口遇到这种信号灯亮时，不能右转弯。" type="0"></exam>
+  <exam answer="2" answerDesc="左转让直行。" id="332" imgName="1369107910179.jpg" option="正确@@错误" question="驾驶机动车遇到这种信号灯，可在对面直行车前直接向左转弯。" type="0"></exam>
+  <exam answer="2" answerDesc="路口黄灯持续闪烁，警示驾驶人要注意瞭望，确认安全通过。" id="333" imgName="1369107910459.jpg" option="禁止右转@@路口警示@@准许直行@@加速通过" question="驾驶机动车在路口遇到这种信号灯表示什么意思？" type="1"></exam>
+  <exam answer="2" answerDesc="路口黄灯持续闪烁，警示驾驶人要注意瞭望，确认安全通过。" id="334" imgName="1369107910683.jpg" option="正确@@错误" question="驾驶机动车在路口看到这种信号灯亮时，要加速通过。" type="0"></exam>
+  <exam answer="2" answerDesc="黄灯闪烁是警示的意思，没有不能右转的意思。" id="335" imgName="1369107910909.jpg" option="正确@@错误" question="驾驶机动车在前方路口不能右转弯。" type="0"></exam>
+  <exam answer="1" answerDesc="规定：当黄灯亮起的时候，车身已越过停止线，可以继续通行。" id="336" imgName="1369107911149.jpg" option="正确@@错误" question="驾驶机动车遇到这种信号灯亮时，如果已越过停止线，可以继续通行。" type="0"></exam>
+  <exam answer="4" answerDesc="俩侧车道都是红灯都不可以通行所以是禁止车辆在两侧车道通行。" id="337" imgName="1369107911377.jpg" option="加速进入两侧车道行驶@@进入右侧车道行驶@@减速进入两侧车道行驶@@禁止车辆在两侧车道通行" question="遇到这种情况时怎样行驶？" type="1"></exam>
+  <exam answer="1" answerDesc="中间车道是红灯故不允许车辆通行。" id="338" imgName="1369107911607.jpg" option="正确@@错误" question="遇到这种情况时，中间车道不允许车辆通行。" type="0"></exam>
+  <exam answer="2" answerDesc="看红色轿车行驶的车道的信号灯是红色，所以是不能在该道行驶的。" id="339" imgName="1369107911829.jpg" option="正确@@错误" question="这辆红色轿车可以在该车道行驶。" type="0"></exam>
+  <exam answer="1" answerDesc="绿灯行，没有问题。" id="340" imgName="1369107912070.jpg" option="正确@@错误" question="驾驶机动车要选择绿色箭头灯亮的车道行驶。" type="0"></exam>
+  <exam answer="1" answerDesc="请看灯，直行和右转灯是绿的。" id="341" imgName="1369107912296.jpg" option="直行或向右转弯@@向左转弯@@直行或向左转弯@@向左、向右转弯" question="这个路口允许车辆怎样行驶？" type="1"></exam>
+  <exam answer="3" answerDesc="左转的灯是绿色，所以可以向左转弯。" id="342" imgName="1369107912533.jpg" option="直行或向右转弯@@向右转弯@@向左转弯@@直行" question="这个路口允许车辆怎样行驶？" type="1"></exam>
+  <exam answer="2" answerDesc="右转的灯是绿的，所以只能向右转弯。" id="343" imgName="1369107912777.jpg" option="直行@@向右转弯@@向左转弯@@直行或向左转弯" question="这个路口允许车辆怎样行驶？" type="1"></exam>
+  <exam answer="1" answerDesc="左转红灯，所以不能左转，正确。" id="344" imgName="1369107913009.jpg" option="正确@@错误" question="驾驶机动车在这种情况下不能左转弯。" type="0"></exam>
+  <exam answer="2" answerDesc="因为右转的灯是红色的所以是不能右转的。扩展阅读：右转信号灯只可能是箭头形状不可能是圆形的。" id="345" imgName="1369107913227.jpg" option="正确@@错误" question="驾驶机动车在这种情况下可以右转弯。" type="0"></exam>
+  <exam answer="1" answerDesc="直行和左转都是红灯，所以不能直行和左转。" id="346" imgName="1369107913386.jpg" option="正确@@错误" question="驾驶机动车在这种情况下不能直行和左转弯" type="0"></exam>
+  <exam answer="1" answerDesc="路口黄灯持续闪烁，警示驾驶人要注意瞭望，确认安全通过。" id="347" imgName="" option="正确@@错误" question="路口黄灯持续闪烁，警示驾驶人要注意瞭望，确认安全通过。" type="0"></exam>
+  <exam answer="2" answerDesc="黄灯持续闪烁的意思是，提示用户谨慎通行，此刻应该放慢速度谨慎通过。" id="348" imgName="" option="正确@@错误" question="黄灯持续闪烁，表示机动车可以加速通过。" type="0"></exam>
+  <exam answer="2" answerDesc="红灯，你就停了吧。" id="349" imgName="1369107913626.jpg" option="在火车到来前通过@@不得越过停止线@@边观察边缓慢通过@@不换挡加速通过" question="驾驶机动车在铁路道口看到这种信号灯时怎样行驶？" type="1"></exam>
+  <exam answer="1" answerDesc="两个红灯交替闪烁时表示火车要经过了，赶紧停车等待吧。" id="350" imgName="1369107914064.jpg" option="正确@@错误" question="在铁路道口遇到两个红灯交替闪烁时要停车等待。" type="0"></exam>
+  <exam answer="2" answerDesc="红灯停啊亲。" id="351" imgName="1369107914283.jpg" option="正确@@错误" question="在道路与铁路道口遇到一个红灯亮时要尽快通过道口。" type="0"></exam>
+  <exam answer="1" answerDesc="十字交叉路口：除了基本形十字路口外，还有部分变异的十字路口，如：五路交叉路口、变形十字路口、变形五路交叉路口等。五路以上的路口均按十字路口对待。" id="352" imgName="1369107914485.jpg" option="十字交叉路口@@环行交叉路口@@T型交叉路口@@Y型交叉路口" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="T型交叉路口：丁字形标志原则上设在与交叉口形状相符的道路上。右侧丁字路口，此标志设在进入T字路口以前的适当位置。" id="353" imgName="1369107914603.jpg" option="Y型交叉路口@@T型交叉路口@@十字交叉路口@@环行交叉路口" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="向右急转弯：向右急弯路标志，设在右急转弯的道路前方适当位置。" id="354" imgName="1369107914743.jpg" option="向右急转弯@@向右绕行@@连续弯路@@向左急转弯" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="向左急转弯：向左急弯路标志设在左急转弯的道路前方适当位置。" id="355" imgName="1369107914875.jpg" option="向左绕行@@连续弯路@@向左急转弯@@向右急转弯" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="上陡坡：用以提醒车辆驾驶人小心驾驶。" id="356" imgName="1369107915008.jpg" option="下陡坡@@连续上坡@@上陡坡@@堤坝路" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="下陡坡：用以提醒车辆驾驶人小心驾驶。" id="357" imgName="1369107915167.jpg" option="堤坝路@@上陡坡@@连续上坡@@下陡坡" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="连续下坡：用以提醒车辆驾驶人小心驾驶。当连续下坡总长大于3 km后，应重复设置。" id="358" imgName="1369107915300.jpg" option="连续下坡@@下陡坡@@上陡坡@@连续上坡" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="窄桥：用以警告车辆驾驶人注意前方桥面宽度变窄，应谨慎驾驶。设在桥面净宽较两端路面宽度变窄，且桥的净宽小于6 m的桥梁以前适当位置。" id="359" imgName="1369107915438.jpg" option="左侧变窄@@窄桥@@窄路@@右侧变窄" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="双向交通：用以提醒车辆驾驶人注意会车。设在由双向分离行驶，因某种原因出现临时性或永久性的不分离双向行驶的路段，或由单向行驶进人双向行驶的路段以前适当位置。" id="360" imgName="1369107915589.jpg" option="减速让行@@潮汐车道@@分离式道路@@双向交通" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="注意行人：用以警告车辆驾驶人减速慢行，注意行人。设在行人密集，或不易被驾驶员发现的人行横道线以前适当位置。" id="361" imgName="1369107915712.jpg" option="注意行人@@注意儿童@@学校区域@@人行横道" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="注意儿童：用以警告车辆驾驶人减速慢行，注意儿童。设在小学、幼儿园、少年宫等儿童经常出入地点前适当位置。" id="362" imgName="1369107915844.jpg" option="学校区域@@注意儿童@@人行横道@@注意行人" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="这个是头牛，是牲畜。" id="363" imgName="1369107915975.jpg" option="注意牲畜@@注意野生动物@@野生动物保护区@@大型畜牧场" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="这个是头鹿啊，是野生动物啊。" id="364" imgName="1369107916104.jpg" option="注意野生动物@@注意牲畜@@动物公园@@开放的牧区" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="注意信号灯：用以警告车辆驾驶人注意前方路段设有信号灯，应依信号灯指示行车。" id="365" imgName="1369107916224.jpg" option="人行横道灯@@注意行人@@注意信号灯@@交叉路口" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="注意落石：此标志设在左侧有落石危险的傍山路段之前适当位置。" id="366" imgName="1369107916384.jpg" option="傍山险路@@悬崖路段@@注意落石@@危险路段" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="注意横风：此标志设在经常有很强的侧风并有必要引起注意的路段前适当位置。" id="367" imgName="1369107916512.jpg" option="隧道入口@@气象台@@注意横风@@风向标" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="易滑路段：此标志设在路面的摩擦系数不能满足相应行驶速度下要求紧急刹车距离的路段前适当位置。行驶至此路段必须减速慢行。" id="368" imgName="1369107916643.jpg" option="易滑路段@@急转弯路@@试车路段@@曲线路段" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="傍山险路：用以提醒车辆驾驶人小心驾驶。设在傍山险路路段以前适当位置。" id="369" imgName="1369107916773.jpg" option="堤坝路@@傍山险路@@落石路@@临崖路" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="堤坝路：用以提醒车辆驾驶人小心驾驶，设在沿水库、湖泊、河流等堤坝道路以前适当位置。" id="370" imgName="1369107916898.jpg" option="堤坝路@@临崖路@@傍水路@@易滑路" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="村庄：用以提醒车辆驾驶人小心驾驶。设在紧靠村庄、集镇且视线不良的路段以前适当位置。" id="371" imgName="1369107917038.jpg" option="注意行人@@有人行横道@@村庄或集镇@@有小学校" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="隧道：用以提醒车辆驾驶人注意慢行。设在双向行驶并且照明不好的隧道口前适当位置。" id="372" imgName="1369107917160.jpg" option="水渠@@桥梁@@隧道@@涵洞" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="渡口：用以提醒车辆驾驶人谨慎驾驶。设在车辆渡口以前适当位置。" id="373" imgName="1369107917301.jpg" option="漫水桥@@渡口@@船用码头@@过水路面" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="驼峰桥：用以提醒车辆驾驶人谨慎驾驶。设在拱度很大，影响视距的驼峰桥以前适当位置。" id="374" imgName="1369107917430.jpg" option="驼峰桥@@路面高突@@路面低洼@@不平路面" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="路面不平：用以提醒车辆驾驶人减速慢行。设在路面颠簸路段或桥头跳车较严重的地点以前适当位置。" id="375" imgName="1369107917575.jpg" option="路面低洼@@驼峰桥@@路面不平@@路面高突" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="路面高突：用以提醒车辆驾驶人减速慢行。设在路面突然高突以前适当位置。" id="376" imgName="1369107917693.jpg" option="路面不平@@路面高突@@路面低洼@@驼峰桥" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="路面低洼：用以提醒车辆驾驶人减速慢行。设在路面突然低洼以前适当位置。" id="377" imgName="1369107917822.jpg" option="路面不平@@路面低洼@@路面高突@@有驼峰桥" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="过水路面指的是通过平时无水或流水很少的宽浅河流而修筑的在洪水期间容许水流浸过的路面。" id="378" imgName="1369107917962.jpg" option="泥泞道路@@低洼路面@@过水路面@@渡口" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="有火车形状的，为无人看守的铁路口，此图为有人看守的铁路口。" id="379" imgName="1369107918096.jpg" option="有人看守铁路道口@@多股铁路与道路相交@@立交式的铁路道口@@无人看守铁路道口" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="有火车形状的，为无人看守的铁路口，还有一个栅栏形式的图片为有人看守的铁路口。" id="380" imgName="1369107918231.jpg" option="注意长时鸣喇叭@@无人看守铁路道口@@有人看守铁路道口@@多股铁路与道路相交" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="多股铁路与道路相交，则应在铁路道口标志上方设置叉形符号。叉形符号交叉点到警告标志三角形顶点的距离为40cm。" id="381" imgName="1369107918369.jpg" option="有人看守铁路道口@@无人看守铁路道口@@多股铁路与道路相交@@注意避让火车" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="一道红线是50米，一道50米。" id="382" imgName="1369107918506.jpg" option="距无人看守铁路道口100米@@距有人看守铁路道口100米@@距无人看守铁路道口50米@@距有人看守铁路道口50米" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="一道红线是50米，二道100米。" id="383" imgName="1369107918632.jpg" option="距有人看守铁路道口50米@@距无人看守铁路道口100米@@距有人看守铁路道口100米@@距无人看守铁路道口50米" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="一道红线是50米，三道150米。" id="384" imgName="1369107918778.jpg" option="距无人看守铁路道口150米@@距无人看守铁路道口100米@@距有人看守铁路道口100米@@距有人看守铁路道口150米" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="黄底标志为警告标志，自行车优势非机动车所以答案是注意非机动车。" id="385" imgName="1369107918898.jpg" option="非机动车道@@避让非机动车@@禁止非机动车通行@@注意非机动车" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="黄底标志为警告标志，所以是注意残疾人。" id="386" imgName="1369107919026.jpg" option="残疾人出入口@@注意残疾人@@残疾人休息处@@残疾人专用通道" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="事故易发路段：此标志设在交通事故易发路段以前适当位置。" id="387" imgName="1369107919152.jpg" option="事故易发路段@@施工路段@@减速慢行路段@@拥堵路段" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="慢行：此标志设在前方需要减速慢行的路段以前适当位置。" id="388" imgName="1369107919271.jpg" option="车多路段@@慢行@@拥堵路段@@施工路段" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="左右绕行：用以告示前方道路有障碍物，车辆应按标志指示减速慢行，绕行通过。" id="389" imgName="1369107919671.jpg" option="施工路段绕行@@双向交通@@左右绕行@@注意危险" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="左侧绕行：用以告示前方道路有障碍物，车辆应按标志指示减速慢行，左侧绕行通过。" id="390" imgName="1369107920071.jpg" option="注意危险@@右侧绕行@@左侧绕行@@单向通行" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="右侧绕行：用以告示前方道路有障碍物，车辆应按标志指示减速慢行，右侧绕行通过。" id="391" imgName="1369107920196.jpg" option="右侧绕行@@单向通行@@注意危险@@左侧绕行" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="注意危险：用以促使车辆驾驶员谨慎慢行。" id="392" imgName="1369107920325.jpg" option="减速慢行@@注意危险@@拥堵路段@@事故多发路段" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="施工路段：用以告示前方道路施工，车辆应减速慢行或绕道行驶。" id="393" imgName="1369107920456.jpg" option="塌方路段@@施工路段@@前方工厂@@道路堵塞" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="常识题，记住。" id="394" imgName="1369107920582.jpg" option="最高速度@@限制速度@@建议速度@@最低速度" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="这个应该能看懂吧？很明显那个小车开灯的效果。" id="395" imgName="1369107920710.jpg" option="隧道减速@@隧道开远光灯@@隧道开灯@@隧道开示宽灯" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="“潮汐车道”是指根据早晚交通流量不同情况，对有条件的道路，试点开辟潮汐车道，通过车道灯的指示方向变化，控制主干道车道行驶方向，来调整车道数。" id="396" imgName="1369107920843.jpg" option="注意双向行驶@@靠两侧行驶@@注意潮汐车道@@可变车道" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="车距确认标线作为车辆驾驶人保持行车安全距离的参考，视需要设于较长直线段、易发生追尾事故或其他需要的路段，应与车距确认标志配合使用。" id="397" imgName="1369107920973.jpg" option="两侧变窄路段@@车速测试路段@@车距确认路段@@注意保持车距" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="注意分离式道路：用以警告车辆驾驶人注意前方平面交叉的被交道路是分离式道路。" id="398" imgName="1369107921111.jpg" option="平面交叉路口@@环行平面交叉@@注意交互式道路@@注意分离式道路" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="黄底为警告标志，所以排除A和B，图很明显的为合流标志，所以选D" id="399" imgName="1369107921237.jpg" option="Y型交叉口@@主路让行@@注意分流@@注意合流" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="避险车道是指在长陡下坡路段行车道外侧增设的供速度失控车辆驶离正线安全减速的专用车道。" id="400" imgName="1369107921369.jpg" option="避险车道@@应急车道@@路肩@@急弯道" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="禁令标志是交通标志中主要标志的一种，对车辆加以禁止或限制的标志，如禁止通行、禁止停车、禁止左转弯、禁止鸣喇叭、限制速度、限制重量等。" id="401" imgName="" option="指示车辆行进@@警告前方危险@@禁止或限制行为@@告知方向信息" question="禁令标志的作用是什么？" type="1"></exam>
+  <exam answer="1" answerDesc="停车让行：表示车辆必须在停止线以外停车了望，确认安全后，才准许通行。停车让行标志在下列情况下设置：(1)与交通流量较大的干路平交的支路路口；(2)无人看守的铁路道口；(3)其他需要设置的地方。" id="402" imgName="1369107921579.jpg" option="停车让行@@不准临时停车@@不准车辆驶入@@不准长时间停车" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="减速让行：表示车辆应减速让行，告示车辆驾驶员必须慢行或停车，观察干路行车情况，在确保干道车辆优先的前提下，认为安全时方可续行。此标志设在视线良好交叉道路的次要路口。" id="403" imgName="1369107921703.jpg" option="不准让行@@会车让行@@减速让行@@停车让行" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="会车时停车让对方车先行：表示车辆会车时，必须停车让对方车先行。设置在会车有困难的狭窄路段的一端或由于某种原因只能开放一条车道作双向通行路段的一端。" id="404" imgName="1369107921822.jpg" option="会车时停车让右侧车先行@@右侧道路禁止车通行@@前方是双向通行路段@@会车时停车让对方车先行" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="禁止通行：表示禁止一切车辆和行人通行。此标志设在禁止通行的道路入口处。" id="405" imgName="1369107921944.jpg" option="禁止通行@@减速行驶@@限时进入@@禁止驶入" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="一看图片就是小型客车。" id="406" imgName="1369107922080.jpg" option="各种车辆@@小型客车@@中型客车@@小型货车" question="这个标志提示哪种车型禁止通行？" type="1"></exam>
+  <exam answer="3" answerDesc="禁止向左转弯：表示前方路口禁止一切车辆向左转弯。此标志设在禁止向左转弯的路口前适当位置" id="407" imgName="1369107922201.jpg" option="禁止车辆掉头@@禁止向左变道@@禁止向左转弯@@禁止驶入左车道" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="禁止向右转弯：表示前方路口禁止一切车辆向右转弯。此标志设在禁止向右转弯的路口前适当位置。" id="408" imgName="1369107922327.jpg" option="禁止驶入路口@@禁止向右转弯@@禁止变更车道@@禁止车辆掉头" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="禁止直行：表示前方路口禁止一切车辆直行。此标志设在禁止直行的路口前适当位置。" id="409" imgName="1369107922455.jpg" option="禁止向右转弯@@禁止掉头@@禁止直行@@禁止向左转弯" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="禁止向左向右转弯：表示前方路口禁止一切车辆向左向右转弯。此标志设在禁止向左向右转弯的路口前适当位置。" id="410" imgName="1369107922578.jpg" option="禁止在路口掉头@@禁止向左向右变道@@禁止向左向右转弯@@禁止车辆直行" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="禁止直行和向左转弯：表示前方路口禁止一切车辆直行和向左转弯。此标志设在禁止直行和向左转弯的路口前适当位置。" id="411" imgName="1369107922709.jpg" option="禁止直行和向左变道@@禁止直行和向左转弯@@允许直行和向左变道@@禁止直行和向右转弯" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="禁止直行和向右转弯：表示前方路口禁止一切车辆直行和向右转弯。此标志设在禁止直行和向右转弯的路口前适当位置。" id="412" imgName="1369107922838.jpg" option="禁止直行和向左变道@@禁止直行和向左转弯@@允许直行和向左变道@@禁止直行和向右转弯" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="禁止掉头：表示前方路口禁止一切车辆掉头。此标志设在禁止掉头的路口前适当位置。" id="413" imgName="1369107922965.jpg" option="禁止变道@@禁止左转@@禁止直行@@禁止掉头" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="禁止超车：表示该标志至前方解除禁止超车标志的路段内，不准机动车超车。此标志设在禁止超车的起点。" id="414" imgName="1369107923095.jpg" option="禁止借道@@禁止变道@@禁止超车@@禁止掉头" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="解除禁止超车：表示禁止超车路段结束。此标志设在禁止超车的终点。" id="415" imgName="1369107923226.jpg" option="解除禁止超车@@准许变道行驶@@解除禁止变道@@解除禁止借道" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="禁止停放车辆：表示在限定的范围内，禁止一切车辆临时或长时停放。此标志设在禁止车辆停放的地方。禁止车辆停放的时间、车种和范围可用辅助标志说明。" id="416" imgName="1369107923348.jpg" option="允许临时停车@@允许长时停车@@禁止长时停车@@禁止停放车辆" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="禁止长时停车：禁止车辆长时停放，临时停放不受限制。禁止车辆停放的时间、车种和范围可用辅助标志说明。" id="417" imgName="1369107923481.jpg" option="禁止临时停车@@禁止长时停车@@禁止停放车辆@@允许长时停车" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="禁止鸣喇叭：表示禁止鸣喇叭。此标志设在需要禁止鸣喇叭的地方。禁止鸣喇叭的时间和范围可用辅助标志说明。" id="418" imgName="1369107923603.jpg" option="禁止长时鸣喇叭@@断续鸣喇叭@@减速鸣喇叭@@禁止鸣喇叭" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="限制宽度为3米：表示禁止装载宽度超过标志所示数值的车辆通行。此标志设在最大允许宽度受限制的地方。 以图为例：装载宽度不得超过3米" id="419" imgName="1369107923728.jpg" option="预告宽度为3米@@限制宽度为3米@@解除3米限宽@@限制高度为3米" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="限制高度为3.5米：表示禁止装载高度超过标志所示数值的车辆通行。此标志设在最大允许高度受限制的地方。 以图为例：装载高度不得超过3.5米。" id="420" imgName="1369107923843.jpg" option="限制宽度为3.5米@@解除3.5米限高@@限制车距为3.5米@@限制高度为3.5米" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="限制最高时速40公里：表示该标志至前方限制速度标志的路段内，机动车行驶速度不得超过标志所示数值。此标志设在需要限制车辆速度的路段的起点。以图为例：限制行驶时速不得超过40公里。" id="421" imgName="1369107923982.jpg" option="前方40米减速@@最低时速40公里@@限制40吨轴重@@限制最高时速40公里" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="解除时速40公里限制：表示限制速度路段结束。此标志设在限制车辆速度路段的重点。" id="422" imgName="1369107924112.jpg" option="40米减速行驶路段@@最低时速40公里@@最高时速40公里@@解除时速40公里限制" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="停车检查：表示机动车必须停车接受检查。此标志设在关卡将近处，以便要求车辆接受检查或缴费等手续。标志中可加注说明检查事项。" id="423" imgName="1369107924234.jpg" option="海关检查@@停车检查@@边防检查@@禁止通行" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="海关那俩个大字那么清晰你再不选D，D得有多伤心。" id="424" imgName="1369107924360.jpg" option="国界@@边防@@边界@@海关" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="指示标志是交通标志中主要标志的一种，用以指示车辆和行人按规定方向、地点行驶。 指示标志的颜色为蓝底、白图案；形状分为圆形、长方形和正方形。" id="425" imgName="" option="告知方向信息@@警告前方危险@@限制车辆、行人通行@@指示车辆、行人行进" question="指示标志的作用是什么？" type="1"></exam>
+  <exam answer="2" answerDesc="只准直行：表示只准一切车辆直行。此标志设在直行的路口以前适当位置。" id="426" imgName="1369107924516.jpg" option="直行车道@@只准直行@@单行路@@禁止直行" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="向左转弯：表示只准一切车辆向左转弯。此标志设在车辆必须向左转弯的路口以前适当位置。" id="427" imgName="1369107924651.jpg" option="向左转弯@@禁止直行@@直行车道@@单行路" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="向右转弯：表示只准一切车辆向右转弯。此标志设在车辆必须向右转弯的路口以前适当位置。" id="428" imgName="1369107924787.jpg" option="向右转弯@@单行路@@只准直行@@直行车道" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="直行和向右转弯：表示只准一切车辆直行和向右转弯。此标志设在车辆必须直行和向右转弯）的路口以前适当位置。" id="429" imgName="1369107924923.jpg" option="直行和向左转弯@@直行和向右转弯@@禁止直行和向右转弯@@只准向左和向右转弯" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="直行和向左转弯：表示只准一切车辆直行和向左转弯。此标志设在车辆必须直行和向左转弯的路口以前适当位置。" id="430" imgName="1369107925058.jpg" option="直行和向右转弯@@直行和向左转弯@@禁止直行和向左转弯@@只准向右和向左转弯" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="向左和向右转弯：表示只准一切车辆向左和向右转弯。此标志设在车辆必须向左和向右转弯的路口以前适当位置。" id="431" imgName="1369107925303.jpg" option="禁止向左转弯@@向左和向右转弯@@禁止向左右转弯@@禁止向右转弯" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="靠右侧道路行驶：表示只准一切车辆靠右侧道路行驶。此标志设在车辆必须靠右侧行驶的路口以前适当位置。" id="432" imgName="1369107925436.jpg" option="右侧是下坡路段@@靠右侧道路行驶@@靠道路右侧停车@@只准向右转弯" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="靠左侧道路行驶：表示只准一切车辆靠左侧道路行驶。此标志设在车辆必须靠左侧行驶的路口以前适当位置。" id="433" imgName="1369107925566.jpg" option="靠道路左侧停车@@左侧是下坡路段@@只准向左转弯@@靠左侧道路行驶" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="立体交叉直行和左转弯行驶：表示车辆在立交处可以直行和按图示路线左转弯行驶。此标志设在立交左转弯出口处适当位置。" id="434" imgName="1369107925694.jpg" option="立体交叉直行和左转弯行驶@@立体交叉直行和右转弯行驶@@直行和左转弯行驶@@直行和右转弯行驶" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="立体交叉直行和右转弯行驶：表示车辆在立交处可以直行和按图示路线右转弯行驶。此标志设在立交右转弯出口处适当位置。" id="435" imgName="1369107925810.jpg" option="直行和左转弯行驶@@直行和右转弯行驶@@立体交叉直行和右转弯行驶@@立体交叉直行和左转弯行驶" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="环岛行驶：表示只准车辆靠右环行。此标志设在环岛面向路口来车方向适当位置。" id="436" imgName="1369107925939.jpg" option="右侧通行@@左侧通行@@向右行驶@@环岛行驶" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="表示一切车辆向左单向行驶。此标志设在单行路的路口和入口处的适当位置。" id="437" imgName="1369107926060.jpg" option="左转让行@@直行单行路@@向右单行路@@向左单行路" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="表示一切车辆向右单向行驶。此标志设在单行路的路口和入口处的适当位置。" id="438" imgName="1369107926192.jpg" option="向左单行路@@向右单行路@@直行单行路@@右转让行" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="表示一切车辆单向行驶。此标志设在单行路的路口和入口处的适当位置。" id="439" imgName="1369107926312.jpg" option="靠右侧行驶@@不允许直行@@直行单行路@@直行车让行" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="表示该街道只供步行。此标志设在步行街的两端。" id="440" imgName="1369107926438.jpg" option="低速行驶@@注意行人@@步行@@行人先行" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="表示机动车行至该标志处必须鸣喇叭。此标志设在公路的急转弯处、陡坡等视线不良路段的起点。" id="441" imgName="1369107926566.jpg" option="禁止鸣高音喇叭@@禁止鸣低音喇叭@@应当鸣喇叭@@禁止鸣喇叭" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="表示该处为专供行人横穿马路的通道。此标志设在人行横道的两侧。" id="442" imgName="1369107926696.jpg" option="人行横道@@学生通道@@注意行人@@儿童通道" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="表示机动车驶入前方道路之最低时速限制。此标志设在高速公路或其他道路限速路段的起点。高度限速标志是白底红字。" id="443" imgName="1369107926817.jpg" option="最低限速50公里/小时@@高度限速50公里/小时@@水平高度50米@@海拔高度50米" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="表示干路先行，此标志设在车道以前适当位置。答题技巧：记住哥一句话，谁粗谁先行。" id="444" imgName="1369107926946.jpg" option="两侧街道@@干路先行@@停车让行@@单行路" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="表示会车先行，此标志设在车道以前适当位置。" id="445" imgName="1369107927074.jpg" option="停车让行@@单行路@@会车先行@@对向先行" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="表示只准一切车辆向右转弯。此标志设在车辆必须向右转弯的路口以前适当位置。" id="446" imgName="1369107927201.jpg" option="右转车道@@掉头车道@@左转车道@@分向车道" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="表示只准一切车辆向左转弯。此标志设在车辆必须向左转弯的路口以前适当位置。" id="447" imgName="1369107927328.jpg" option="右转车道@@掉头车道@@左转车道@@分向车道" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="表示只准一切车辆直行。此标志设在直行的路口以前适当位置。" id="448" imgName="1369107927456.jpg" option="右转车道@@掉头车道@@左转车道@@直行车道" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="表示只准一切车辆直行和向右转弯。此标志设在车辆必须直行和向右转弯）的路口以前适当位置。" id="449" imgName="1369107927573.jpg" option="直行和左转车道@@直行和辅路出口车道@@直行和右转合用车道@@分向行驶车道" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="表示只准一切车辆直行和向左转弯。此标志设在车辆必须直行和向左转弯的路口以前适当位置。" id="450" imgName="1369107927692.jpg" option="直行和掉头合用车道@@直行和左转合用车道@@直行和右转车道@@分向行驶车道" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="常识题。" id="451" imgName="1369107927813.jpg" option="掉头车道@@绕行车道@@分向车道@@左转车道" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="左转和掉头合并在一个标志里，你应该能看到的。" id="452" imgName="1369107927957.jpg" option="分向行驶车道@@掉头和左转合用车道@@禁止左转和掉头车道@@直行和左转合用车道" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="同向多车道的公路一般都设计了分向行驶车道，正常行驶过程中可以变更车道，当你行驶至路口时要变换到你要行驶的车道。例如要左转弯时要提前变更车道至左转弯车道；要右转弯时要提前变更车道至右转弯车道，不能占用他人行车道，以最大限度的保障通行。" id="453" imgName="1369107928088.jpg" option="左转行驶车道@@直线行驶车道@@右转行驶车道@@分向行驶车道" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="此为公交线路专用车道，与快速公交系统专用车道的区别是少了“快速公交”四个字。" id="454" imgName="1369107928212.jpg" option="大型客车专用车道@@公交线路专用车道@@快速公交系统专用车道@@多乘员车辆专用车道" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="看到小汽车你应该想到的是机动车行驶。" id="455" imgName="1369107928339.jpg" option="不准小型车通行@@只准小型车行驶@@机动车行驶@@禁止小型车行驶" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="此为机动车车道，比多乘员车辆专用车道少俩人。" id="456" imgName="1369107928468.jpg" option="小型车车道@@小型车专用车道@@多乘员车辆专用车道@@机动车车道" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="看到自行车你就想他是非机动车就行了。" id="457" imgName="1369107928629.jpg" option="电动自行车行驶@@非机动车停车位@@非机动车停放区@@非机动车行驶" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="此图为非机动车车道，别误以为自行车专用车道，没有自行车专用车道这一说。" id="458" imgName="1369107928768.jpg" option="禁止自行车通行车道@@非机动车车道@@自行车专用车道@@停放自行车路段" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="BRT车辆专用车道就是快速公交系统专用车道，与公交车专用车道的区别是多了“快速公交”四个字。" id="459" imgName="1369107928897.jpg" option="大型客车专用车道@@多乘员车专用车道@@公交车专用车道@@BRT车辆专用车道" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="此标志为多乘员车辆专用车道，比机动车专用车道标志上的小车多了2个小人，所以它是多乘员车辆专用车道。" id="460" imgName="1369107929030.jpg" option="小型汽车专用车道@@机动车专用车道@@出租汽车专用车道@@多乘员车辆专用车道" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="允许掉头标志" id="461" imgName="1369107929162.jpg" option="掉头@@倒车@@左转@@绕行" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="他是指方向的故为指路标志。交叉路口预告：用以预告前方交叉路口形式、交叉公路的编号或交叉道路的名称、通往方向信息、地理方向信息以及距前方交叉路口的距离。" id="462" imgName="1369107929289.jpg" option="指路标志@@指示标志@@禁令标志@@警告标志" question="这属于哪一类标志？" type="1"></exam>
+  <exam answer="3" answerDesc="指路标志嘛就是指路的，指路就是指方向的啊。" id="463" imgName="" option="限制车辆通行@@提示限速信息@@提供方向信息@@警告前方危险" question="指路标志的作用是什么？" type="1"></exam>
+  <exam answer="2" answerDesc="大交通量的四车道以上公路交叉路口预告：用以预告前方交叉路口形式、交叉公路的编号或交叉道路的名称、通往方向信息、地理方向信息以及距前方交叉路口的距离。设在交叉路口告知标志前150米-500米处。" id="464" imgName="1369107929449.jpg" option="车道方向预告@@交叉路口预告@@分道信息预告@@分岔处预告" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="十字交叉路口预告：用以告知前方交叉路口形式、交叉公路的编号或交叉道路的名称、通往方向信息、地理方向信息。设在距交叉路口前30米-80米处。" id="465" imgName="1369107929580.jpg" option="分道信息预告@@道路分岔处预告@@地点和距离预告@@十字交叉路口预告" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="丁字交叉路口预告：用以告知前方交叉路口形式、交叉公路的编号或交叉道路的名称、通往方向信息、地理方向信息。设在距交叉路口前30米-80米处。" id="466" imgName="1369107929700.jpg" option="丁字交叉路口预告@@道路分叉处预告@@Y型交叉路口预告@@十字交叉路口预告" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="Y型交叉路口预告：用以告知前方交叉路口形式、交叉公路的编号或交叉道路的名称、通往方向信息、地理方向信息。设在距交叉路口前30米-80米处。" id="467" imgName="1369107929846.jpg" option="环行交叉路口预告@@十字交叉路口预告@@Y型交叉路口预告@@丁字交叉路口预告" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="环形交叉口是在几条相交道路的平面交叉口中央设置一个半径较大的中心岛，使所有经过交叉口的直行和左转车辆都绕着中心岛作逆时针方向行驶，在其行驶过程中将车流的冲突点变  为交织点，从而保证交叉口的行车安全，提高交叉口的通行能力。" id="468" imgName="1369107930008.jpg" option="十字交叉路口预告@@互通立体交叉预告@@Y型交叉路口预告@@环行交叉路口预告" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="互通式立体交叉：路线交叉中的一种重要类型。交叉道路之间立体交叉并以匝道相互连通以实现交通转换的交叉。" id="469" imgName="1369107930145.jpg" option="十字交叉路口预告@@互通式立体交叉预告@@Y型交叉路口预告@@环行交叉路口预告" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="乡道是白底Y字开头的，县道是白底X开头的，省道是黄底的，国道是红底的。" id="470" imgName="1369107930268.jpg" option="乡道编号@@县道编号@@省道编号@@国道编号" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="乡道是白底Y字开头的，县道是白底X开头的，省道是黄底的，国道是红底的。" id="471" imgName="1369107930407.jpg" option="省道编号@@国道编号@@县道编号@@乡道编号" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="乡道是白底Y字开头的，县道是白底X开头的，省道是黄底的，国道是红底的。" id="472" imgName="1369107930533.jpg" option="省道编号@@国道编号@@县道编号@@乡道编号" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="乡道是白底Y字开头的，县道是白底X开头的，省道是黄底的，国道是红底的。" id="473" imgName="1369107930657.jpg" option="省道编号@@县道编号@@乡道编号@@国道编号" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="你看那个地点名和KM公里多明显，所以本题的答案是地点距离。如果有箭头的一半是行驶方向。" id="474" imgName="1369107930794.jpg" option="地点距离@@行驶路线@@终点地名@@行驶方向" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="如果P字上边没有遮挡就是露天停车场。" id="475" imgName="1369107930930.jpg" option="内部停车场@@专用停车场@@露天停车场@@室内停车场" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="你看那个P字上边还有个遮挡，说明是室内的，如果没有上边那个遮挡就是露天停车场。" id="476" imgName="1369107931055.jpg" option="专用停车场@@露天停车场@@室内停车场@@内部停车场" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="错车道指的是在单车道道路上，可通视的一定距离内，供车辆交错避让用的一段加宽车道。" id="477" imgName="1369107931183.jpg" option="露天停车场@@紧急停车带@@停车位@@错车道" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="观景台那三个字多明显，你再不选它，叫它情何以堪。" id="478" imgName="1369107931326.jpg" option="观景台@@停车场@@休息区@@停车位" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="你看他的动作时在跑，所以是紧急的情况，所以答案是A。应急避难场所是应对突发公共事件的一项灾民安置措施，是现代化大城市用于民众躲避火灾、爆炸、洪水、地震、疫情等重大突发公共事件的安全避难场所。" id="479" imgName="1369107931446.jpg" option="应急避难场所@@生活服务区@@行人专用通道@@横过道路设施" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="这个是休息区，服务区是有加油，通车，吃饭的组合标志，停车场就是一个P，图中没有加油站和吃饭的，所以它只是一个休息区。" id="480" imgName="1369107931576.jpg" option="休息区@@服务区@@停车场@@观景台" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="用以指示前方道路为死胡同，无出口、不能通行。该标志为蓝底白色街区红色图案。" id="481" imgName="1369107931695.jpg" option="T型路口@@分流路口@@减速通行@@此路不通" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="三车道变成二车道故车道数变少，选A。" id="482" imgName="1369107931818.jpg" option="车道数变少@@合流处@@应急车道@@向左变道" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="俩个车道变成三个，表示车道数增加。" id="483" imgName="1369107931943.jpg" option="向右变道@@分流处@@路面变宽@@车道数增加" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="交通监控设备标志属于指路标志，蓝底、白图形、白边框、蓝色衬边。用于告知机动车驾驶人该区域设置有固定式交通监控设备。" id="484" imgName="1369107932067.jpg" option="道路流量监测@@减速拍照区@@全路段抓拍@@交通监控设备" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="用于指示到前方隧道出口的距离。设在长度超过3 000 m的特长隧道内，从距离隧道出口2 000m处开始每500 m设置一块，直至隧道出口。该标志一般设置在隧道侧壁上。不要纠结选D，正确答案就是A，牢记吧。交通指路标志大全：http://www.jszks.com/onepage/16752.html" id="485" imgName="1369107932193.jpg" option="隧道出口距离@@隧道入口距离@@隧道跟车距离@@隧道总长度" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="线型诱导标线型诱导标志，用于引导车辆驾驶人改变行驶方向，促使安全运行。视需要设于易肇事之弯道路段，小半径匝道曲线或中央隔离设施及渠化设施的端部。线形诱导标的颜色规定为：指示性线形诱导标一般道路为蓝底白图案,高速公路为绿底白图案，用以提供一般性行驶指示;警告性线形诱导标为红底白图案，可使车辆驾驶人提高警觉，并准备防范应变之措施。" id="486" imgName="1369107932339.jpg" option="线形诱导标志@@合流诱导标志@@分流诱导标志@@转弯诱导标志" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="用于引导行车方向，提示道路使用者前方线形变化，注意谨慎驾驶。设于中央隔离设施端部、渠化设施的端部、桥头等。∧表示俩侧通行，/这个方向的表示左侧通行，这个方向表示右侧通行。交通指路标志大全：http://www.jszks.com/onepage/16752.html" id="487" imgName="1369107932456.jpg" option="两侧通行@@不准通行@@左侧通行@@右侧通行" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="用于引导行车方向，提示道路使用者前方线形变化，注意谨慎驾驶。设于中央隔离设施端部、渠化设施的端部、桥头等。答题技巧：∧表示俩侧通行，/这个方向的表示左侧通行，这个方向表示右侧通行。交通指路标志大全：http://www.jszks.com/onepage/16752.html" id="488" imgName="1369107932586.jpg" option="两侧通行@@右侧通行@@左侧通行@@不准通行" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="用于引导行车方向，提示道路使用者前方线形变化，注意谨慎驾驶。设于中央隔离设施端部、渠化设施的端部、桥头等。答题技巧：∧表示俩侧通行，/这个方向的表示左侧通行，这个方向表示右侧通行。交通指路标志大全：http://www.jszks.com/onepage/16752.html" id="489" imgName="1369107932707.jpg" option="两侧通行@@右侧通行@@左侧通行@@不准通行" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="高速公路入口预告：用于指示进入高速公路或城市快速路的入口，设在进入高速公路或城市快速路前的被交道路上适当位置。查看高速公路标志大全：http://www.jszks.com/onepage/16721.html" id="490" imgName="1369107932834.jpg" option="高速公路入口预告@@高速公路终点预告@@高速公路起点预告@@高速公路出口预告" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="高速公路地点、方向预告：用于指示高速公路或城市快速路两个行驶方向，设在驶入高速公路或城市快速路的匝道分岔点处。在目的地信息之上，可增加前往高速公路的编号信息。查看高速公路标志大全：http://www.jszks.com/onepage/16721.html" id="491" imgName="1369107932973.jpg" option="高速公路右侧出口预告@@高速公路下一出口预告@@高速公路地点、方向预告@@高速公路左侧出口预告" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="高速公路地点距离预告：预告高速公路或城市快速路前方所要经过的重要的地点、道路的名称和距离，设置在互通式立体交叉加速车道的渐变段终点以后1 km以上路段的合适位置处。查看高速公路标志大全：http://www.jszks.com/onepage/16721.html" id="492" imgName="1369107933167.jpg" option="高速公路终点地名预告@@高速公路行驶路线预告@@高速公路行驶方向预告@@高速公路地点距离预告" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="高速公路命名编号：用于指示高速公路的编号，作为指路标志的路线信息，出现在高速公路、城市快速路、一般道路指路标志版面中。查看高速公路标志大全：http://www.jszks.com/onepage/16721.html" id="493" imgName="1369107933344.jpg" option="高速公路里程编号@@高速公路界牌编号@@高速公路命名编号@@高速公路路段编号" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="高速公路下一出口预告：预告下一出口可到达地点。当互通式立体交叉间距大于或等于3 km、小于5 km时，应设置下一出口预告标志，预告下一出口的信息和距离。查看高速公路标志大全：http://www.jszks.com/onepage/16721.html" id="494" imgName="1369107933471.jpg" option="高速公路左侧出口预告@@高速公路目的地预告@@高速公路右侧出口预告@@高速公路下一出口预告" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="高速公路右侧出口预告：用于预告前方出口，设置在距离高速公路或城市快速路减速车道的渐变段起点处。出口预告标志应同时附着出口编号标志。查看高速公路标志大全：http://www.jszks.com/onepage/16721.html" id="495" imgName="1369107933596.jpg" option="高速公路右侧出口预告@@高速公路目的地预告@@高速公路左侧出口预告@@高速公路下一出口预告" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="高速公路左侧出口预告：用于预告前方出口，在距离高速公路或城市快速路减速车道的渐变段起点处。出口预告标志应同时附着出口编号标志。查看高速公路标志大全：http://www.jszks.com/onepage/16721.html" id="496" imgName="1369107933716.jpg" option="高速公路下一出口预告@@高速公路右侧出口预告@@高速公路左侧出口预告@@高速公路目的地预告" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="高速公路起点：设在高速公路或城市快速路的起点。查看高速公路标志大全：http://www.jszks.com/onepage/16721.html" id="497" imgName="1369107933841.jpg" option="高速公路出口@@高速公路起点@@高速公路入口@@高速公路终点" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="高速公路终点预告：用于指示高速公路或城市快速路终点，设在高速公路或城市快速路终点处。查看高速公路标志大全：http://www.jszks.com/onepage/16721.html" id="498" imgName="1369107933994.jpg" option="高速公路出口预告@@高速公路入口预告@@高速公路终点预告@@高速公路起点预告" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="高速公路交通广播频率：用以指示收听高速公路或城市快速路交通信息广播的频率，可在适当地点设置，根据需要可重复设置。查看高速公路标志大全：http://www.jszks.com/onepage/16721.html" id="499" imgName="1369107934154.jpg" option="高速公路救援电话号码@@高速公路服务电话号码@@高速公路报警电话号码@@高速公路交通广播频率" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="停车领卡：用以提示停车领卡，设在进入高速公路或城市快速路收费站入口一侧的适当位置。查看高速公路标志大全：http://www.jszks.com/onepage/16721.html" id="500" imgName="1369107934278.jpg" option="停车领卡@@停车缴费@@ETC通道@@停车检查" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="设有ETC的收费站：用以指示前方收费站。设在高速公路、城市快速路主线上渐变段起点处。查看高速公路标志大全：http://www.jszks.com/onepage/16721.html" id="501" imgName="1369107934401.jpg" option="高速公路收费处@@高速公路检查站@@设有ETC的收费站@@高速公路领卡处" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="高速公路ETC车道：用于指示电子不停车收费车道，设在收费广场渐变段起点前300 m处。表示单向3个收费车道时ETC车道指示标志。查看高速公路标志大全：http://www.jszks.com/onepage/16721.html" id="502" imgName="1369107934521.jpg" option="高速公路缴费车道@@高速公路检查车道@@高速公路领卡车道@@高速公路ETC车道" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="高速公路特殊天气建议速度：用以提醒驾驶员在雨、雪、雾等特殊天气下，以建议速度行驶，和白色半圆状车距确认线配合使用。查看高速公路标志大全：http://www.jszks.com/onepage/16721.html" id="503" imgName="1369107934661.jpg" option="高速公路特殊天气建议速度@@高速公路特殊天气最低速度@@高速公路特殊天气平均速度@@高速公路特殊天气最高速度" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="高速公路紧急电话：用于指示高速公路紧急电话的位置，可单独设置也可设在紧急电话的立柱上或箱体上。查看高速公路标志大全：http://www.jszks.com/onepage/16721.html" id="504" imgName="1369107934790.jpg" option="高速公路公用电话@@高速公路报警电话@@高速公路紧急电话@@高速公路救援电话" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="高速公路救援电话：用于指示救援电话号码，没有设置紧急电话的高速公路上应设置救援电话标志。标志上号码为示例。查看高速公路标志大全：http://www.jszks.com/onepage/16721.html" id="505" imgName="1369107934909.jpg" option="高速公路报警电话@@高速公路公用电话@@高速公路紧急电话@@高速公路救援电话" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="高速公路紧急停车带：用于指示紧急停车的位置，设在紧急停车带的前端。查看高速公路标志大全：http://www.jszks.com/onepage/16721.html" id="506" imgName="1369107935029.jpg" option="高速公路紧急停车带@@高速公路避让处所@@高速公路客车站@@高速公路停车区" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="高速公路加油站：用于指示加油站的位置，设在通往加油站的入口附近。查看高速公路标志大全：http://www.jszks.com/onepage/16721.html" id="507" imgName="1369107935165.jpg" option="高速公路客车站@@高速公路休息区@@高速公路加油站@@高速公路服务区" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="高速公路服务区预告：用于预告服务区的位置，设在减速车道起点处。表示一般服务区预告标志。查看高速公路标志大全：http://www.jszks.com/onepage/16721.html" id="508" imgName="1369107935290.jpg" option="高速公路客车站预告@@高速公路避险处预告@@高速公路服务区预告@@高速公路收费站预告" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="高速公路停车区是有茶杯的，高速公路停车场是只有一个P。" id="509" imgName="1369107935412.jpg" option="高速公路停车区预告@@高速公路避险处预告@@高速公路停车场预告@@高速公路服务区预告" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="高速公路停车区和高速公路停车场的区别是停车区是有一个茶杯的，停车场只有一个P。" id="510" imgName="1369107935534.jpg" option="高速公路服务区预告@@高速公路避险处预告@@高速公路客车站预告@@高速公路停车场预告" question="这个标志预告什么？" type="1"></exam>
+  <exam answer="1" answerDesc="遇此类标志是指旅游区的距离还有多远（亲不要激动 安全第一 慢行" id="511" imgName="1369107935668.jpg" option="旅游区距离@@旅游区方向@@旅游区符号@@旅游区类别" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="快到云居寺了，箭头指的是方向" id="512" imgName="1369107935790.jpg" option="旅游区距离@@旅游区类别@@旅游区方向@@旅游区符号" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="道路交通标线是同标划于路面上的各种线条、箭头、文字、立面标记、突起路标和轮廓标等所构成的交通安全设施。它的作用是管制和引导交通。可以与标志配合使用，也可单独使用。" id="513" imgName="1369107935937.jpg" option="指示标线@@禁止标线@@警告标志@@辅助标线" question="路中心黄色虚线属于哪一类标线？" type="1"></exam>
+  <exam answer="2" answerDesc="指示标线主要就是引导你正确的行驶，安全守法" id="514" imgName="" option="禁止通行@@指示通行@@限制通行@@警告提醒" question="指示标线的作用是什么？" type="1"></exam>
+  <exam answer="4" answerDesc="同向两车道之间的标线，没线怕乱开" id="515" imgName="1369107936095.jpg" option="禁止跨越对向车道中心线@@限制跨越对向车道中心线@@单向行驶车道分界中心线@@可跨越同向车道中心线" question="路中白色虚线是什么标线？" type="1"></exam>
+  <exam answer="2" answerDesc="分隔相向车道的分界线" id="516" imgName="1369107936222.jpg" option="允许在左侧车道行驶@@分隔对向行驶的交通流@@分隔同向行驶的交通流@@禁止跨越对向行车道" question="路中黄色分界线的作用是什么？" type="1"></exam>
+  <exam answer="2" answerDesc="“潮汐车道线”是指根据早晚交通流量不同情况，对有条件的道路，试点开辟潮汐车道，通过车道灯的指示方向变化，控制主干道车道行驶方向，来调整车道数，提高车道使用效率。" id="517" imgName="1369107936347.jpg" option="双向分道线@@潮汐车道线@@可跨越分道线@@单向分道线" question="路中两条双黄色虚线是什么标线？" type="1"></exam>
+  <exam answer="2" answerDesc="白虚线不可以跨越" id="518" imgName="1369107936511.jpg" option="车辆可临时跨越@@禁止车辆跨越@@机动车可临时跨越@@非机动车可临时跨越" question="路两侧的车行道边缘白色实线是什么含义？" type="1"></exam>
+  <exam answer="1" answerDesc="白虚线可压" id="519" imgName="1369107936724.jpg" option="车辆可临时越线行驶@@车辆禁止越线行驶@@应急车道分界线@@人行横道分界线" question="路右侧车行道边缘白色虚线是什么含义？" type="1"></exam>
+  <exam answer="2" answerDesc="直行灯变绿后，要左转的可以行驶进白色虚线内，等灯变成左转时就可以通行了" id="520" imgName="1369107936891.jpg" option="交叉路停车线@@左弯待转区线@@掉头引导线@@小型车转弯线" question="图中圈内两条白色虚线是什么标线？" type="1"></exam>
+  <exam answer="4" answerDesc="路口导向线：车辆左转弯一律线内行驶。" id="521" imgName="1369107937051.jpg" option="小型车转弯线@@车道连接线@@非机动车引导线@@路口导向线" question="图中圈内白色虚线是什么标线？" type="1"></exam>
+  <exam answer="2" answerDesc="转向时按黄虚线行驶" id="522" imgName="1369107937225.jpg" option="非机动车引导线@@路口导向线@@车道连接线@@小型车转弯线" question="图中圈内黄色虚线是什么标线？" type="1"></exam>
+  <exam answer="1" answerDesc="具有固定行驶方向的导向车道线" id="523" imgName="1369107937385.jpg" option="导向车道线@@可变导向车道线@@方向引导线@@单向行驶线" question="图中圈内白色实线是什么标线？" type="1"></exam>
+  <exam answer="3" answerDesc="这道儿左转右转还是直行都是可以的，关键看信号灯或者路面上的指标牌" id="524" imgName="1369107937547.jpg" option="导向车道线@@方向引导线@@可变导向车道线@@单向行驶线" question="图中圈内的锯齿状白色实线是什么标线？" type="1"></exam>
+  <exam answer="1" answerDesc="人行横道 小孩子都知道的" id="525" imgName="1369107937705.jpg" option="人行横道线@@减速让行线@@停车让行线@@路口示意线" question="图中圈内的路面标记是什么标线？" type="1"></exam>
+  <exam answer="1" answerDesc="这种标线在到达人行横道前的道路30-50米处设置，它的作用是用来提示驾驶员，前方已接近人行横道，应减速慢行，并须注意行人横过马路" id="526" imgName="1369107937870.jpg" option="人行横道预告@@交叉路口预告@@减速让行预告@@停车让行预告" question="这个地面标记是什么标线？" type="1"></exam>
+  <exam answer="1" answerDesc="车距确认标线作为车辆驾驶人保持行车安全距离的参考，视需要设于较长直线段、易发生追尾事故或其他需要的路段，应与车距确认标志配合使用。" id="527" imgName="1369107937992.jpg" option="车距确认线@@减速行驶线@@车速确认线@@路口减速线" question="图中圈内的白色折线是什么标线？" type="1"></exam>
+  <exam answer="4" answerDesc="车距确认标线作为车辆驾驶人保持行车安全距离的参考，视需要设于较长直线段、易发生追尾事故或其他需要的路段，应与车距确认标志配合使用。 白色半圆状车距确认标线设置于气象条件复杂，影响安全行车的路段两侧。" id="528" imgName="1369107938149.jpg" option="减速行驶线@@车速确认线@@路口减速线@@车距确认线" question="图中圈内的白色半圆状标记是什么标线？" type="1"></exam>
+  <exam answer="4" answerDesc="道路出口标线为白色虚线，主要用于高速公路和其他采用立体交叉道路。该标线作用为，高速公路出入口横向标线或三角地带标线是为驶入或驶出匝道车辆提供安全交汇引导，减少与突出部缘石碰撞。" id="529" imgName="1369107938316.jpg" option="道路入口标线@@可跨越式分道线@@道路出口减速线@@道路出口标线" question="路面由白色虚线和三角地带标线组成的是什么标线？" type="1"></exam>
+  <exam answer="1" answerDesc="道路入口标线为白色虚线，主要用于高速公路和其他采用立体交叉道路。该标线作用为，高速公路出入口横向标线或三角地带标线是为驶入或驶出匝道车辆提供安全交汇引导，减少与突出部缘石碰撞。" id="530" imgName="1369107938479.jpg" option="道路入口标线@@可跨越式分道线@@道路入口减速线@@道路出口标线" question="路面上白色虚线和三角地带标线组成的是什么标线？" type="1"></exam>
+  <exam answer="2" answerDesc="路边的平行的停车位，亲 侧方停车以后要好好学哦~" id="531" imgName="1369107938645.jpg" option="出租车专用上下客停车位@@平行式停车位@@倾斜式停车位@@垂直式停车位" question="这种白色矩形标线框含义是什么？" type="1"></exam>
+  <exam answer="4" answerDesc="这是停车位，车头要按箭头位置，停反了肯定会有人找你事儿~~" id="532" imgName="1369107938822.jpg" option="专用待客停车位@@专用上下客停车位@@机动车限时停车位@@固定停车方向停车位" question="这种停车标线含义是什么？" type="1"></exam>
+  <exam answer="2" answerDesc="有时限的停车位~~" id="533" imgName="1369107938952.jpg" option="长时停车位@@限时停车位@@免费停车位@@专用停车位" question="这种白色矩形标线框含义是什么？" type="1"></exam>
+  <exam answer="2" answerDesc="请记住" id="534" imgName="1369107939350.jpg" option="临时停靠站@@港湾式停靠站@@应急停车带@@公交车停靠站" question="红色圆圈内标线含义是什么？" type="1"></exam>
+  <exam answer="3" answerDesc="都写了公交站了，不许选错了" id="535" imgName="1369107939516.jpg" option="临时停靠站@@大客车停靠站@@公交车停靠站@@应急停车带" question="红色圆圈内标线含义是什么？" type="1"></exam>
+  <exam answer="4" answerDesc="亲，直行哦~~" id="536" imgName="1369107939675.jpg" option="指示禁行@@指示车道@@指示合流@@指示直行" question="这个导向箭头是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="左或者直行" id="537" imgName="1369107939804.jpg" option="指示直行或掉头@@指示直行或左转弯@@指示直行或向左变道@@指示向左转弯或掉头" question="这个导向箭头是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="直接或右转，送分题" id="538" imgName="1369107939930.jpg" option="指示直行或右转弯@@指示向右转弯或掉头@@指示直行或向右变道@@指示直行或掉头" question="这个导向箭头是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="请记住了哦，不难的吧" id="539" imgName="1369107940047.jpg" option="指示向左变道@@指示前方直行@@指示前方左转弯@@指示前方右转弯" question="这个导向箭头是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="请记住了哦" id="540" imgName="1369107940168.jpg" option="指示向左变道@@指示前方直行@@指示前方掉头@@指示前方右转弯" question="这个导向箭头是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="请记住了 so easy!!" id="541" imgName="1369107940296.jpg" option="指示向左变道@@指示前方直行@@指示前方掉头@@指示前方右转" question="这个导向箭头是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="直行或者掉头都可以" id="542" imgName="1369107940429.jpg" option="指示前方可左转或掉头@@指示前方可直行或左转@@指示前方直行向左变道@@指示前方可直行或掉头" question="这个导向箭头是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="其实是一个左转+掉头的综合体 orz" id="543" imgName="1369107940553.jpg" option="指示前方可直行或掉头@@指示前方可左转或掉头@@指示前方可直行或向左变道@@指示前方可直行或左转" question="这个导向箭头是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="按图箭头意思就是要向右小转变，可能是道路右转，可能是两个不同的车道要汇合" id="544" imgName="1369107940683.jpg" option="提示前方有左弯或需向左绕行@@提示前方有障碍需向左合流@@提示前方有右弯或需向右合流@@提示前方有左弯或需向左合流" question="路面上导向箭头是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="可以左转也可以右转，三叉路口" id="545" imgName="1369107940802.jpg" option="指示前方道路是Y型交叉口@@指示前方道路是分离式道路@@指示前方道路仅可左右转弯@@指示前方道路需向左右合流" question="路面上导向箭头是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="图中的意思是最低60，最高80，用来提醒你速度应该限制在什么范围里" id="546" imgName="1369107940931.jpg" option="保持车距标记@@最小间距标记@@速度限制标记@@道路编号标记" question="这个路面数字标记是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="黄色是警示你别超了，一越你就黄了" id="547" imgName="1369107941058.jpg" option="平均速度为100公里/小时@@最低限速为100公里/小时@@解除100公里/小时限速@@最高限速为100公里/小时" question="这个路面标记是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="白色为最低限速，黄色为最高限速。" id="548" imgName="1369107941176.jpg" option="最低限速为80公里/小时@@平均速度为80公里/小时@@最高限速为80公里/小时@@解除80公里/小时限速" question="这个路面标记是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="这是非机动车（就是不烧油的）不要把四轮的开到他们的道上" id="549" imgName="1369107941313.jpg" option="非机动车道@@摩托车专用道@@电瓶车专用道@@自行车专用道" question="这个路面标记是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="禁止压线哦亲~~" id="550" imgName="1369107941446.jpg" option="辅助标线@@警告标志@@禁止标线@@指示标线" question="路中心的双黄实线属于哪一类标线？" type="1"></exam>
+  <exam answer="1" answerDesc="哥木了，黄线不能压，两黄线就是左右不能过界了－－写解释的孩子伤不起" id="551" imgName="1369107941567.jpg" option="禁止跨越对向车行道分界线@@可跨越对向车道分界线@@双侧可跨越同向车道分界线@@单向行驶车道分界线" question="路中心双黄实线是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="虚线可压，实线不可压，黄色是引起你注意，如图就是实线一侧禁止越线" id="552" imgName="1369107941695.jpg" option="虚线一侧禁止越线@@实线一侧禁止越线@@实线一侧允许越线@@两侧均可越线行驶" question="路中心黄色虚实线是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="相对车道之间不能跨越黄线，一过就你就成马路杀手了。" id="553" imgName="1369107941830.jpg" option="单向行驶车道分界线@@禁止跨越对向车行道分界线@@双侧可跨越同向车道分界线@@可跨越对向车道分界线" question="路中心的黄色斜线填充是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="实线不能压，如果两个同向车道之间有虚线就可以换道，如果是实线则规规矩矩的别跑偏了" id="554" imgName="1369107941983.jpg" option="单侧可跨越同向车道分界线@@禁止跨越同向车行道分界线@@双侧可跨越同向车道分界线@@禁止跨越对向车行道分界线" question="路中心白色实线是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="请查看详细题解：http://www.jszks.com/jieshi/15128.html" id="555" imgName="1369107942098.jpg" option="禁止临时停车@@禁止上下人员@@禁止装卸货物@@禁止长时停车" question="路缘石上的黄色虚线是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="好人记住吧" id="556" imgName="1369107942243.jpg" option="仅允许上下人员@@仅允许装卸货物@@禁止长时间停车@@禁止停放车辆" question="路缘石上的黄色实线是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="红绿灯前的停止线呗，基础的基础" id="557" imgName="1369107942370.jpg" option="待转线@@减速线@@让行线@@停止线" question="图中圈内白色横实线是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="停车让行线是在没有信号灯状态下。停止线是遇有信号灯红灯时表示车辆等候放行信号的位置,不能超越或压此线。" id="558" imgName="1369107942508.jpg" option="停车让行线@@减速让行线@@左弯待转线@@等候放行线" question="路口最前端的双白实线是什么含义？" type="1"></exam>
+  <exam answer="3" answerDesc="虚线可以压线，就是可以过去，边上有倒三角“让”字，所以是减速让行 ORZ" id="559" imgName="1369107942623.jpg" option="等候放行线@@停车让行线@@减速让行线@@左弯待转线" question="路口最前端的双白虚线是什么含义？" type="1"></exam>
+  <exam answer="3" answerDesc="导流线的形式主要为一个或几个根据路口地形设置的白色V形线或斜纹线区域，表示车辆必须按规定的路线行驶，不得压线或越线行驶。 主要用于过宽、不规则或行驶条件比较复杂的交叉路口,立体交叉的匝道口或其他特殊地点。" id="560" imgName="1369107942745.jpg" option="停车线@@减速线@@导流线@@网状线" question="图中圈内三角填充区域是什么标线？" type="1"></exam>
+  <exam answer="4" answerDesc="中心圈，设置在交叉路口中心的白色圆形或菱形区域，用以区分车辆大、小转弯，及交叉路口车辆左右转弯的指示，车辆不得压线行驶。 机动车向左转弯时，必须紧靠中心圈小转弯。" id="561" imgName="1369107942869.jpg" option="网状线@@禁驶区@@导流线@@中心圈" question="这个路面标记是什么标线？" type="1"></exam>
+  <exam answer="4" answerDesc="中心圈，设置在交叉路口中心的白色圆形或菱形区域，用以区分车辆大、小转弯，及交叉路口车辆左右转弯的指示，车辆不得压线行驶。 机动车向左转弯时，必须紧靠中心圈小转弯。" id="562" imgName="1369107943003.jpg" option="禁驶区@@网状线@@导流线@@中心圈" question="这个路面标记是什么标线？" type="1"></exam>
+  <exam answer="3" answerDesc="路面黄色网状线表示严格禁止一切车辆长时或临时停车，防止交通阻塞。当黄色网状线前方有车辆停驶时，后车必须在黄色网状线外等候，直到确认黄色网状线前方有足够空间停驶本车时，方可驶过黄色网状线。 另有黄色网状线是施画在重要国家机关、军队、大型企事业单位和公交枢纽门前，确保车辆进出时不致被门前拥堵车辆堵住的措施。网状线是黄色线，停车时禁止占用。" id="563" imgName="1369107943140.jpg" option="中心圈@@导流线@@网状线@@停车区" question="图中路口中央黄色路面标记是什么标线？" type="1"></exam>
+  <exam answer="4" answerDesc="黄色虚线中的车道里有写字，黄色虚线是想突出引动驾驶员注意的，知道选啥了没？看图就懂！" id="564" imgName="1369107943295.jpg" option="营运客车专用车道@@大客车专用车道@@出租车专用车道@@公交专用车道" question="图中圈内两条黄色虚线间的区域是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="图上有字，“多乘员专用”这是送分题" id="565" imgName="1369107943458.jpg" option="多乘员车辆专用车道@@小型客车专用车道@@未载客出租车专用车道@@大型客车专用车道" question="道路最左侧白色虚线区域是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="一个X加上一个向回掉头的标记，加一起就是禁止掉头" id="566" imgName="1369107943614.jpg" option="禁止直行@@允许掉头@@禁止掉头@@禁止转弯" question="路面上的黄色标记是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="一个X加上一个右转，加一起就是禁止右转，你懂的。" id="567" imgName="1369107943739.jpg" option="禁止掉头@@禁止左转@@禁止右转@@禁止直行" question="路面上的黄色标记是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="唉，横着的线 这么多 肯定得减速慢待多观察了。" id="568" imgName="1369107943888.jpg" option="道路施工提示标线@@车行道横向减速标线@@车行道纵向减速标线@@车道变少提示标线" question="路面上的白色标线是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="车道宽度紧缩，注意慢行" id="569" imgName="1369107944020.jpg" option="路面宽度渐变标线@@车行道变多标线@@接近障碍物标线@@施工路段提示线" question="路面上的黄色标线是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="双黄线就是警告注意越界，“打叉的物体”就是不可移动障碍物。因此选 接近障碍物标线。" id="570" imgName="1369107944150.jpg" option="接近移动障碍物标线@@远离狭窄路面标线@@接近障碍物标线@@接近狭窄路面标线" question="路面上的黄色填充标线是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="那是用来标记物体表面的－－简称“立面”，别去撞哟~~" id="571" imgName="1369107944326.jpg" option="实体标记@@突起标记@@立面标记@@减速标记" question="这种黄黑相间的倾斜线条是什么标记？" type="1"></exam>
+  <exam answer="2" answerDesc="车行道纵向减速标线为一组平行于车行道分界线的菱形块虚线。在车行道纵向减速标线的起始位置，设置30 m的渐变段，菱形块虚线由窄变宽－－from 专业控。" id="572" imgName="1369107944462.jpg" option="道路施工提示标线@@车行道纵向减速标线@@车行道横向减速标线@@车道变少提示标线" question="路面上的菱形块虚线是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="手势题详解：http://www.jszks.com/onepage/16203.html" id="573" imgName="1369107944587.jpg" option="右转弯信号@@靠边停车信号@@左转弯信号@@停止信号" question="这一组交通警察手势是什么信号？" type="1"></exam>
+  <exam answer="1" answerDesc="手势题详解：http://www.jszks.com/onepage/16203.html" id="574" imgName="1369107944759.jpg" option="直行信号@@转弯信号@@停止信号@@靠边停车信号" question="这一组交通警察手势是什么信号？" type="1"></exam>
+  <exam answer="3" answerDesc="手势题详解：http://www.jszks.com/onepage/16203.html" id="575" imgName="1369107944930.jpg" option="左转弯待转信号@@靠边停车信号@@左转弯信号@@右转弯信号" question="这一组交通警察手势是什么信号？" type="1"></exam>
+  <exam answer="4" answerDesc="手势题详解：http://www.jszks.com/onepage/16203.html" id="576" imgName="1369107945102.jpg" option="左转弯待转信号@@靠边停车信号@@减速慢行信号@@左转弯信号" question="这一组交通警察手势是什么信号？" type="1"></exam>
+  <exam answer="2" answerDesc="手势题详解：http://www.jszks.com/onepage/16203.html" id="577" imgName="1369107945263.jpg" option="左转弯信号@@左转弯待转信号@@减速慢行信号@@右转弯信号" question="这一组交通警察手势是什么信号？" type="1"></exam>
+  <exam answer="4" answerDesc="手势题详解：http://www.jszks.com/onepage/16203.html" id="578" imgName="1369107945429.jpg" option="减速慢行信号@@靠边停车信号@@停止信号@@右转弯信号" question="这一组交通警察手势是什么信号？" type="1"></exam>
+  <exam answer="3" answerDesc="手势题详解：http://www.jszks.com/onepage/16203.html" id="579" imgName="1369107945607.jpg" option="左转弯待转信号@@靠边停车信号@@右转弯信号@@减速慢行信号" question="这一组交通警察手势是什么信号？" type="1"></exam>
+  <exam answer="4" answerDesc="手势题详解：http://www.jszks.com/onepage/16203.html" id="580" imgName="1369107945773.jpg" option="右转弯信号@@减速慢行信号@@靠边停车信号@@变道信号" question="这一组交通警察手势是什么信号？" type="1"></exam>
+  <exam answer="3" answerDesc="如果看到别人发火，我们会做由上往下压的动作让他压压火别爆发，同理，由下往下压是让你减速慢行" id="581" imgName="1369107945929.jpg" option="右转弯信号@@变道信号@@减速慢行信号@@靠边停车信号" question="这一组交通警察手势是什么信号？" type="1"></exam>
+  <exam answer="1" answerDesc="呐，给您罗列下：1、雨水影响视线，要开适度的雨刮频次；2、空气潮湿容易在车的前档内表面形成雾气，要注意除雾；3、雨天路面易打滑，要保持安全的低速；4、特殊情况下，紧急制动时，务必保持方向稳定，防止侧翻；5、雨水易形成路面沟、洞表面积水，易造成驾驶员判断失误，谨慎避开；" id="582" imgName="" option="路面湿滑，视线受阻@@发动机易熄火@@行驶阻力增大@@电器设备易受潮短路" question="雨天对安全行车的主要影响是什么？" type="1"></exam>
+  <exam answer="1" answerDesc="给大伙上个关于水的物理课：在粗糙的物体表面有能摸的着的水时，水会减小摩擦；在粗糙的物体表面有极少的（摸不到，有湿润感觉）水时，会增加物体表面的粗糙程度增大摩擦力－－如：数钞票时，在手上沾上些水，数钱数的又快又准等。！！！下雨天不是数钱，别急刹了我个亲！急刹加打方向－－你会成为漂移达人的！！" id="583" imgName="" option="发生侧滑、引发交通事故@@因视线模糊而撞车@@不被其他车辆驾驶人发现@@引起发动机熄火" question="下雨后路面湿滑，车辆行驶中紧急制动时，容易导致什么？" type="1"></exam>
+  <exam answer="3" answerDesc="能见度低，视线不清；你看不见我，我看不见你；如果车速快，可能就“吻”一起了，要刹得牢就得开慢点，特别注意前后左右突然窜出来大神们！！！" id="584" imgName="" option="发动机易熄火@@易发生侧滑@@能见度低，视线不清@@行驶阻力增大" question="雾天对安全行车的主要影响是什么？" type="1"></exam>
+  <exam answer="3" answerDesc="夜间行车视线差，在没有照明的路段，驾驶人视线普遍受到影响，不能清楚看到前方事物，或者不能看清和判断前方事物的距离，尤其是在会车的情况下，由于受对向车辆灯光的影响，会产生视觉的盲点，导致看不清或看不见前方事物，夜间特大道路交通事故明显高于白天。夜间行车由于不能见到道路两旁的景观，对驾驶员兴奋性刺激物小，因此最易产生驾驶疲劳，如稍有感觉就应振作精神或停车休息片刻。" id="585" imgName="" option="驾驶人体力下降@@驾驶人易产生冲动、幻觉@@能见度低、不利于观察道路交通情况@@路面复杂多变" question="夜间道路环境对安全行车的主要影响是什么？" type="1"></exam>
+  <exam answer="4" answerDesc="这是我们眼睛的硬伤，所以我们都是晚上睡觉。" id="586" imgName="" option="不变@@无规律@@变长@@变短" question="夜间驾驶人对物体的观察明显比白天差，视距会有什么变化？" type="1"></exam>
+  <exam answer="4" answerDesc="因汽车轮胎与路面的摩擦系数减小、附着力大大降低，汽车驱动轮很容易打滑或空转，尤其是上坡、起步、停车时还会出现后溜车的现象；车辆在行驶中如果突然加速或减速，很容易造成侧滑及方向跑偏现象；遇情况紧急制动时，制动距离会大大延长。" id="587" imgName="" option="电器设备易受潮短路@@能见度降低，视野模糊@@行驶阻力增大@@制动性能差，方向易跑偏" question="冰雪道路对安全行车的主要影响是什么？" type="1"></exam>
+  <exam answer="1" answerDesc="车辆在冰雪路面上行驶，因汽车轮胎与路面的摩擦系数减小、附着力大大降低，所以遇有冰雪路面，车辆在行驶中最重要的是车辆制动问题，要采取点刹、并和前后车保持车距离。遇情况紧急制动时，制动距离会大大延长。" id="588" imgName="" option="制动距离延长@@抗滑能力变大@@制动性能没有变化@@路面附着力增大" question="冰雪路行车时应注意什么？" type="1"></exam>
+  <exam answer="2" answerDesc="泥泞路面特别松软和粘稠，车辆行驶阻力大，附着力减小，车轮极易划转和侧滑。" id="589" imgName="" option="行驶阻力变小@@车轮极易滑转和侧滑@@能见度低，视野模糊@@路面附着力增大" question="泥泞道路对安全行车的主要影响是什么？" type="1"></exam>
+  <exam answer="2" answerDesc="因为水淹没了路面，所以看不清是暗坑和凸起的路面" id="590" imgName="" option="路面附着力增大@@无法观察到暗坑和凸起的路面@@能见度低，视野模糊@@日光反射阻挡视线" question="水淹路面影响行车安全，不易通行的原因是什么？" type="1"></exam>
+  <exam answer="2" answerDesc="最关键的一点是山区道路行驶时不容易掌握周围情况，也就是所谓视距不足。" id="591" imgName="" option="交通情况单一@@坡长弯急，视距不足@@车流密度大@@道路标志少" question="山区道路对安全行车的主要影响是什么？" type="1"></exam>
+  <exam answer="3" answerDesc="做文明开车人吧,不要抱怨太多,安全才重要,“宁停三分，不抢一秒”嘛！" id="592" imgName="" option="挡住其去路@@保持原车速行驶@@尽可能减速避让、直至停车@@加速行驶" question="行车中突遇对方车辆强行超车，占据自己车道，正确的做法是什么？" type="1"></exam>
+  <exam answer="1" answerDesc="高度集中注意力，很费神的，久了就会疲倦。" id="593" imgName="" option="正确@@错误" question="夜间行车，驾驶人视距变短，影响观察，同时注意力高度集中，易产生疲劳。" type="0"></exam>
+  <exam answer="1" answerDesc="因为太阳光通过冰的折射到人的眼睛里，冰在太阳光下就好像一面镜子。" id="594" imgName="" option="正确@@错误" question="冰雪道路行车，由于积雪对光线的反射，极易造成驾驶人目眩而产生错觉。" type="0"></exam>
+  <exam answer="1" answerDesc="轮胎与地面的摩擦系数降低，轮胎不易附着在地面上，只要一加速，就极易空转或溜滑。" id="595" imgName="" option="正确@@错误" question="在冰雪道路上行车时，车辆的稳定性降低，加速过急时车轮极易空转或溜滑。" type="0"></exam>
+  <exam answer="1" answerDesc="常识题，泥泞路摩擦系数低。" id="596" imgName="" option="正确@@错误" question="在泥泞路上制动时,车轮易发生侧滑或甩尾，导致交通事故。" type="0"></exam>
+  <exam answer="2" answerDesc="不应该挂高速挡，而是要“应选用低速挡，以保证汽车有足够的驱动力;入水时应平稳，以防溅起的水花落 入电器设备，造成电器短路;发动机中速运转，保持车速，中途不得停车、换挡和急转转向盘”这样才对。" id="597" imgName="" option="正确@@错误" question="漫水道路行车时，应挂高速档，快速通过。" type="0"></exam>
+  <exam answer="2" answerDesc="开车一般是依安全为主 避让为主 和谐为主。" id="598" imgName="" option="正确@@错误" question="行车中突遇对向车辆强行超车，占据自己车道时，可不予避让，迫使对方让路。" type="0"></exam>
+  <exam answer="3" answerDesc="请伸出您的援手，你不能保证下次需要帮助的人不是你。" id="599" imgName="" option="尽量绕道躲避@@立即报警，停车观望@@协助保护现场，并立即报警@@加速通过，不予理睬" question="行车中遇有前方发生交通事故，需要帮助时，应怎样做？" type="1"></exam>
+  <exam answer="1" answerDesc="冷漠的社会，请您站出来。" id="600" imgName="" option="及时将伤者送医院抢救或拨打急救电话@@尽量避开，少惹麻烦@@绕过现场行驶@@借故避开现场" question="行车中遇交通事故受伤者需要抢救时，应怎样做？" type="1"></exam>
+  <exam answer="3" answerDesc="请立即变身圣人答题。" id="601" imgName="" option="逼对方靠右行驶@@用大灯警示对方@@主动给对方让行@@紧靠道路中心行驶" question="行车中遇到对向来车占道行驶，应怎样做？" type="1"></exam>
+  <exam answer="3" answerDesc="基于和谐第一位，一定要减速停车依次排队。" id="602" imgName="" option="寻找机会超越前车@@从车辆空间穿插通过@@减速停车，依次排队等候@@鸣喇叭催促" question="行车中发现前方道路拥堵时，应怎样做？" type="1"></exam>
+  <exam answer="2" answerDesc="尽量礼让一下吧，我们也会遇到这样的困难。" id="603" imgName="" option="靠右侧加速行驶@@尽量礼让对方先行@@不侵占对方道路，正常行驶@@示意对方停车让行" question="会车中遇到对方来车行进有困难需借道时，应怎样做？" type="1"></exam>
+  <exam answer="2" answerDesc="基于安全和和谐的因素，所以要及时减速让行。" id="604" imgName="" option="保持原有车速行驶@@及时减速、观察后靠右行驶让行@@靠右侧加速行驶@@不让行" question="行车中遇到后方车辆要求超车时，应怎样做？" type="1"></exam>
+  <exam answer="2" answerDesc="不让咱就别超了，安全第一。" id="605" imgName="" option="紧跟其后，伺机再超@@停止继续超车@@加速继续超越@@连续鸣喇叭加速超越" question="驾驶人在超车时，前方车辆不减速、不让道，应怎样做？" type="1"></exam>
+  <exam answer="1" answerDesc="文明行车，礼让行车。" id="606" imgName="" option="按顺序停车等候@@鸣喇叭示意前方车辆快速行驶@@选择空当逐车超越@@继续穿插绕行" question="发现前方道路堵塞，正确的做法是什么？" type="1"></exam>
+  <exam answer="4" answerDesc="和谐，和谐第一。" id="607" imgName="" option="鸣喇叭警告，不得进入@@加速行驶，紧跟前车，不让其进入@@挤靠“加塞”车辆，逼其离开@@主动礼让，确保行车安全" question="车辆在拥挤路段低速行驶时，遇其他车辆强行插队，应怎样做？" type="1"></exam>
+  <exam answer="4" answerDesc="常识题，减速可以防止溅水，按喇叭有提醒的作用，但不能防止溅水。 想想我们没车的时候是不是很讨厌那些在积水路面开快车的？好吧，我们还是不要做让别人讨厌的人了吧！" id="608" imgName="" option="加速通过@@正常行驶@@连续鸣喇叭@@减速慢行" question="当驾驶车辆行经两侧有行人且有积水的路面时，应怎样做？" type="1"></exam>
+  <exam answer="1" answerDesc="常识题，减速可以防止溅水，按喇叭有提醒的作用，但不能防止溅水。 想想我们没车的时候是不是很讨厌那些在积水路面开快车的？好吧，我们还是不要做让别人讨厌的人了吧！" id="609" imgName="" option="减速慢行@@正常行驶@@加速通过@@连续鸣喇叭" question="当驾驶车辆行经两侧有非机动车行驶且有积水的路面时，应怎样做？" type="1"></exam>
+  <exam answer="1" answerDesc="此题道德修养就是说明要遵守交通规则！" id="610" imgName="" option="正确@@错误" question="一个合格的驾驶人，不仅表现在技术的娴熟上，更重要的是应该具有良好的驾驶行为习惯和道德修养。" type="0"></exam>
+  <exam answer="1" answerDesc="注意“安全行驶”四个字。有安全两个字就不会错了" id="611" imgName="" option="正确@@错误" question="驾驶车辆在道路上行驶时，应当按照规定的速度安全行驶。" type="0"></exam>
+  <exam answer="1" answerDesc="以后所有“违章”行为变为“违法”行为。" id="612" imgName="" option="正确@@错误" question="驾驶人一边驾车，一边打手持电话是违法行为。" type="0"></exam>
+  <exam answer="2" answerDesc="不能越实线超车，因此本题错误。" id="613" imgName="" option="正确@@错误" question="在道路上超车时，应尽量加大横向距离，必要时可越实线超车。" type="0"></exam>
+  <exam answer="2" answerDesc="举个例子吧：你们都是以100速前进，只隔了1米，前面猛的刹车，你觉得你能在1米内刹住车吗？明显不能，所以此题错了！" id="614" imgName="" option="正确@@错误" question="在道路上跟车行驶时，跟车距离不是主要的，只须保持与前车相等的速度，即可防止发生追尾事故。" type="0"></exam>
+  <exam answer="1" answerDesc="黄金原则，牢记，对我们以后驾车是有很大的帮助的。" id="615" imgName="" option="正确@@错误" question="谨慎驾驶的三原则是集中注意力、仔细观察和提前预防。" type="0"></exam>
+  <exam answer="1" answerDesc="这个没有问题，安全第一。" id="616" imgName="" option="正确@@错误" question="遇到路口情况复杂时，应做到“宁停三分，不抢一秒”。" type="0"></exam>
+  <exam answer="1" answerDesc="基本常识，安全第一" id="617" imgName="" option="正确@@错误" question="行车中要文明驾驶，礼让行车，做到不开英雄车、冒险车、赌气车和带病车。" type="0"></exam>
+  <exam answer="2" answerDesc="步骤告诉你是怎样的就怎么做，不要偷工减料！" id="618" imgName="" option="正确@@错误" question="驾驶人在观察后方无来车的情况下，未开转向灯就变更车道也是合理的。" type="0"></exam>
+  <exam answer="1" answerDesc="穿高跟鞋本身就是错的。" id="619" imgName="" option="正确@@错误" question="女驾驶人穿高跟鞋驾驶车辆，不利于安全行车。" type="0"></exam>
+  <exam answer="1" answerDesc="这是一种陋习，但还算不上是违法。因为这样久了，会导致血脉不通，手臂麻木，容易出事！" id="620" imgName="" option="正确@@错误" question="驾驶车辆时，长时间左臂搭在车门窗上，或者长时间右手抓住变速器操纵杆，是一种驾驶陋习。" type="0"></exam>
+  <exam answer="2" answerDesc="一心两用妨碍安全驾驶，容易发生危险。" id="621" imgName="" option="正确@@错误" question="驾驶人一边驾车，一边吸烟对安全行车无影响。" type="0"></exam>
+  <exam answer="1" answerDesc="这样做是友好的行为，很善意的做法，注意不要鸣太多次。因此本题正确。" id="622" imgName="" option="正确@@错误" question="在狭窄的路段会车时，应做到礼让三先：先慢、先让、先停。" type="0"></exam>
+  <exam answer="4" answerDesc="是相向的才是有阻碍的一方让无阻碍的一方啊，我们也应做到礼让啊，又不会吃亏。" id="623" imgName="" option="加速提前抢过@@鸣喇叭示意对向车辆让道@@迅速占用车道，迫使对向来车停车让道@@降低速度或停车，让对向来车优先通行" question="行车中需要借道绕过前方障碍物，但对向来车已接近障碍物时，应怎样做？" type="1"></exam>
+  <exam answer="4" answerDesc="当然是在未到人行道前按导向标识了，要不都到人行道边上了，怎么改变车道。" id="624" imgName="" option="在路口前实线区内根据需要@@进入路口实线区内@@在路口停止线前@@在虚线区按导向箭头指示" question="驾驶车辆在交叉路口前变更车道时，应怎样驶入要变更的车道？" type="1"></exam>
+  <exam answer="3" answerDesc="过人行横道要先观察，因为行人具有随意性说不清超那边走。" id="625" imgName="" option="加速通过@@立即停车@@先减速注意观察行人、非机动车动态，确认安全后再通过@@鸣喇叭示意行人让道" question="车辆驶近人行横道时，应怎样做？" type="1"></exam>
+  <exam answer="4" answerDesc="要是车边刚好有一脾气不好的牛，但你没有先观察到，一鸣喇叭，它一角给你的车顶上，不就麻烦了吗？所以先观察，后喇叭是对的。" id="626" imgName="" option="加油起步@@鸣喇叭@@提高发动机转速@@观察周围交通情况" question="车辆临时靠边停车后准备起步时，应先怎样做？" type="1"></exam>
+  <exam answer="3" answerDesc="以人为本，安全第一，礼让行人。" id="627" imgName="" option="直接起步通过@@起步后从行人后方绕过@@等行人通过后再起步@@起步后从行人前方绕过" question="行驶车道绿灯亮时，但车辆前方人行横道仍有行人行走，应怎样做？" type="1"></exam>
+  <exam answer="2" answerDesc="和谐第一，请立即变身圣人，就知道答案了。" id="628" imgName="" option="鸣喇叭示意@@主动停车避让@@加速倒车@@继续倒车" question="在一般道路倒车时，若发现有过往车辆通过，应怎样做？" type="1"></exam>
+  <exam answer="1" answerDesc="礼貌行车嘛，既然即将交会的地方不理想，就应减速找个适合的地方避让，否则就将堵车，谁也通不过。" id="629" imgName="" option="减速、低速会车或停车让行@@向左占道，让对方减速让行@@打开前照灯，示意对方停车让行@@加速选择理想位置" question="会车前选择的交会位置不理想时，应怎样做？" type="1"></exam>
+  <exam answer="2" answerDesc="亲，那就别超了，安全第一嘛。" id="630" imgName="" option="谨慎超越@@放弃超车@@并行一段距离后再超越@@加速超越" question="进入左侧道路超车，无法保证与正常行驶前车的横向安全间距时，应怎样做？" type="1"></exam>
+  <exam answer="4" answerDesc="我们都应该让。安全行驶。" id="631" imgName="" option="靠道路中心行驶@@加速让路@@继续加速行驶@@减速，靠右侧行驶" question="驾驶的车辆正在被其他车辆超越时，应怎样做？" type="1"></exam>
+  <exam answer="2" answerDesc="文明礼让，和谐驾驶。" id="632" imgName="" option="靠道路右侧加速行驶@@主动减速并靠右侧行驶@@让出适当空间加速行驶@@迅速减速或紧急制动" question="遇后车发出超车信号后，只要具备让超条件应怎样做？" type="1"></exam>
+  <exam answer="3" answerDesc="安全第一，过急转弯当然要减低车速，靠右行驶是为了防止急转弯另一边有车过来导致两车相撞。" id="633" imgName="" option="急剧制动低速通过@@靠弯道外侧行驶@@充分减速并靠右侧行驶@@借对向车道行驶" question="驾驶车辆行至道路急转弯处，应怎样做？" type="1"></exam>
+  <exam answer="4" answerDesc="题目是驶入弯道前，你必须要鸣笛啊 你知道弯道那边有没有车马？ 减速也是必须的！万一有车不撞了了吗？" id="634" imgName="" option="可靠弯道外侧行驶@@可短时间借用对方的车道@@可加速沿弯道切线方向通过@@应“减速、鸣喇叭、靠右行”" question="山区道路车辆进入弯道前，在对面没有来车的情况下，应怎样做？" type="1"></exam>
+  <exam answer="2" answerDesc="已经堵了，进入路口的还没走完，你再进去只有添堵，这样大家都走不了。" id="635" imgName="" option="可直接驶入交叉路口@@不能驶入交叉路口@@可借对向车道通过路口@@在保证安全的情况下驶入交叉路口" question="在堵车的交叉路口绿灯亮时，车辆应怎样做？" type="1"></exam>
+  <exam answer="3" answerDesc="一停，是停在未到铁道前，不是停在铁路上二看，是在铁道前观察是否有火车要经过三通过，才是安全通过" id="636" imgName="" option="减速通过@@匀速通过@@一停、二看、三通过@@加速通过" question="驾驶车辆通过无人看守的铁路道口时，应怎样做？" type="1"></exam>
+  <exam answer="1" answerDesc="变档时容易熄火，万一熄火，火车来了不把你撞飞" id="637" imgName="" option="不能变换挡位@@可以变换挡位@@可换为高挡@@停车观察" question="驾驶车辆驶入铁路道口前减速降挡，进入道口后应怎样做？" type="1"></exam>
+  <exam answer="4" answerDesc="留出安全距离、并减速，万一右侧车辆启动才有足够的空间和时间避让！" id="638" imgName="" option="加速通过@@长鸣喇叭@@保持正常速度行驶@@预留出横向安全距离，减速行驶" question="行车中超越右侧停放的车辆时，为预防其突然起步或开启车门，应怎样做？" type="1"></exam>
+  <exam answer="1" answerDesc="安全第一，以人为本。" id="639" imgName="" option="减速或停车让行@@鸣喇叭示意其让道@@立即变道绕过行人@@抢在行人之前通过" question="驶近没有人行横道的交叉路口时，发现有人横穿道路，应怎样做？" type="1"></exam>
+  <exam answer="2" answerDesc="应该是这样，你在行车中，道路前方有非机动车正在绕过或准备绕过另外停放的机动车。所以应让其先行。" id="640" imgName="" option="鸣喇叭示意其让道@@让其先行@@紧随其后鸣喇叭@@加速绕过" question="行车中遇有非机动车准备绕过停放的车辆时，应怎样做？" type="1"></exam>
+  <exam answer="3" answerDesc="一定要让，以人为本。" id="641" imgName="" option="加速通过@@鸣喇叭警告@@减速让行@@临近时突然加速" question="行车中，遇非机动车抢行时，应怎样做？" type="1"></exam>
+  <exam answer="1" answerDesc="救护车有优先权，当然得让行，如果觉得A有问题的，请看清A的答案，有“靠边”两个字。" id="642" imgName="" option="靠边减速或停车让行@@占用其他车道行驶@@加速变更车道避让@@在原车道内继续行驶" question="行车中遇抢救伤员的救护车从本车道逆向驶来时，应怎样做？" type="1"></exam>
+  <exam answer="1" answerDesc="请尊老爱幼。" id="643" imgName="" option="减速慢行，必要时停车避让@@长鸣喇叭催促@@迅速从一侧通过@@加速绕行" question="行车中遇儿童时，应怎样做？" type="1"></exam>
+  <exam answer="2" answerDesc="祖国的未来啊，不让公务车也要让祖国的未来。" id="644" imgName="" option="提前加速抢行@@停车让行@@降低车速、缓慢通过@@连续鸣喇叭催促" question="行车中遇列队横过道路的学生时，应怎样做？" type="1"></exam>
+  <exam answer="4" answerDesc="凹凸不平的路面减速慢行不仅对车没有有好处 而且不会因颠簸影响驾驶。" id="645" imgName="" option="依靠惯性加速冲过@@挂空挡滑行驶过@@保持原速通过@@低速缓慢平稳通过" question="车辆通过凹凸路面时，应怎样做？" type="1"></exam>
+  <exam answer="4" answerDesc="安全第一，不抢一秒。" id="646" imgName="" option="连续鸣喇叭提醒其让路@@持续鸣喇叭并加速超越@@让自行车先行@@注意观察动态，减速慢行，留有足够的安全距离" question="行车中超越同向行驶的自行车时，应怎样做？" type="1"></exam>
+  <exam answer="3" answerDesc="安全第一。如果使用远光灯会使对方看不清，变换远近光灯也是一样，不断鸣喇叭会使对方产生抵触情绪，也会使对方慌张，结果适得其反。" id="647" imgName="" option="连续变换远、近光灯@@不断鸣喇叭@@使用近光灯，减速或停车避让@@使用远光灯" question="夜间驾驶车辆遇自行车对向驶来时，应怎样做？" type="1"></exam>
+  <exam answer="2" answerDesc="常识题，安全第一。" id="648" imgName="" option="保持正常速度行驶@@提前减速、观察，谨慎驾驶@@鸣喇叭，迅速通过@@提前加速通过" question="车辆在主干道上行驶，驶近主支干道交汇处时，为防止与从支路突然驶入的车辆相撞，应怎样做？" type="1"></exam>
+  <exam answer="3" answerDesc="即使你有优先权，还是要安全第一。" id="649" imgName="" option="抢行通过@@提前加速通过@@减速避让，必要时停车让行@@按优先权规定正常行驶不予避让" question="车辆在交叉路口有优先通行权的，遇有车辆抢行时，应怎样做？" type="1"></exam>
+  <exam answer="1" answerDesc="答案是排除法。不让逆向停放，你只有顺方向停放。不让并列停放，只有纵向停放。顺行驶方向纵向停放可以最大限度少占用道路的宽度，对道路通行的影响最小。" id="650" imgName="" option="不得逆向或并列停放@@只要出去方便，可随意停放@@可逆向停放@@可并列停放" question="机动车在道路边临时停车时，应怎样做？" type="1"></exam>
+  <exam answer="2" answerDesc="雨天汽车的刹车距离会比晴天的长，为了防止追尾，你要提前告知后车，所以要开启危险警报灯，夜间和雾天的临时停车也是一样滴！" id="651" imgName="" option="前后雾灯@@危险报警闪光灯@@前大灯@@倒车灯" question="车辆在雨天临时停车时，应开启什么灯？" type="1"></exam>
+  <exam answer="4" answerDesc="请看清是停车，开启危险报警闪光灯防止没看清追尾等事故。" id="652" imgName="" option="前后雾灯@@倒车灯@@前大灯@@危险报警闪光灯" question="车辆在雪天临时停车时，应开启什么灯？" type="1"></exam>
+  <exam answer="4" answerDesc="祖国的花朵，当然要保护了。" id="653" imgName="" option="加速行驶@@绕道行驶@@保持正常车速行驶@@谨慎选择行车速度" question="驾驶人行车中看到注意儿童标志的时候，应怎样做？" type="1"></exam>
+  <exam answer="1" answerDesc="安全第一，以人为本。" id="654" imgName="" option="减速，保持足够间距，随时准备停车@@保持正常车速行驶@@鸣喇叭提醒，加速通过@@随时准备紧急制动" question="车辆驶近停在车站的公交车辆时，为预防公交车突然起步或行人从车前穿出，应怎样做？" type="1"></exam>
+  <exam answer="3" answerDesc="只有C最和谐。" id="655" imgName="" option="持续鸣喇叭示意其让道@@加速绕行@@提前鸣喇叭，并适当降低车速@@以正常速度行驶" question="雨天行车，遇撑雨伞和穿雨衣的行人在公路上行走时，应怎样做？" type="1"></exam>
+  <exam answer="3" answerDesc="答题的时候请立即变身，变身为圣人，你就知道这些题的答案了。" id="656" imgName="" option="提高车速抢先通过@@鸣喇叭抢先通过@@停车避让@@保持正常车速行驶" question="车辆行至交叉路口，遇有转弯的车辆抢行，应怎样做？" type="1"></exam>
+  <exam answer="1" answerDesc="常识题，安全第一。" id="657" imgName="" option="正确@@错误" question="驾驶车辆变更车道时，应提前开启转向灯，注意观察，保持安全距离，驶入要变更的车道。" type="0"></exam>
+  <exam answer="1" answerDesc="变更车道就是即将转弯的车道 所以要提前开启转向灯 不是说变道就得开转向 而是随后要转弯" id="658" imgName="" option="正确@@错误" question="驾驶车辆向右变更车道时，应提前开启右转向灯，注意观察，在确保安全的情况下，驶入要变更的车道。" type="0"></exam>
+  <exam answer="2" answerDesc="先开转向灯后观察才可以使入车道" id="659" imgName="" option="正确@@错误" question="变更车道时只需开启转向灯，便可迅速转向驶入相应的行车道。" type="0"></exam>
+  <exam answer="1" answerDesc="在汇入车流是先开转向灯的，是为了提示后面的车避让留下进入车流的空隙，保持直行一段，因为是汇入合流，要确认好车与车横向空隙就要用后视镜看左右了" id="660" imgName="" option="正确@@错误" question="驾驶车辆汇入车流时，应提前开启转向灯，保持直线行驶，通过后视镜观察左右情况，确认安全后汇入合流。" type="0"></exam>
+  <exam answer="2" answerDesc="注意迅速两字，使入前先观察后慢慢变道" id="661" imgName="" option="正确@@错误" question="变更车道时，应开启转向灯，迅速驶入侧方车道。" type="0"></exam>
+  <exam answer="1" answerDesc="这题正确的。" id="662" imgName="" option="正确@@错误" question="行车中从其他道路汇入车流前，应注意观察侧后方车辆的动态。" type="0"></exam>
+  <exam answer="1" answerDesc="所有题里遇到行人都是让行人先行的" id="663" imgName="" option="正确@@错误" question="驾驶车辆通过人行横道线时，应注意礼让行人。" type="0"></exam>
+  <exam answer="1" answerDesc="这道题里的话并没有错，观察周围只是起步前准备工作的一部分，并没有说是不用打转向灯的。" id="664" imgName="" option="正确@@错误" question="车辆起步前，驾驶人应对车辆周围交通情况进行观察，确认安全时再开始起步。" type="0"></exam>
+  <exam answer="2" answerDesc="你要先观察阿！安全了你再开过去阿！不是一起步就迅速的往正常行驶道行驶，万一后面有车怎么办呢？ 所以“迅速”是错的" id="665" imgName="" option="正确@@错误" question="车辆在路边起步后应尽快提速，并向左迅速转向驶入正常行驶道路。" type="0"></exam>
+  <exam answer="1" answerDesc="相同车道上前面是没车，车都是从后面来的。另外题目中并没有说不要看前面，只是说注意观察两侧和后方的情况。" id="666" imgName="" option="正确@@错误" question="倒车过程中要缓慢行驶，注意观察车辆两侧和后方的情况，随时做好停车准备。" type="0"></exam>
+  <exam answer="2" answerDesc="预计在超车过程中与对面来车有会车可能时，应当放弃超车。若加速超越，有可能会引起不必要的事故。" id="667" imgName="" option="正确@@错误" question="预计在超车过程中与对面来车有会车可能时，应提前加速超越。" type="0"></exam>
+  <exam answer="1" answerDesc="安全第一还是不要超车！" id="668" imgName="" option="正确@@错误" question="通过隧道时，不得超车。" type="0"></exam>
+  <exam answer="1" answerDesc="安全第一！通过铁道路口，隧道，窄桥，弯道都是不可以超车的。" id="669" imgName="" option="正确@@错误" question="通过铁路道口时，不得超车。" type="0"></exam>
+  <exam answer="2" answerDesc="危险动作，你不知道急转弯后面的路况，如果突然从对方车道窜出一辆车，不是两车相撞了？" id="670" imgName="" option="正确@@错误" question="通过急转弯路段时，在车辆较少的情况下可以超车。" type="0"></exam>
+  <exam answer="1" answerDesc="《中华人民共和国道路交通安全法》第四十三条 同车道行驶的机动车，后车应当与前车保持足以采取紧急制动措施的安全距离。有下列情形之一的，不得超车：（四）行经铁路道口、交叉路口、窄桥、弯道、陡坡、隧道、人行横道、市区交通流量大的路段等没有超车条件的。 通过隧道，铁路道口，急转弯路段，窄路，窄桥或遇前方道路上有车辆掉头时，不得超车。" id="671" imgName="" option="正确@@错误" question="通过窄路、窄桥时，不得超车。" type="0"></exam>
+  <exam answer="1" answerDesc="左转转大弯，但当心身后非机动车。右转转小弯，当心对面右行驶和身后的车吧！" id="672" imgName="" option="正确@@错误" question="车辆转弯时应沿道路右侧行驶，不要侵占对方的车道，做到“左转转大弯，右转转小弯”。" type="0"></exam>
+  <exam answer="1" answerDesc="常识题，必须遵守的安全行车准则。" id="673" imgName="" option="正确@@错误" question="驾驶车辆进入交叉路口前，应降低行驶速度，注意观察，确认安全。" type="0"></exam>
+  <exam answer="1" answerDesc="通过铁路道口，安全第一。中途换挡如果发生熄火，万一这时火车刚开过来了，那不是完蛋了？" id="674" imgName="" option="正确@@错误" question="车辆通过铁道路口时，应用低速挡安全通过，中途不得换挡，以避免发动机熄火。" type="0"></exam>
+  <exam answer="1" answerDesc="碰到行人的一定避让，减速，甚至停车。" id="675" imgName="" option="正确@@错误" question="行车中，发现行人突然横过道路时，应迅速减速避让。" type="0"></exam>
+  <exam answer="2" answerDesc="只要是非机动车、行人、牲口，什么时候都得让行。" id="676" imgName="" option="正确@@错误" question="车辆在交叉路口绿灯亮后，遇非机动车抢道行驶时，可以不让行。" type="0"></exam>
+  <exam answer="1" answerDesc="在非繁忙路段或非主干道，又没有其它限制时，可以倒车。有时路窄，并不能一次掉头到位！" id="677" imgName="" option="正确@@错误" question="掉头过程中，应严格控制车速，仔细观察道路前后方情况，确认安全后方可前进或倒车。" type="0"></exam>
+  <exam answer="1" answerDesc="要是不让，撞了在导致残疾，残疾再加上残疾，估计人家都不活了。" id="678" imgName="" option="正确@@错误" question="行车中遇残疾人影响通行时，应主动减速礼让。" type="0"></exam>
+  <exam answer="1" answerDesc="请认真看题，是“设有”，不是“没有”。" id="679" imgName="" option="正确@@错误" question="设有安全带装置的车辆，应要求车内乘员系安全带。" type="0"></exam>
+  <exam answer="2" answerDesc="减速紧随其后，道路宽度允许通过时谨慎通过。" id="680" imgName="" option="正确@@错误" question="行车中前方遇自行车影响通行时，可鸣喇叭提示，加速绕行。" type="0"></exam>
+  <exam answer="2" answerDesc="当然错拉，有优先权就了不起呀?有优先权也要考虑到安全啊，不然容易发生两车相撞。" id="681" imgName="" option="正确@@错误" question="机动车在环形路口内行驶，遇有其他车辆强行驶入时，只要有优先权就可以不避让" type="0"></exam>
+  <exam answer="2" answerDesc="直行车辆放行时才可进入左转待转区。你到路口观察一下就明白了！" id="682" imgName="" option="正确@@错误" question="车辆行至交叉路口时，左转弯车辆在任何时段都可以进入左弯待转区。" type="0"></exam>
+  <exam answer="1" answerDesc="本题只说是急转弯，但没有说清楚是左转还是右转。因此若是右转，那么靠右边行驶没错，但若是左转，那么就应该靠左边行驶。" id="683" imgName="" option="正确@@错误" question="车辆行至急转弯处时，应减速并靠右侧行驶，防止与越过弯道中心线的对方车辆相撞。" type="0"></exam>
+  <exam answer="1" answerDesc="车辆长时间停放时,应选择停车场停车。" id="684" imgName="" option="正确@@错误" question="车辆长时间停放时，应选择停车场停车。" type="0"></exam>
+  <exam answer="1" answerDesc="减少噪音，以免影响居民生活和学生学习！" id="685" imgName="" option="正确@@错误" question="车辆通过学校和小区应注意观察标志标线，低速行驶，不要鸣喇叭。" type="0"></exam>
+  <exam answer="3" answerDesc="跟红灯停绿灯行一个样，不解释。" id="686" imgName="" option="车辆多@@红灯亮@@绿灯亮@@暂停服务" question="驶入高速公路的收费口时，应选择怎样的入口？" type="1"></exam>
+  <exam answer="2" answerDesc="这个是有规定的，记住呗。" id="687" imgName="" option="50@@60@@30@@40" question="驾驶车辆进入高速公路加速车道后，应尽快将车速提高到每小时多少公里以上？" type="1"></exam>
+  <exam answer="4" answerDesc="高速路上掉头或者停车是非常非常危险的动作。" id="688" imgName="" option="立即停车@@在原地掉头@@在原地倒车驶回@@继续向前行驶，寻找下一个出口" question="高速公路上行车，如果因疏忽驶过出口，应怎样做？" type="1"></exam>
+  <exam answer="1" answerDesc="题目这么强调“标志、标线”，你再不选A，你让A情何以堪。" id="689" imgName="" option="标志或标线@@《道路交通安全法》@@车辆说明书@@地方法规" question="在标志、标线齐全的高速公路上行车，应当按照什么规定的车道和车速行驶？" type="1"></exam>
+  <exam answer="1" answerDesc="只有A最和谐。" id="690" imgName="" option="非紧急情况时不得在应急车道行驶或者停车@@可在减速车道或加速车道上超车、停车@@可在紧急停车带停车装卸货物@@可在路肩停车上下人员" question="机动车在高速公路行驶，下列做法正确的是？" type="1"></exam>
+  <exam answer="1" answerDesc="交通安全法实施条例第七十八条规定了同向两车道、三车道的限速规范：二车道左侧车道最低限速100，三车道左到右依次110、90、60。同向四车道记着培训老师讲的：左到右最低限速依次110、90、90、60。" id="691" imgName="" option="最左侧@@第二条@@最右侧@@第三条" question="在同向4车道高速公路上行车，车速高于每小时110公里的车辆应在哪条车道上行驶？" type="1"></exam>
+  <exam answer="2" answerDesc="应该是从匝道进入高速公路加速车道，在加速车道里迅速将车速提高到每小时60公里以上。" id="692" imgName="" option="正确@@错误" question="车辆驶入匝道后，迅速将车速提高到每小时60公里以上。" type="0"></exam>
+  <exam answer="2" answerDesc="规定：驶入确定匝道后，迅速提高车速，但不得超过规定速度，在匝道上，不准超车、掉头、停车、和倒车。" id="693" imgName="" option="正确@@错误" question="车辆在高速公路匝道上可以停车。" type="0"></exam>
+  <exam answer="1" answerDesc="规定：驶入确定匝道后，迅速提高车速，但不得超过规定速度，在匝道上，不准超车、掉头、停车、和倒车。" id="694" imgName="" option="正确@@错误" question="车辆不得在高速公路匝道上掉头。" type="0"></exam>
+  <exam answer="1" answerDesc="规定：驶入确定匝道后，迅速提高车速，但不得超过规定速度，在匝道上，不准超车、掉头、停车、和倒车。" id="695" imgName="" option="正确@@错误" question="车辆不得在高速公路匝道上倒车。" type="0"></exam>
+  <exam answer="2" answerDesc="应该是将车速提高到80公里每小时，开启左转向灯，观察后面无车后在驶入行车道。进入高速公路时才是60公里。" id="696" imgName="" option="正确@@错误" question="车辆在高速公路匝道提速到每小时60公里以上时，可直接驶入行车道。" type="0"></exam>
+  <exam answer="2" answerDesc="路肩通常是让有事故的车辆停靠维修的，你如果车辆没有问题的话这样做是不对的。" id="697" imgName="" option="正确@@错误" question="车辆应靠高速公路右侧的路肩上行驶。" type="0"></exam>
+  <exam answer="1" answerDesc="横向是1.5米最安全，跟前车100米是安全距离。" id="698" imgName="" option="正确@@错误" question="车辆在高速公路以每小时100公里的速度行驶时，距同车道前车100米以上为安全距离。" type="0"></exam>
+  <exam answer="2" answerDesc="车辆在高速公路上行车,可以变更车道，但不可以“频繁”的变更车道。" id="699" imgName="" option="正确@@错误" question="车辆在高速公路上行车，可以频繁地变更车道。" type="0"></exam>
+  <exam answer="1" answerDesc="匝道:立交桥和高架路上下两条道路相连接的路段，也指高速公路与邻近的辅路相连接的路段。高架路的匝道，进口路和出口路是分开的，只能顺行，不准掉头，车辆错过了下匝道，就不能从上匝道下路，只能从下一个下匝道下路。 立交桥的匝道，也是按照设定的标志行驶，谁也不能各行其是。" id="700" imgName="" option="正确@@错误" question="车辆驶离高速公路时，应当经减速车道减速后进入匝道。" type="0"></exam>
+  <exam answer="1" answerDesc="安全第一，没问题。" id="701" imgName="" option="正确@@错误" question="在高速公路变更车道时，应提前开启转向灯，观察情况，确认安全后，驶入需要变更的车道。" type="0"></exam>
+  <exam answer="2" answerDesc="在高速公路因发生事故造成堵塞的情况下，右侧紧急停车带是供救援车辆使用的。" id="702" imgName="" option="正确@@错误" question="高速公路因发生事故造成堵塞时，可在右侧紧急停车带或路肩行驶。" type="0"></exam>
+  <exam answer="2" answerDesc="错在“紧急制动”上，要逐渐减速停车" id="703" imgName="" option="正确@@错误" question="行驶在高速公路上遇大雾视线受阻时，应当立即紧急制动停车。" type="0"></exam>
+  <exam answer="1" answerDesc="危险报警闪光灯，通常称为双闪，是一种提醒其他车辆与行人注意本车发生了特殊情况的信号灯。" id="704" imgName="" option="正确@@错误" question="机动车在高速公路上遇前方交通受阻时，应当跟随前车顺序排队，并立即开启危险报警闪光灯，防止追尾。" type="0"></exam>
+  <exam answer="2" answerDesc="高速公路的分流交通管制就是指在高速公路上遇到紧急情况后，将后续来车在匝道口进行管制通行，避免次生事故和交通拥堵，亦或是有紧急交通勤务警卫，需要提前封闭道路，故提前分流车辆。" id="705" imgName="" option="正确@@错误" question="在高速公路上遇分流交通管制时，可不驶出高速公路，就地靠边停靠等待管制结束后继续前行。" type="0"></exam>
+  <exam answer="1" answerDesc="此题没问题，在平坦的高速公路上，突然有颠簸感觉时只有轮胎出现问题" id="706" imgName="" option="正确@@错误" question="小型客车行驶在平坦的高速公路上，突然有颠簸感觉时，应迅速降低车速，防止爆胎。" type="0"></exam>
+  <exam answer="2" answerDesc="在高速公路上行驶感觉疲困时，应该找到最近的服务区停车休息，高速上哪能立即停车休息。" id="707" imgName="" option="正确@@错误" question="在高速公路上行驶感觉疲劳时，应立即停车休息。" type="0"></exam>
+  <exam answer="2" answerDesc="《道路交通安全法实施条例》规定高速公路，有最低速度60公里，最高速度120公里，这道题只说了不超过120公里，没说不能低于60公里。 所以是错的~" id="708" imgName="" option="正确@@错误" question="《道路交通安全法实施条例》规定，高速公路上最高时速不得超过120公里。因此在高速公路上行驶只要时速不超过120公里就不违法。" type="0"></exam>
+  <exam answer="2" answerDesc="有个“仅”看见没？~这话说得太绝对了，所以是错的。" id="709" imgName="" option="正确@@错误" question="车辆在高速公路行驶时，可以仅凭感觉确认车速。" type="0"></exam>
+  <exam answer="1" answerDesc="为了安全,适当加大安全距离。" id="710" imgName="" option="适当加大安全距离@@紧随前车之后@@适当减小安全距离@@尽可能寻找超车机会" question="车辆在山区道路跟车行驶时，应怎样做？" type="1"></exam>
+  <exam answer="2" answerDesc="上坡有阻力，不宜滑车，也不宜撞车，所以上坡宽阔地可以超车！" id="711" imgName="" option="抓住任何机会尽量@@选择宽阔的缓上坡路段@@选择较长的下坡路@@选择较缓的下坡路" question="在山区道路超车时，应怎样超越？" type="1"></exam>
+  <exam answer="4" answerDesc="是双方选择怎么交会，两个车可以等到安全路段再减速交会" id="712" imgName="" option="紧靠道路中心@@不减速@@加速@@减速或停车让行" question="在山区道路遇对向来车时，应怎样会车？" type="1"></exam>
+  <exam answer="2" answerDesc="发动机制动就是挂低档，让车利用低档位的惯性制动，你可以试一下，你在3挡的速度，直接挂1挡，记住不要踩刹车，直接挂档，你看效果如何，车身会震一下，速度下降的很快" id="713" imgName="" option="挂入空挡滑行@@利用发动机制动@@关闭发动机熄火滑行@@踏下离合器滑行" question="下长坡时，控制车速除了刹车制动以外还有什么有效的辅助方法？" type="1"></exam>
+  <exam answer="4" answerDesc="下长坡，车子向下的冲力很大，采取制动，刹车垫与车轮轴就摩擦起热，刹车垫也磨损严重！" id="714" imgName="" option="会缩短发动机寿命@@增加驾驶人的劳动强度@@容易造成车辆倾翻@@会使制动器温度升高而使制动效果急剧下降" question="下长坡连续使用行车制动会导致什么？" type="1"></exam>
+  <exam answer="3" answerDesc="如果没特别指明我们有优先权，选事事让着别人就对了，做人和开车，都要学会淡定。" id="715" imgName="" option="鸣喇叭催其让行@@保持正常车速行驶@@提前减速或停车避让@@向左占道，谨慎驶过" question="车辆在较窄的山路上行驶时，如果靠山体的一方不让行，应怎样做？" type="1"></exam>
+  <exam answer="1" answerDesc="高档属于快速档，而低档却用于起步或者作有重力的运动而使用，上坡本然就形成一种重力，需要足够的马力才可以行驶，所以需要将档位降低才可以，如果使用高档，很可能导至功率不够形成熄火，甚至溜车！" id="716" imgName="" option="正确@@错误" question="车辆上坡行驶，要提前观察路况、坡道长度，及时减挡使车辆保持充足的动力。" type="0"></exam>
+  <exam answer="1" answerDesc="在下坡时，有人为了省油，就挂空档，采用惯性下坡，这样时间一长，刹车的压力就不够了，容易出现刹车失效，所以不提倡挂空档，不挂空档，就是让发动机和变速器连接，这个时候车下坡时不是靠惯性的，而是靠发动机行驶的，就好像发动机带着你走，不让你的车自己走快，这个就是发动机制动。" id="717" imgName="" option="正确@@错误" question="车辆下坡行驶，要适当控制车速，充分利用发动机进行制动。" type="0"></exam>
+  <exam answer="1" answerDesc="变速箱高档位高速持续运转中，迅速降低变速箱的档位转速，使变速箱的低档位转速对车辆本身的惯性高速产生抑制，从而产生短时间内的所谓发动机制动(变速箱制动)。" id="718" imgName="" option="正确@@错误" question="车辆下长坡时要减挡行驶，以充分利用发动机的制动作用。" type="0"></exam>
+  <exam answer="1" answerDesc="比如南方的山区道路，你那怕只走过一次，对这个做法就会深表认同，因为这个真是太重要了。" id="719" imgName="" option="正确@@错误" question="车辆在通过山区道路弯道时，要做到“减速、鸣喇叭、靠右行”。" type="0"></exam>
+  <exam answer="1" answerDesc="下坡时不易控制车速，安全第一，怎么能超车呢？" id="720" imgName="" option="正确@@错误" question="车辆在山区道路行车下陡坡时，不得超车。" type="0"></exam>
+  <exam answer="2" answerDesc="危险动作，下坡时，不准熄火或用空挡。如果下坡空档滑行，只靠刹车来控制车速，遇到连续下坡的时候可能会造成刹车负担过重，刹车片过热而失灵。" id="721" imgName="" option="正确@@错误" question="车辆在下坡行驶时，可充分利用空挡滑行。" type="0"></exam>
+  <exam answer="1" answerDesc="山区本来就是有山的地势，自然就会有坡度，以及拐弯，连续的弯路，容易影响行车的视线，所以要注意“连续转弯”的标志，以防在转弯处突然出现对向来车，为了安全，当然要适时减速和提前鸣喇叭，以提醒车辆与行人。" id="722" imgName="" option="正确@@错误" question="车辆进入山区道路后，要特别注意“连续转弯”标志，并主动避让车辆及行人，适时减速和提前鸣喇叭。" type="0"></exam>
+  <exam answer="1" answerDesc="不换档你的变速箱都会坏掉。货车上坡是要减挡的兄弟，最好是用低速档上坡。" id="723" imgName="" option="正确@@错误" question="车辆在山区上坡路驾驶，减挡要及时、准确、迅速，避免拖挡行驶导致发动机动力不足。" type="0"></exam>
+  <exam answer="1" answerDesc="是对的！谨慎驾驶 有塌方 就避免停车 ！！！ 又不是说不能停车，只是避免！" id="724" imgName="" option="正确@@错误" question="通过山区危险路段，尤其是通过经常发生塌方、泥石流的山区地段，应谨慎驾驶，避免停车。" type="0"></exam>
+  <exam answer="1" answerDesc="是对的，谨慎驾驶，有塌方 就避免停车，又不是说不能停车，只是避免。" id="725" imgName="" option="正确@@错误" question="通过经常发生塌方、泥石流的山区地段，避免停车。" type="0"></exam>
+  <exam answer="1" answerDesc="凡是车辆进入双向行驶隧道,一般都应该开启近光灯,而不要开启远光灯.若是隧道本身没有灯光的,可以变换灯光行驶,但是会车前要转为近光灯." id="726" imgName="" option="示廓灯或近光灯@@雾灯@@远光灯@@危险报警闪光灯" question="车辆驶入双向行驶隧道前，应开启什么灯？" type="1"></exam>
+  <exam answer="2" answerDesc="立交桥上车多,路窄,弯多,所以应减速！" id="727" imgName="" option="正确@@错误" question="立交桥上一般都是单向行驶，车辆不必减速行驶。" type="0"></exam>
+  <exam answer="3" answerDesc="直接解释大家可能难以转过弯来，我们先反过来看这题！夜间车辆通过照明条件不良好的路段时应使用--? 答案：远光灯。照明不良好就是看不见远近路段，当然是打开远光灯，看的更远更清楚，相反照明良好时，也就是说远近处，我们都能看的见，当然是打开近光灯最为保险。" id="728" imgName="" option="危险报警闪光灯@@远光灯@@近光灯@@雾灯" question="夜间车辆通过照明条件良好的路段时，应使用什么灯？" type="1"></exam>
+  <exam answer="2" answerDesc="要是没有实地操作，个人为了避免混淆是这样记的：在平直的路面时，灯光距离不变；出现一般的弯道时，灯光也跟着转弯，从路中移至路侧；当上坡时，灯光随着车的上下导致灯光也由高变低；当出现急弯或大坑时，灯光随着车的颠簸也离开路面。大家试着记记，遇到这题绝对不错！" id="729" imgName="" option="离开路面@@由路中移到路侧@@距离不变@@由高变低" question="夜间行车中，前方出现弯道时，灯光照射会发生怎样的变化？" type="1"></exam>
+  <exam answer="1" answerDesc="晚上开车的时候受到光线暗的局限，相对观察事物的距离也就受到局限，所以视距比较短，因此很难观察到灯光照射区域以外的交通情况。为了安全考虑，减速行驶是必须的。" id="730" imgName="" option="正确@@错误" question="夜间行车，驾驶人的视野受限，很难观察到灯光照射区域以外的交通情况，因此要减速行驶。" type="0"></exam>
+  <exam answer="1" answerDesc="此题说的意思是，你在白天开车的时候由于光线比较充足，所以观察事物的范围比较广，观察事物的视线距离相对也就比较大，而在晚上受到光线暗的局限，相对观察事物的距离也就受到局限，所以视距比较短，而并不是说人本身的观察有问题，所以此题是正确的！" id="731" imgName="" option="正确@@错误" question="夜间驾驶人对事物的观察能力明显比白天差，视距变短。" type="0"></exam>
+  <exam answer="1" answerDesc="先开近光灯，把车前路面的状况给看清楚，是否有坑啊什么的！在确保安全后开车，所以是近光灯。" id="732" imgName="" option="正确@@错误" question="夜间起步前，应当先开启近光灯。" type="0"></exam>
+  <exam answer="1" answerDesc="夜间安全驾驶知识中第三条就有：“夜间会车应当在距对方来车150米以外改用近光灯，若对方车辆不关闭远光灯，可连续变换灯光提示对向车辆。当遇对面来车仍不关闭远光灯是，应及时减速靠右侧行驶或停车让行。”" id="733" imgName="" option="正确@@错误" question="夜间会车时，若对方车辆不关闭远光灯，可变换灯光提示对向车辆，同时减速靠右侧行驶或停车。" type="0"></exam>
+  <exam answer="1" answerDesc="后面如果打远光灯的话，你通过后视镜就什么都看不清了！如果你硬看的话，容易出现短暂失明，很危险！" id="734" imgName="" option="正确@@错误" question="夜间通过没有路灯或路灯照明不良时，应将近光灯转换为远光灯，但同向行驶的后车不得使用远光灯。" type="0"></exam>
+  <exam answer="1" answerDesc="灯光刺行人眼看不清会发生事故。" id="735" imgName="" option="正确@@错误" question="夜间行车，遇对面来车未关闭远光灯时，应减速行驶，以防两车灯光的交汇处有行人通过时发生事故。" type="0"></exam>
+  <exam answer="2" answerDesc="换远近光灯是为了让来车认识到前方有车，应注意减速慢性注意安全。" id="736" imgName="" option="正确@@错误" question="夜间通过无交通信号灯控制的交叉路口时，不得变换远、近光灯。" type="0"></exam>
+  <exam answer="1" answerDesc="只要在确保安全和不违规的情况下都可以超车。变换远近灯光是为了提醒前方车辆的注意，虽然只是一个动作，但对于保证安全来说却是很重要的。" id="737" imgName="" option="正确@@错误" question="夜间行车，要尽量避免超车，确需超车时，可变换远近光灯向前车示意。" type="0"></exam>
+  <exam answer="2" answerDesc="你会开车了体验一下就有感受了，你开的好好的，后面一辆车开着远光灯，你从后视镜里看着就不清楚，估计那时你会骂娘的。" id="738" imgName="" option="正确@@错误" question="夜间尾随前车行驶时，后车可以使用远光灯。" type="0"></exam>
+  <exam answer="2" answerDesc="看清题：是暴雨导致刮不净水了，不是雨刷坏了。快停车。" id="739" imgName="" option="集中注意力谨慎驾驶@@立即减速靠边停车@@以正常速度行驶@@减速行驶" question="在暴雨天气驾车，刮水器无法刮净雨水时，应怎样做？" type="1"></exam>
+  <exam answer="3" answerDesc="如果大家都开上去，路面车速低，极易熄火！造成堵塞！而且冰雪路面很滑的，搞不好往下滑发生事故。" id="740" imgName="" option="低速爬坡@@紧随其后爬坡@@选择适当地点停车，等前车通过后再爬坡@@迅速超越前车" question="在山区冰雪道路上行车，遇有前车正在爬坡时，后车应怎样做？" type="1"></exam>
+  <exam answer="3" answerDesc="都说是雾天了，当然要用雾灯了，不然要那玩意儿干吗！" id="741" imgName="" option="倒车灯@@近光灯@@雾灯@@远光灯" question="雾天行车时，应及时开启什么灯？" type="1"></exam>
+  <exam answer="4" answerDesc="浓雾或特大雾天,你都看不见了，还能开车？" id="742" imgName="" option="开启前照灯，继续行驶@@开启示廓灯、雾灯，靠右行驶@@开启危险报警闪光灯，继续行驶@@开启危险报警闪光灯和雾灯，选择安全地点停车" question="遇有浓雾或特大雾天能见度过低，行车困难时，应怎样做？" type="1"></exam>
+  <exam answer="4" answerDesc="间断轻踏，给刹车片一些温度可以蒸发一些水，恢复制动。" id="743" imgName="" option="持续重踏@@间断重踏@@持续轻踏@@间断轻踏" question="车辆涉水后，应保持低速行驶，怎样操作制动踏板，以恢复制动效果？" type="1"></exam>
+  <exam answer="2" answerDesc="风、雨、雪、雾，都要减速了，你还要超车。安全第一！" id="744" imgName="" option="正确@@错误" question="风、雨、雪、雾等复杂气象条件，遇前车速度较低时，应开启前照灯，连续鸣喇叭迅速超越。" type="0"></exam>
+  <exam answer="2" answerDesc="因为路面比较滑，如果紧急制动（急刹车），容易造成车辆失控，所以用发动机制动。" id="745" imgName="" option="正确@@错误" question="雨天路面湿滑，车辆制动距离增大，行车中尽量使用紧急制动减速。" type="0"></exam>
+  <exam answer="2" answerDesc="不能开启远光灯，因浓雾会反射灯光。应开启雾灯。" id="746" imgName="" option="正确@@错误" question="浓雾天气能见度低，开启远光灯会提高能见度。" type="0"></exam>
+  <exam answer="1" answerDesc="请注意，这是山区公路，又是连续降雨天气，如果开外侧，容易掉下悬崖，如果开内侧容易被塌方和落实砸到，这些都是不可控的，你不知道什么时候会发生。而选择在道路中间行驶，对面有车过来时，你是有预警时间的。" id="747" imgName="" option="正确@@错误" question="连续降雨天气，山区公路可能会出现路肩疏松和堤坡坍塌现象，行车时应选择道路中间坚实的路面，避免靠近路边行驶。" type="0"></exam>
+  <exam answer="1" answerDesc="既然雾天看不见，就要靠听的了。人家鸣喇叭，你当然要回一声告诉别人这里有车，以提高注意。" id="748" imgName="" option="正确@@错误" question="雾天行车多使用喇叭可引起对方注意；听到对方车辆鸣喇叭，也应鸣喇叭回应。" type="0"></exam>
+  <exam answer="1" answerDesc="冰雪路面行驶时，制动距离比平时要大。因此要考虑到紧急状况。如果出现紧急情况，需要有足够的制动距离。" id="749" imgName="" option="正确@@错误" question="在冰雪路面上行车，必须降低车速、加大安全距离。" type="0"></exam>
+  <exam answer="1" answerDesc="驾驶人看不到路面的状况，容易陷入水坑等。冰雪路同样如此，你看不到冰雪下的路面，很容易陷入坑坑洼洼。而沿着前车的车辙行驶，可以保证安全。 行驶过程中所遇情况是复杂的，我们要注意的是主要矛盾而不是次要矛盾！！！" id="750" imgName="" option="正确@@错误" question="雪天行车中，在有车辙的路段应循车辙行驶。" type="0"></exam>
+  <exam answer="1" answerDesc="发动机制动：行车（挂上排档，不是空档）中，油门一收，便产生发动机制动！原理：主要靠（停止供油）发动机的压缩力而制止车辆的前进。行车制动：通过刹车踏板，把人体的力量，由总泵至分泵加上助力器的作用，迫使刹车片与刹车盘或刹车毂磨擦至车辆停止前进。" id="751" imgName="" option="正确@@错误" question="车辆在冰雪路面紧急制动易产生侧滑，应低速行驶，可利用发动机制动进行减速。" type="0"></exam>
+  <exam answer="1" answerDesc="常识题，注意选择比较坚硬的地方通行，不要选择泥泞地方。" id="752" imgName="" option="正确@@错误" question="车辆行至泥泞或翻浆路段时，应停车观察，选择平整、坚实的路段缓慢通过。" type="0"></exam>
+  <exam answer="1" answerDesc="控制速度行驶：减速或者停车都是为了安全。" id="753" imgName="" option="正确@@错误" question="在大雨天行车，为避免发生“水滑”而造成危险，要控制速度行驶。" type="0"></exam>
+  <exam answer="3" answerDesc="A是踩脚刹，B是拉手刹，D是也是踩脚刹，都是属于迅速减速，危险。" id="754" imgName="" option="采取紧急制动@@使用驻车制动@@轻踏制动踏板@@迅速踏下制动踏板" question="前轮胎爆裂已出现转向时，驾驶人不要过度矫正，应在控制住方向的情况下，应怎样做，使车辆缓慢减速？" type="1"></exam>
+  <exam answer="3" answerDesc="轮胎气不足，就会造成轮胎与地面的摩擦范围增大，所以会使温度升高，从而爆胎。" id="755" imgName="" option="气压更低@@行驶阻力增大@@爆胎@@气压不稳" question="轮胎气压过低时，高速行驶轮胎会出现波浪变形温度升高而导致什么？" type="1"></exam>
+  <exam answer="1" answerDesc="轮胎缺气行驶是爆胎的祸根。车辆的缺气（轮胎胎压低于标准胎压）行驶时，随着胎压的下降，轮胎与地面的摩擦成倍增加，胎温急剧升高，轮胎变软，强度急剧下降。这种情况下，如果车辆高速行驶，就可能导致爆胎。如果车辆在低速行驶，也会伤胎，而且潜伏期长，隐蔽性大，更有危害性，为以后高速行车时埋下爆胎隐患，所以A是错误的做法" id="756" imgName="" option="降低轮胎气压@@定期检查轮胎@@更换有裂纹或有很深损伤的轮胎@@及时清理轮胎沟槽里的异物" question="避免爆胎的错误的做法是什么？" type="1"></exam>
+  <exam answer="1" answerDesc="连续轻踏制动，缓慢将车停下，更换轮胎。" id="757" imgName="" option="正确@@错误" question="驾驶人发现轮胎漏气，将车辆驶离主车道时，不要采用紧急制动，以免造成翻车或后车采取制动不及时导致追尾事故。" type="0"></exam>
+  <exam answer="1" answerDesc="如果突然爆胎,瞬间靠右,会导致与后方来车相撞.所以只能先保持直线行驶,再减速停车." id="758" imgName="" option="正确@@错误" question="车辆后轮胎爆裂，车尾会摇摆不定，驾驶人应双手紧握转向盘，控制车辆保持直线行驶，减速停车。" type="0"></exam>
+  <exam answer="1" answerDesc="如果写的意识到爆胎，说明还没爆，可以轻刹；如果已经爆了，刹车容易翻车，所以抢档好些。" id="759" imgName="" option="正确@@错误" question="行车中当驾驶人意识到爆胎时，应在控制住方向的情况下，轻踏制动踏板，使车辆缓慢减速，逐渐平稳地停靠于路边。" type="0"></exam>
+  <exam answer="1" answerDesc="由于车胎爆胎，紧急制动会侧滑。所以只能用抢挡，用发动机制动。" id="760" imgName="" option="正确@@错误" question="行车中当车辆突然爆胎时，驾驶人切忌慌乱中急踏制动踏板，尽量采用“抢挡”的方法，利用发动机制动使车辆减速。" type="0"></exam>
+  <exam answer="1" answerDesc="如果车速过快，很有可能造成事故。碰到这种情况的时候，切忌不要慌张，不要向相反的方向猛打方向盘，要尽量保持车子直线行驶，同时降低车速，切记不可急刹车，要缓慢降低车速，还有打开安全警告灯，注意后方来车，条件允许的话，把车子驶离行车道，靠右边车道停车。碰到这种情况，切记不要慌，首要的就是先稳住车辆。" id="761" imgName="" option="正确@@错误" question="车辆前轮胎爆裂，危险较大，方向会立刻向爆胎车轮一侧跑偏，直接影响驾驶人对转向盘的控制。" type="0"></exam>
+  <exam answer="1" answerDesc="行车制动=制动踏板=脚刹，爆胎后，驾驶人在尚未控制住车速的时候，是不能急踩刹车的，要不然会横甩或者翻车已经后面来车追尾。正确的做法应该是紧握方向盘，控制方向，极力保持直线行驶，利用发动机制动，减档或抢档减速度，轻踏制动踏板缓慢减速，平稳靠边停车。请注意试题中的“驾驶人在尚未控制住车速前”此时是不可以使用行车制动器的。" id="762" imgName="" option="正确@@错误" question="车辆发生爆胎后，驾驶人在尚未控制住车速前，不要冒险使用行车制动器停车，以避免车辆横甩发生更大的险情。" type="0"></exam>
+  <exam answer="1" answerDesc="此题是对的，很多人都做错了。听哥来细说：行车中当车辆前轮爆胎已发生转向时： 第一步：驾驶人应双手紧握转向盘，尽力控制车辆转回原行驶路线。为什么要这么做？如果不控制方向，很容易翻车，如果急刹车，也很容翻车。 第二步：随后开始减速打起右转向灯，然后靠右最终是车停在路肩上。" id="763" imgName="" option="正确@@错误" question="行车中当车辆前轮爆胎已发生转向时，驾驶人应双手紧握转向盘，尽力控制车辆直线行驶。" type="0"></exam>
+  <exam answer="2" answerDesc="不要紧急刹车，容易出现侧翻事故的，应该是握紧方向，同时控制车速，慢慢停车。" id="764" imgName="" option="正确@@错误" question="行车中当驾驶人意识到车辆爆胎时，应在控制住方向的情况下采取紧急制动，迫使车辆迅速停住。" type="0"></exam>
+  <exam answer="1" answerDesc="此为发动机转速表，跟时速表对比记忆。" id="765" imgName="1369107953066.jpg" option="发动机转速表@@行驶速度表@@区间里程表@@百公里油耗表" question="这个仪表是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="图为时速表，看到那个KM没？那个是公里的意思，也就是里程表的意思。" id="766" imgName="1369107953231.jpg" option="速度和里程表@@发动机转速表@@最高时速值表@@百公里油耗表" question="这个仪表是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="看到那个温度计没说明他是管温度的。" id="767" imgName="1369107953390.jpg" option="水温表@@燃油表@@电流表@@压力表" question="这个仪表是何含义？" type="1"></exam>
+  <exam answer="4" answerDesc="汽油不够了，看到那个加油站常见的机器没。" id="768" imgName="1369107953526.jpg" option="压力表@@电流表@@水温表@@燃油表" question="这个仪表是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="这个是转速表，不是时速。" id="769" imgName="1369107953698.jpg" option="正确@@错误" question="仪表显示当前车速是20公里/小时。" type="0"></exam>
+  <exam answer="2" answerDesc="这个是时速表。不是转速。" id="770" imgName="1369107953857.jpg" option="正确@@错误" question="仪表显示当前发动机转速是6000转/分钟。" type="0"></exam>
+  <exam answer="1" answerDesc="这个没有问题。" id="771" imgName="1369107954022.jpg" option="正确@@错误" question="仪表显示当前冷却液的温度是90度。" type="0"></exam>
+  <exam answer="1" answerDesc="看到加油站那个机油的机器没，而且指针都到红色区了，说明油量不足了。" id="772" imgName="1369107954163.jpg" option="正确@@错误" question="仪表显示油箱内存油量已在警告线以内。" type="0"></exam>
+  <exam answer="4" answerDesc="前雾灯朝左，后雾灯朝右。" id="773" imgName="1369107954301.jpg" option="后雾灯打开@@前照灯近光打开@@前照灯远光打开@@前雾灯打开" question="机动车仪表板上（如图所示）亮表示什么？" type="1"></exam>
+  <exam answer="1" answerDesc="前雾灯朝左，后雾灯朝右。" id="774" imgName="1369107954424.jpg" option="后雾灯打开@@前照灯近光打开@@前照灯远光打开@@前雾灯打开" question="机动车仪表板上（如图所示）亮表示什么？" type="1"></exam>
+  <exam answer="2" answerDesc="位置灯就是车辆示宽灯，也就是当你开启双跳灯后，前后左右四个闪的灯 宽灯就是转向信号灯同时闪烁，用于警告作用。" id="775" imgName="1369107954556.jpg" option="前后雾灯开启@@前后位置灯开启@@前照灯开启@@危险报警闪光灯开启" question="机动车仪表板上（如图所示）亮表示什么？" type="1"></exam>
+  <exam answer="2" answerDesc="前雾灯是朝左的，后雾灯是朝右的。" id="776" imgName="1369107954681.jpg" option="正确@@错误" question="打开前雾灯开关，（如图所示）亮起。" type="0"></exam>
+  <exam answer="2" answerDesc="前雾灯是朝左的，后雾灯是朝右的。" id="777" imgName="1369107954803.jpg" option="正确@@错误" question="打开后雾灯开关，（如图所示）亮起。" type="0"></exam>
+  <exam answer="1" answerDesc="如图表示全车灯都亮了，包括位置灯。" id="778" imgName="1369107954931.jpg" option="正确@@错误" question="打开位置灯开关，（如图所示）亮起。" type="0"></exam>
+  <exam answer="2" answerDesc="像茶壶一样的就是机油的标志，各位记住就是啦。 该指示灯用来显示发动机内机油的压力状况。打开钥匙门，车辆开始自检时，指示灯点亮，启动后熄灭。该指示灯常亮，说明该车发动机机油压力低于规定标准，需要维修。" id="779" imgName="1369107955046.jpg" option="发动机主油道堵塞@@发动机机油压力过低@@发动机曲轴箱漏气@@发动机机油压力过高" question="发动机起动后仪表板上（如图所示）亮表示什么？" type="1"></exam>
+  <exam answer="1" answerDesc="没有问题。" id="780" imgName="1369107955168.jpg" option="正确@@错误" question="机动车仪表板上（如图所示）亮表示发动机可能机油量不足。" type="0"></exam>
+  <exam answer="2" answerDesc="图片表示发动机可能机油压力不足。" id="781" imgName="1369107955296.jpg" option="正确@@错误" question="机动车 仪表板上（如图所示）亮表示发动机可能机油压力过高。" type="0"></exam>
+  <exam answer="3" answerDesc="可能出现故障仪表板上的图标才会亮。" id="782" imgName="1369107955411.jpg" option="驻车制动解除@@行车制动器失效@@制动系统出现异常@@制动踏板没回位" question="机动车仪表板上（如图所示）亮表示什么？" type="1"></exam>
+  <exam answer="1" answerDesc="ABS就是防抱死制动系统" id="783" imgName="1369107955532.jpg" option="防抱死制动系统故障@@驻车制动器处于解除状态@@行车制动系统故障@@安全气囊处于故障状态" question="机动车仪表板上（如图所示）亮表示什么？" type="1"></exam>
+  <exam answer="4" answerDesc="驻车制动器处于制动状态，就是手刹没松开。" id="784" imgName="1369107955659.jpg" option="防抱死制动系统出现故障@@驻车制动器处于解除状态@@行车制动系统出现故障@@驻车制动器处于制动状态" question="机动车仪表板上（如图所示）亮表示什么？" type="1"></exam>
+  <exam answer="2" answerDesc="此图表示行车制动系统可能出现故障。" id="785" imgName="1369107955779.jpg" option="正确@@错误" question="机动车仪表板上（如图所示）亮，表示驻车制动器操纵杆可能没松到底。" type="0"></exam>
+  <exam answer="1" answerDesc="记住吧。" id="786" imgName="1369107955898.jpg" option="正确@@错误" question="机动车仪表板上（如图所示）亮，表示行车制动系统可能出现故障。" type="0"></exam>
+  <exam answer="2" answerDesc="此图为汽车现在有故障，不能上路。" id="787" imgName="1369107956028.jpg" option="正确@@错误" question="机动车仪表板上（如图所示）亮时，不影响正常行驶。" type="0"></exam>
+  <exam answer="2" answerDesc="此图为防抱死制动系统发生故障。" id="788" imgName="1369107956169.jpg" option="正确@@错误" question="机动车仪表板上（如图所示）亮时，防抱死制动系统处于打开状态。" type="0"></exam>
+  <exam answer="1" answerDesc="正确，驻车制动器俗称手刹。" id="789" imgName="1369107956296.jpg" option="正确@@错误" question="机动车仪表板上（如图所示）亮时，表示驻车制动器处于制动状态。" type="0"></exam>
+  <exam answer="4" answerDesc="这个是汽油不足了，多像加油站加油的那个机器，记住机油和汽油是不一样的。" id="790" imgName="1369107956422.jpg" option="燃油泵出现异常或者故障@@发动机点火系统出现故障@@发动机供油系统出现异常@@油箱内燃油已到最低液面" question="发动机起动后仪表板上（如图所示）亮表示什么？" type="1"></exam>
+  <exam answer="2" answerDesc="不是机油不足，是汽油不足了。" id="791" imgName="1369107956552.jpg" option="正确@@错误" question="机动车仪表板上（如图所示）亮时，提醒发动机需要补充机油。" type="0"></exam>
+  <exam answer="1" answerDesc="发动机冷却液可能不足，所以导致发动机温度过高。" id="792" imgName="1369107956678.jpg" option="发动机温度过高@@发动机冷却系故障@@发动机润滑系故障@@发动机温度过低" question="行车中仪表板上（如图所示）亮表示什么？" type="1"></exam>
+  <exam answer="1" answerDesc="发动机冷却液可能不足，所以导致发动机温度过高。" id="793" imgName="1369107956793.jpg" option="正确@@错误" question="机动车仪表板上（如图所示）亮时，提醒发动机冷却液可能不足。" type="0"></exam>
+  <exam answer="2" answerDesc="这个是提醒发动机冷却液可能不足。" id="794" imgName="1369107956914.jpg" option="正确@@错误" question="机动车仪表板上（如图所示）亮时提醒发动机需要加注机油。" type="0"></exam>
+  <exam answer="3" answerDesc="远光灯的灯光走向是直的。近光灯的灯光走向是朝下的。" id="795" imgName="1369107957030.jpg" option="已开启前雾灯@@已开启前照灯近光@@已开启前照灯远光@@已开启后雾灯" question="机动车仪表板上（如图所示）亮时表示什么？" type="1"></exam>
+  <exam answer="2" answerDesc="近光灯的灯光走向是朝下的。远光灯的灯光走向是直的。" id="796" imgName="1369107957150.jpg" option="已开启后雾灯@@已开启前照灯近光@@已开启前照灯远光@@已开启前雾灯" question="机动车仪表板上（如图所示）亮时表示什么？" type="1"></exam>
+  <exam answer="2" answerDesc="远光灯的灯光走向是直的。近光灯的灯光走向是朝下的。" id="797" imgName="1369107957272.jpg" option="正确@@错误" question="开启前照灯远光时仪表板上（如图所示）亮起。" type="0"></exam>
+  <exam answer="2" answerDesc="近光灯的灯光走向是朝下的。远光灯的灯光走向是直的。" id="798" imgName="1369107957386.jpg" option="正确@@错误" question="开启前照灯近光时仪表板上（如图所示）亮起。" type="0"></exam>
+  <exam answer="1" answerDesc="此为没有系好安全带。" id="799" imgName="1369107957502.jpg" option="没有系好安全带@@安全带出现故障@@安全带系得过松@@已经系好安全带" question="机动车仪表板上（如图所示）亮表示什么？" type="1"></exam>
+  <exam answer="2" answerDesc="此为提醒用户没有系安全带。" id="800" imgName="1369107957643.jpg" option="正确@@错误" question="机动车仪表板上（如图所示）亮时，提醒驾驶人座椅没调整好。" type="0"></exam>
+  <exam answer="1" answerDesc="安全带很明显，亲，开车一定要系安全带，而且不系安全带是要扣分的。" id="801" imgName="1369107957771.jpg" option="正确@@错误" question="机动车仪表板上（如图所示）亮时，提醒驾驶人安全带插头未插入锁扣。" type="0"></exam>
+  <exam answer="3" answerDesc="危险报警闪光灯是一种提醒其他车辆与行人注意本车发生了特殊情况的信号灯。" id="802" imgName="" option="遇到道路拥堵时@@在道路上跟车行驶时@@机动车发生故障停车时@@引领后车行驶时" question="危险报警闪光灯可用于下列什么场合？" type="1"></exam>
+  <exam answer="1" answerDesc="危险报警闪光灯，通常称为“双蹦”（红三角里有个！的标志按扭开关，俗称双闪灯 或双跳灯），是一种提醒其他车辆与行人注意本车发生了特殊情况的信号灯。" id="803" imgName="1369107957934.jpg" option="危险报警闪光灯闪烁@@右转向指示灯闪烁@@左转向指示灯闪烁@@车前后位置灯闪烁" question="机动车仪表板上（如图所示）亮表示什么？" type="1"></exam>
+  <exam answer="2" answerDesc="危险报警闪光灯俗称双闪，不会自动闪烁的，这个是要我们驾驶员操作的。" id="804" imgName="1369107958049.jpg" option="正确@@错误" question="机动车发生故障时，（如图所示）闪烁。" type="0"></exam>
+  <exam answer="1" answerDesc="危险报警闪光灯，通常称为“双蹦”（红三角里有个！的标志按扭开关，俗称双闪灯 或双跳灯），是一种提醒其他车辆与行人注意本车发生了特殊情况的信号灯。" id="805" imgName="1369107958173.jpg" option="正确@@错误" question="开启危险报警闪光灯时，（如图所示）闪烁。" type="0"></exam>
+  <exam answer="4" answerDesc="这个没有问题吧。。。老衲也不知如何解释这个题。" id="806" imgName="1369107958297.jpg" option="车前后位置灯亮起@@车前后示宽灯亮起@@左转向指示灯闪烁@@右转向指示灯闪烁" question="机动车仪表板上（如图所示）亮表示什么？" type="1"></exam>
+  <exam answer="1" answerDesc="这个没有问题吧。。。老衲也不知如何解释这个题。" id="807" imgName="1369107958423.jpg" option="左转向指示灯闪烁@@车前后示宽灯亮起@@车前后位置灯亮起@@右转向指示灯闪烁" question="机动车仪表板上（如图所示）亮表示什么？" type="1"></exam>
+  <exam answer="2" answerDesc="亲，这个是右转向灯。" id="808" imgName="1369107958548.jpg" option="正确@@错误" question="打开左转向灯开关，（如图所示）亮起。" type="0"></exam>
+  <exam answer="2" answerDesc="亲，这个是左转向灯的。" id="809" imgName="1369107958664.jpg" option="正确@@错误" question="打开右转向灯开关，（如图所示）亮起。" type="0"></exam>
+  <exam answer="4" answerDesc="此为充电电路故障，一般没有故障这些都不会亮的，只有出故障了才会亮。" id="810" imgName="1369107958786.jpg" option="充电电流过大@@蓄电池损坏@@电流表故障@@充电电路故障" question="机动车仪表板上（如图所示）亮表示什么？" type="1"></exam>
+  <exam answer="3" answerDesc="这个毫无疑问俩边门都开了。" id="811" imgName="1369107958908.jpg" option="发动机舱开启@@燃油箱盖开启@@两侧车门开启@@行李舱开启" question="机动车仪表板上（如图所示）亮表示什么？" type="1"></exam>
+  <exam answer="1" answerDesc="后边为行李舱，前边为发动机舱。" id="812" imgName="1369107959033.jpg" option="行李舱开启@@一侧车门开启@@发动机舱开启@@燃油箱盖开启" question="机动车仪表板上（如图所示）这个符号表示什么？" type="1"></exam>
+  <exam answer="2" answerDesc="前盖为发动机舱，后边为行李舱。" id="813" imgName="1369107959163.jpg" option="行李舱开启@@发动机舱开启@@燃油箱盖开启@@一侧车门开启" question="机动车仪表板上（如图所示）这个符号表示什么？" type="1"></exam>
+  <exam answer="4" answerDesc="黄色表示处于故障状态。" id="814" imgName="1369107959295.jpg" option="安全气囊处于工作状态@@安全带没有系好@@防抱死制动系统故障@@安全气囊处于故障状态" question="机动车仪表板上（如图所示）一直亮表示什么？" type="1"></exam>
+  <exam answer="3" answerDesc="此为车灯总开关。" id="815" imgName="1369107959422.jpg" option="远光灯开关@@近光灯开关@@车灯总开关@@后雾灯开关" question="机动车仪表板上（如图所示）这个符号表示什么？" type="1"></exam>
+  <exam answer="2" answerDesc="此为空气外循环，当箭头在车内转的时候是空气内循环。" id="816" imgName="1369107959537.jpg" option="空气内循环@@空气外循环@@迎面吹风@@风窗玻璃除霜" question="机动车仪表板上（如图所示）亮表示什么？" type="1"></exam>
+  <exam answer="4" answerDesc="此为空气内循环，当箭头是从车外进来的就是空气外循环。" id="817" imgName="1369107959666.jpg" option="迎面出风@@空气外循环@@风窗玻璃除霜@@空气内循环" question="机动车仪表板上（如图所示）亮表示什么？" type="1"></exam>
+  <exam answer="4" answerDesc="看它长的多像风扇。" id="818" imgName="1369107959785.jpg" option="雪地起步模式@@空气循环@@空调制冷@@冷风暖气风扇" question="机动车仪表板上（如图所示）这个符号表示什么？" type="1"></exam>
+  <exam answer="1" answerDesc="亲，这个真的选A。" id="819" imgName="1369107959906.jpg" option="地板及迎面出风@@空气内循环@@空气外循环@@侧面及地板出风" question="机动车仪表板上（如图所示）亮表示什么？" type="1"></exam>
+  <exam answer="3" answerDesc="直吹人脸表示迎面出风，垂直向下表示吹地板。" id="820" imgName="1369107960021.jpg" option="侧面出风@@空气外循环@@迎面出风@@空气内循环" question="机动车仪表板上（如图所示）亮表示什么？" type="1"></exam>
+  <exam answer="4" answerDesc="此为前风窗玻璃刮水器。关于如何区分前风窗玻璃刮水器及洗涤器和后风窗玻璃刮水器及洗涤器，你只需记住一点半弧形的图标是前风窗，四四方方的图标就是后风窗。" id="821" imgName="1369107960136.jpg" option="前风窗玻璃除霜@@后风窗玻璃刮水器@@后风窗玻璃除霜@@前风窗玻璃刮水器" question="（如图所示）这个符号的开关控制什么装置？" type="1"></exam>
+  <exam answer="3" answerDesc="此为前风窗玻璃刮水器及洗涤器。关于如何区分前风窗玻璃刮水器及洗涤器和后风窗玻璃刮水器及洗涤器，你只需记住一点半弧形的图标是前风窗，四四方方的图标就是后风窗。" id="822" imgName="1369107960251.jpg" option="前风窗玻璃除霜或除雾@@后风窗玻璃刮水器及洗涤器@@前风窗玻璃刮水器及洗涤器@@后风窗玻璃除霜或除雾" question="（如图所示）这个符号的开关控制什么装置？" type="1"></exam>
+  <exam answer="3" answerDesc="此为后风窗玻璃刮水器及洗涤器。关于如何区分前风窗玻璃刮水器及洗涤器和后风窗玻璃刮水器及洗涤器，你只需记住一点半弧形的图标是前风窗，四四方方的图标就是后风窗。" id="823" imgName="1369107960378.jpg" option="前风窗玻璃刮水器及洗涤器@@后风窗玻璃除霜或除雾@@后风窗玻璃刮水器及洗涤器@@前风窗玻璃除霜或除雾" question="（如图所示）这个符号的开关控制什么装置？" type="1"></exam>
+  <exam answer="3" answerDesc="你看那个长的多像一把钥匙，所以是车门锁住开锁。" id="824" imgName="1369107960494.jpg" option="两侧车窗玻璃@@电动车门@@车门锁住开锁@@儿童安全锁" question="（如图所示）这个符号的开关控制什么装置？" type="1"></exam>
+  <exam answer="1" answerDesc="你看里边长的多像一个小孩，故选A最靠谱。" id="825" imgName="1369107960613.jpg" option="儿童安全锁@@两侧车窗玻璃@@电动车门@@车门锁住开锁" question="（如图所示）这个符号的开关控制什么装置？" type="1"></exam>
+  <exam answer="4" answerDesc="A,B,C都巨不靠谱，只有D最合理。" id="826" imgName="1369107960731.jpg" option="洗涤液不足@@制动液不足@@冷却系故障@@冷却液不足" question="机动车仪表板上（如图所示）亮表示什么？" type="1"></exam>
+  <exam answer="2" answerDesc="提示发电机不向蓄电池充电了，充电系统有故障了！" id="827" imgName="1369107960891.jpg" option="正确@@错误" question="机动车仪表板上（如图所示）亮，提示发电机向蓄电池充电。" type="0"></exam>
+  <exam answer="1" answerDesc="毫无疑问俩侧的车门都没关闭" id="828" imgName="1369107961014.jpg" option="正确@@错误" question="机动车仪表板上（如图所示)亮，提示两侧车门未关闭。" type="0"></exam>
+  <exam answer="2" answerDesc="很明显他是右侧的" id="829" imgName="1369107961130.jpg" option="正确@@错误" question="机动车仪表板上（如图所示）亮，提示左侧车门未关闭。" type="0"></exam>
+  <exam answer="2" answerDesc="很明显他是左侧的" id="830" imgName="1369107961257.jpg" option="正确@@错误" question="机动车仪表板上（如图所示）亮，提示右侧车门未关闭。" type="0"></exam>
+  <exam answer="2" answerDesc="前盖是发动机舱。" id="831" imgName="1369107961402.jpg" option="正确@@错误" question="机动车仪表板上（如图所示）亮，提示行李舱开启。" type="0"></exam>
+  <exam answer="2" answerDesc="应该可以看出是行李箱（后备箱）吧。" id="832" imgName="1369107961519.jpg" option="正确@@错误" question="机动车仪表板上（如图所示）亮，提示发动机舱开启。" type="0"></exam>
+  <exam answer="2" answerDesc="此图表示安全气囊现在处于故障状态。" id="833" imgName="1369107961637.jpg" option="正确@@错误" question="机动车仪表板上（如图所示）一直亮，表示安全气囊处于工作状态。" type="0"></exam>
+  <exam answer="1" answerDesc="大箭头表示吹的是脚底板，那个曲线上升的表示是吹的前风窗。" id="834" imgName="1369107961753.jpg" option="正确@@错误" question="机动车仪表板上（如图所示）亮表示启用地板及前风窗玻璃吹风。" type="0"></exam>
+  <exam answer="1" answerDesc="你看它长的多像发动机。" id="835" imgName="1369107961882.jpg" option="正确@@错误" question="机动车仪表板上（如图所示）一直亮，表示发动机控制系统故障。" type="0"></exam>
+  <exam answer="2" answerDesc="正确的握法是握住方向盘的俩边，题中的握法是驾驶的陋习，是有很大的风险的。" id="836" imgName="1369107961995.jpg" option="正确@@错误" question="这种握转向盘的动作是正确的。" type="0"></exam>
+  <exam answer="1" answerDesc="这个不知如何解释，记住吧，亲，你会开车以后这个东东用的频率是相当高的。" id="837" imgName="1369107962119.jpg" option="离合器踏板@@制动踏板@@驻车制动器@@加速踏板" question="这是什么踏板？" type="1"></exam>
+  <exam answer="3" answerDesc="制动踏板俗称刹车。" id="838" imgName="1369107962252.jpg" option="离合器踏板@@加速踏板@@制动踏板@@驻车制动器" question="这是什么踏板？" type="1"></exam>
+  <exam answer="1" answerDesc="加速踏板俗称油门，控制车速的。" id="839" imgName="1369107962381.jpg" option="加速踏板@@离合器踏板@@驻车制动器@@制动踏板" question="这是什么踏板？" type="1"></exam>
+  <exam answer="3" answerDesc="变速器操纵杆也就是换挡的，当我们速度越开越快的时候也要对应上相应的档位，故此为变速器操纵杆。" id="840" imgName="1369107962518.jpg" option="驻车制动器操纵杆@@节气门操纵杆@@变速器操纵杆@@离合器操纵杆" question="这是什么操纵装置？" type="1"></exam>
+  <exam answer="4" answerDesc="驻车制动器操纵杆俗称手刹，能使汽车本体固定在地面或某平面上而不出现相对移动的总成的操纵装置。" id="841" imgName="1369107962657.jpg" option="节气门操纵杆@@变速器操纵杆@@离合器操纵杆@@驻车制动器操纵杆" question="这是什么操纵装置？" type="1"></exam>
+  <exam answer="2" answerDesc="这个是点火装置没错。灯光开关在左手边，雨刷开关在右手边。" id="842" imgName="1369107962785.jpg" option="空调开关@@点火开关@@雨刷开关@@灯光开关" question="这是什么操纵装置？" type="1"></exam>
+  <exam answer="2" answerDesc="点火开关在ON位置的时候全车的电源是连通的，可以用车载电器听音乐等等。" id="843" imgName="1369107962948.jpg" option="正确@@错误" question="点火开关在ON位置，车用电器不能使用。" type="0"></exam>
+  <exam answer="1" answerDesc="LOCK的中文意思就是锁，一般从这里拔出钥匙方向盘也会锁死。" id="844" imgName="1369107963109.jpg" option="正确@@错误" question="点火开关在LOCK位置拔出钥匙转向盘会锁住。" type="0"></exam>
+  <exam answer="1" answerDesc="START是出发的意思，所以他就是点火的开关。" id="845" imgName="1369107963273.jpg" option="正确@@错误" question="点火开关在START位置起动机起动。" type="0"></exam>
+  <exam answer="4" answerDesc="左手边控制灯光、信号组合开关，右手边控制刮水器开关。" id="846" imgName="1369107963436.jpg" option="倒车灯开关@@刮水器开关@@危险报警闪光灯开关@@灯光、信号组合开关" question="这是什么操纵装置？" type="1"></exam>
+  <exam answer="1" answerDesc="此为控制左右转向灯。顺便回忆一下转向灯操作：上右下左。" id="847" imgName="1369107963595.jpg" option="左右转向灯@@倒车灯@@示廓灯@@报警闪光灯" question="提拉这个开关控制机动车哪个部位？" type="1"></exam>
+  <exam answer="2" answerDesc="此处为雾灯的控制。顺便回忆一下，哪个控制前雾灯，哪个控制后雾灯。下边的控制前雾灯，上边的控制后雾灯。" id="848" imgName="1369107963757.jpg" option="近光灯@@前后雾灯@@远光灯@@左右转向灯" question="旋转开关这一档控制机动车哪个部位？" type="1"></exam>
+  <exam answer="2" answerDesc="转向灯操作：上右下左。" id="849" imgName="1369107963951.jpg" option="正确@@错误" question="将转向灯开关向上提，左转向灯亮。" type="0"></exam>
+  <exam answer="2" answerDesc="转向灯操作：上右下左。" id="850" imgName="1369107964118.jpg" option="正确@@错误" question="将转向灯开关向下拉，右转向灯亮。" type="0"></exam>
+  <exam answer="2" answerDesc="此表示不是全车灯亮，而是示廓灯点亮。" id="851" imgName="1369107964276.jpg" option="正确@@错误" question="灯光开关旋转到这个位置时，全车灯光点亮。" type="0"></exam>
+  <exam answer="1" answerDesc="你看它停的位置雾灯是冲左的，此为前雾灯，故正确。" id="852" imgName="1369107964444.jpg" option="正确@@错误" question="灯光开关在该位置时，前雾灯点亮。" type="0"></exam>
+  <exam answer="1" answerDesc="你看它停的位置雾灯是冲右的，此为后雾灯，故正确。" id="853" imgName="1369107964600.jpg" option="正确@@错误" question="灯光开关在该位置时，后雾灯点亮。" type="0"></exam>
+  <exam answer="1" answerDesc="左手边转向灯开关，右手边刮水器开关。" id="854" imgName="1369107964763.jpg" option="刮水器开关@@前照灯开关@@转向灯开关@@除雾器开关" question="这是什么操纵装置？" type="1"></exam>
+  <exam answer="4" answerDesc="你看那些曲线，代表的就是雾气。题目扩展：上边的按钮是前挡风除雾，下边的按钮是后挡风除雾。" id="855" imgName="1369107964922.jpg" option="转向灯开关@@前照灯开关@@刮水器开关@@除雾器开关" question="这是什么操纵装置？" type="1"></exam>
+  <exam answer="2" answerDesc="这个控制风窗玻璃刮水器的，木问题。风窗玻璃除雾器和危险报警闪光灯都是按钮形式的，照明、信号装置在你的左手边。" id="856" imgName="1369107965046.jpg" option="风窗玻璃除雾器@@风窗玻璃刮水器@@危险报警闪光灯@@照明、信号装置" question="这个开关控制机动车哪个部位？" type="1"></exam>
+  <exam answer="2" answerDesc="这个开关是管前挡风窗户的，下边那个按钮才是管后风窗的。告诉大家一个小技巧，你看半弧形的图标是前挡风，四四方方的图标就是后风窗，嘘，别告诉别人。" id="857" imgName="1369107965171.jpg" option="正确@@错误" question="按下这个开关，后风窗玻璃除霜器开始工作。" type="0"></exam>
+  <exam answer="1" answerDesc="正确，这个没问题，左侧的开关是管灯光的，右侧的开关是管雨刷的。" id="858" imgName="1369107965302.jpg" option="正确@@错误" question="上下搬动这个开关前风窗玻璃刮水器开始工作。" type="0"></exam>
+  <exam answer="4" answerDesc="安全头枕是保护颈椎滴。" id="859" imgName="" option="腰部@@胸部@@头部@@颈部" question="安全头枕在发生追尾事故时，能有效保护驾驶人的什么部位？" type="1"></exam>
+  <exam answer="2" answerDesc="安全头枕是保护颈椎的。" id="860" imgName="" option="正确@@错误" question="安全头枕用于在发生追事故时保护驾驶人的头部不受伤害。" type="0"></exam>
+  <exam answer="3" answerDesc="座椅安全带可以保护人身体的大部分，故选C" id="861" imgName="" option="保护驾乘人员颈部@@保护驾乘人员胸部@@减轻驾乘人员伤害@@保护驾乘人员腰部" question="机动车发生碰撞时座椅安全带主要作用是什么？" type="1"></exam>
+  <exam answer="1" answerDesc="研究表明，假设气囊加安全带是100%安全的话，安全带的作用是70%，气囊的作用是30%。" id="862" imgName="" option="正确@@错误" question="机动车发生正面碰撞时，安全气囊加上安全带的双重保护才能充分发挥作用。" type="0"></exam>
+  <exam answer="1" answerDesc="这个没问题，亲，不要以为安全带是装饰用的哦！" id="863" imgName="" option="正确@@错误" question="机动车在发生碰撞时，安全带可以减轻驾乘人员伤害。" type="0"></exam>
+  <exam answer="4" answerDesc="ABS通过控制作用于车轮制动分泵上的制动管路压力，使汽车在紧急刹车时车轮不会抱死，故选D。" id="864" imgName="1369107965620.jpg" option="切断动力输出@@自动控制方向@@减轻制动惯性@@防止车轮抱死" question="机动车在紧急制动时ABS系统会起到什么作用？" type="1"></exam>
+  <exam answer="3" answerDesc="ABS的目的就是为了防止刹车的时候一脚踩死，导致翻车什么的。 不过刹车刹死就比较慢（速度N快的时候），效果等于踩下刹车，再松下刹车，反复几次！" id="865" imgName="" option="间歇制动@@持续制动@@紧急制动@@缓踏制动踏板" question="防抱死制动系统（ABS）在什么情况下可以最大限度发挥制动器效能?" type="1"></exam>
+  <exam answer="1" answerDesc="ABS系统是“防抱死刹车系统”，也就是防止抱死车轮，既然没有抱死轮胎那么就是具有转向能力。" id="866" imgName="" option="正确@@错误" question="机动车紧急制动时，ABS系统在提供最大制动力的同时能使车前轮保持转向能力。" type="0"></exam>
+  <exam answer="2" answerDesc="因为（ABS）是防抱死制动装置。防止侧滑，就是当它发现有轮胎抱死后，会松开刹车。以后再刹再松，直到车停下。肯定增加了制动距离！因此本题错误。" id="867" imgName="" option="正确@@错误" question="装有ABS系统的机动车在冰雪路面上会最大限度缩短制动距离。" type="0"></exam>
+  <exam answer="1" answerDesc="ABS使汽车在紧急刹车时车轮不会抱死，这样就能使汽车在紧急制动时仍能保持较好的方向稳定性。由于四轮防抱死制动系统保留着控制转向的能力，因此，在制动过程中有可能绕过障碍物，避免可能发生的事故。然而，驾驶有ABS 系统的机动车在紧急制动的同时转向会发生侧滑。" id="868" imgName="" option="正确@@错误" question="驾驶有ABS系统的机动车在紧急制动的同时转向可能会发生侧滑。" type="0"></exam>
+  <exam answer="1" answerDesc="ABS技术的出现，就是大大地降低了侧滑，和原地掉头的现象，保证了行驶的安全。如果，你在使用带ABS的车辆，在刹车时的动作，类似不带ABS的车这样轻轻的踩下去，很可能会不能触发ABS系统，也就起不到ABS的作用了，所以，一般就是要求，刹车动作要果断，一脚就踩到底，保证ABS的正确执行。" id="869" imgName="" option="正确@@错误" question="安装防抱死制动装置（ABS）的机动车紧急制动时，可用力踏制动踏板。" type="0"></exam>
+  <exam answer="2" answerDesc="这种错误认识是由于不了解ABS的工作原理导致的。ABS可以兼顾车辆行驶中的最大的纵向制动力和横向抓地力，有效地保证车辆不会发生失控状况，但不是所有配置了ABS的车辆都会缩短制动距离，如冰雪、潮湿路面上的制动距离比车轮抱死时短一些，但在一般路面上的制动距离反而更长。" id="870" imgName="" option="正确@@错误" question="安装防抱死制动装置（ABS）的机动车制动时，制动距离会大大缩短，因此不必保持安全车距。" type="0"></exam>
+  <exam answer="3" answerDesc="安全气囊，设置在车内前方（正副驾驶位），侧方（车内前排和后排）和车顶三个方向。装有安全气囊系统的容器外部都印有Supplemental Inflatable Restraint System，简称SRS)的字样，直译成中文为“辅助可充气约束系统”。旨在减轻乘员的伤害程度，当发生碰撞事故时，避免乘员发生二次碰撞，或车辆发生翻滚等危险情况下被抛离座位。" id="871" imgName="" option="防抱死制动系统@@电子制动力分配系统@@辅助驾乘人员保护系统@@驾驶人头颈保护系统" question="安全气囊是一种什么装置？" type="1"></exam>
+  <exam answer="2" answerDesc="研究表明，假设气囊加安全带是100%安全的话，安全带的作用是70%，气囊的作用是30%" id="872" imgName="1369107966023.jpg" option="防抱死制动系统@@座椅安全带@@座椅安全头枕@@安全玻璃" question="正面安全气囊与什么配合才能充分发挥保护作用？" type="1"></exam>
+  <exam answer="2" answerDesc="点火锁开关档位设置方式。其含义是：LOCK、切断电源，锁定方向盘；ACC、接通附件电源（比如收音机等附件）ON、接通除起动机外的全车全部电源；START、接通起动机电源，起动发动机。 （起动后松手钥匙，会自动弹回ON档位）供你参考。" id="873" imgName="1369107966153.jpg" option="正确@@错误" question="将点火开关转到ACC位置起动机工作。" type="0"></exam>
+  <exam answer="2" answerDesc="车辆因故障必须在高速公路停车时，应在车后方（150米）处设置故障警告标志，夜间还需开启示廓灯和后位灯。 机动车在速公路上发生故障时，警告标志应当设置在故障车来车方向（150米）以外。 机动车在白天在道路上发生故障，妨碍交通又难以移动的，应当按规定开启危险报警闪光灯，并在车后（50米至100米）处设置警告标志。" id="874" imgName="" option="25@@150@@100@@50" question="车辆因故障必须在高速公路停车时，应在车后方多少米以外设置故障警告标志？" type="1"></exam>
+  <exam answer="1" answerDesc="行车中经过积水路面时，应特别留意减速慢行；加速或保持正常车速通过，溅起的水花会冲击前挡风玻璃，阻挡驾驶员的视线，无法观察前方情况，极易导致车辆失控或交通事故。另外，驾驶车辆行经两侧有行人或非机动车行驶且有积水的路面时，更应减速慢行，以免泥水飞溅到行人或非机动车驾驶员身上。" id="875" imgName="" option="减速慢行@@保持正常车速通过@@空挡滑行通过@@加速通过" question="驾驶人在行车中经过积水路面时，应怎样做？" type="1"></exam>
+  <exam answer="3" answerDesc="行人不带转向灯无号牌，如果没有分透出对方的轨迹那就注意行人的72变化。" id="876" imgName="" option="行动迟缓@@喜欢聚集、围观@@行走随意性大，方向多变@@以上都是" question="行人参与道路交通的主要特点是什么？" type="1"></exam>
+  <exam answer="2" answerDesc="我们都应该让,安全行驶,一定要和谐。" id="877" imgName="" option="继续加速行驶@@稍向右侧行驶，保证横向安全距离@@靠道路中心行驶@@加速向右侧让路" question="驾驶的车辆正在被其他车辆超越时，若此时后方有跟随行驶的车辆，应怎样做？" type="1"></exam>
+  <exam answer="2" answerDesc="双黄实线严禁碾压。" id="878" imgName="1369107966458.jpg" option="正确@@错误" question="路中心的双黄实线作用是分隔对向交通流，在保证安全的前提下，可越线超车或转弯。" type="0"></exam>
+  <exam answer="2" answerDesc="道路路面上的白色菱形图案，是中华人民共和国国家标准（GB5768/1999）《道路交通标志和标线》中新设置的一种交通标线，正式名称为人行横道预告标线。这种标线在到达人行横道前的道路30-50米处设置，它的作用是用来提示驾驶员，前方已接近人行横道，应减速慢行，并须注意行人横过马路" id="879" imgName="1369107966590.jpg" option="正确@@错误" question="这个地面标记的含义是预告前方设有交叉路口。" type="0"></exam>
+  <exam answer="1" answerDesc="黄色虚线是中心线，可以跨越；黄色单实线就已经不能跨越了；黄色双实线是严格禁止压线或者跨越" id="880" imgName="1369107966719.jpg" option="正确@@错误" question="路中心黄色虚线的含义是分隔对向交通流，在保证安全的前提下，可越线超车或转弯。" type="0"></exam>
+  <exam answer="1" answerDesc="你看那个P字上边还有个遮挡，说明是室内的，如果没有上边那个遮挡就是露天停车场。" id="881" imgName="1369107966843.jpg" option="正确@@错误" question="这个标志的含义是指示此处设有室内停车场。" type="0"></exam>
+  <exam answer="2" answerDesc="你看那个P字上边没有遮挡，说明是露天停车场，如果P字上边有遮挡就是室内停车场了。" id="882" imgName="1369107966990.jpg" option="正确@@错误" question="这个标志的含义是指示此处设有室内停车场" type="0"></exam>
+  <exam answer="2" answerDesc="你的行驶的方向是红色的箭头，但是对方的箭头比你粗所以应该是对方车辆先行。答题技巧：谁粗谁先行。" id="883" imgName="1369107967111.jpg" option="正确@@错误" question="这个标志的含义是表示车辆会车时，对方车辆应停车让行。" type="0"></exam>
+  <exam answer="1" answerDesc="此标志是减速让行标志。" id="884" imgName="1369107967239.jpg" option="正确@@错误" question="这个标志的含义是告示车辆驾驶人应慢行或停车，确保干道车辆优先。" type="0"></exam>
+  <exam answer="2" answerDesc="施工标志：用以告示前方道路施工，车辆应减速慢行或绕道行驶。该标志可以作为临时标志支设在施工路段以前适当位置。" id="885" imgName="1369107967364.jpg" option="正确@@错误" question="这个标志的含义是告示前方是塌方路段，车辆应绕道行驶。" type="0"></exam>
+  <exam answer="2" answerDesc="注意障碍物标志右侧绕行：用以告示前方道路有障碍物，车辆应按标志指示减速慢行。设在道路障碍物前适当位置。" id="886" imgName="1369107967514.jpg" option="正确@@错误" question="这个标志的含义是告示前方道路是单向通行路段。" type="0"></exam>
+  <exam answer="1" answerDesc="注意障碍物标志左侧绕行：用以告示前方道路有障碍物，车辆应按标志指示减速慢行。设在道路障碍物前适当位置。" id="887" imgName="1369107967631.jpg" option="正确@@错误" question="这个标志的含义是告示前方道路有障碍物，车辆左侧绕行。" type="0"></exam>
+  <exam answer="2" answerDesc="注意障碍物标志左右绕行：用以告示前方道路有障碍物，车辆应按标志指示减速慢行。设在道路障碍物前适当位置。" id="888" imgName="1369107967798.jpg" option="正确@@错误" question="这个标志的含义是告示前方道路施工，车辆左右绕行。" type="0"></exam>
+  <exam answer="2" answerDesc="事故易发路段：用以告示前方道路为事故易发路段，谨慎驾驶。设在交通事故易发路段以前适当位置。" id="889" imgName="1369107967917.jpg" option="正确@@错误" question="这个标志的含义是告示前方是拥堵路段，注意减速慢行。" type="0"></exam>
+  <exam answer="2" answerDesc="注意非机动车：用以提醒车辆驾驶人注意慢行。设在经常有非机动车横穿、出入的地点前适当位置。" id="890" imgName="1369107968043.jpg" option="正确@@错误" question="这个标志的含义是提醒车辆驾驶人前方是非机动车道。" type="0"></exam>
+  <exam answer="1" answerDesc="无人看守铁路道口：用以警告车辆驾驶人注意慢行或及时停车。设在无人看守铁路道口以前适当位置。" id="891" imgName="1369107968171.jpg" option="正确@@错误" question="这个标志的含义是提醒车辆驾驶人前方是无人看守铁路道口。" type="0"></exam>
+  <exam answer="2" answerDesc="有人看守铁路道口：用以警告车辆驾驶人注意慢行或及时停车。设在车辆驾驶人不易发现的道口以前适当位置。" id="892" imgName="1369107968301.jpg" option="正确@@错误" question="这个标志的含义是提醒车辆驾驶人前方是无人看守铁路道口。" type="0"></exam>
+  <exam answer="1" answerDesc="过水路面：用以提醒车辆驾驶人谨慎慢行。设在过水路面或漫水桥路段以前适当位置。" id="893" imgName="1369107968418.jpg" option="正确@@错误" question="这个标志的含义是提醒车辆驾驶人前方是过水路面或漫水桥路段。" type="0"></exam>
+  <exam answer="1" answerDesc="路面低洼：用以提醒车辆驾驶人减速慢行。设在路面突然低洼以前适当位置。" id="894" imgName="1369107968540.jpg" option="正确@@错误" question="这个标志的含义是提醒车辆驾驶人前方路面颠簸或有桥头跳车现象。" type="0"></exam>
+  <exam answer="2" answerDesc="驼峰桥：用以提醒车辆驾驶人谨慎驾驶。设在拱度很大，影响视距的驼峰桥以前适当位置。" id="895" imgName="1369107968660.jpg" option="正确@@错误" question="这个标志的含义是提醒车辆驾驶人前方是桥头跳车较严重的路段。" type="0"></exam>
+  <exam answer="1" answerDesc="渡口：用以提醒车辆驾驶人谨慎驾驶。设在车辆渡口以前适当位置。" id="896" imgName="1369107968805.jpg" option="正确@@错误" question="这个标志的含义是提醒车辆驾驶人前方是车辆渡口。" type="0"></exam>
+  <exam answer="2" answerDesc="隧道：用以提醒车辆驾驶人注意慢行。设在双向行驶并且照明不好的隧道口前适当位置。" id="897" imgName="1369107968936.jpg" option="正确@@错误" question="这个标志的含义是提醒车辆驾驶人前方是单向行驶并且照明不好的涵洞。" type="0"></exam>
+  <exam answer="1" answerDesc="村庄：用以提醒车辆驾驶人小心驾驶。设在紧靠村庄、集镇且视线不良的路段以前适当位置。" id="898" imgName="1369107969057.jpg" option="正确@@错误" question="这个标志的含义是提醒车辆驾驶人前方路段通过村庄或集镇。" type="0"></exam>
+  <exam answer="2" answerDesc="傍山险路：用以提醒车辆驾驶人小心驾驶。设在傍山险路路段以前适当位置。" id="899" imgName="1369107969185.jpg" option="正确@@错误" question="这个标志的含义是提醒车辆驾驶人前方是堤坝路段。" type="0"></exam>
+  <exam answer="2" answerDesc="易滑：用以促使车辆驾驶人注意慢行。设在路滑容易发生事故的路段以前适当位置。" id="900" imgName="1369107969314.jpg" option="正确@@错误" question="这个标志的含义是提醒车辆驾驶人前方是急转弯路段。" type="0"></exam>
+  <exam answer="1" answerDesc="注意横风：用以提醒车辆驾驶人小心驾驶。设在经常有很强的侧向风的路段以前适当位置。" id="901" imgName="1369107969440.jpg" option="正确@@错误" question="这个标志的含义是提醒车辆驾驶人前方有很强的侧向风。" type="0"></exam>
+  <exam answer="2" answerDesc="注意落石：用以提醒车辆驾驶人注意落石。设在有落石危险的傍山路段以前适当位置。" id="902" imgName="1369107969558.jpg" option="正确@@错误" question="这个标志的含义是提醒车辆驾驶人前方是傍山险路路段。" type="0"></exam>
+  <exam answer="1" answerDesc="注意信号灯：用以警告车辆驾驶人注意前方路段设有信号灯，应依信号灯指示行车。" id="903" imgName="1369107969685.jpg" option="正确@@错误" question="这个标志的含义是警告车辆驾驶人注意前方设有信号灯。" type="0"></exam>
+  <exam answer="2" answerDesc="注意儿童：用以警告车辆驾驶人减速慢行，注意儿童。设在小学、幼儿园、少年宫等儿童经常出入地点前适当位置。" id="904" imgName="1369107969813.jpg" option="正确@@错误" question="这个标志的含义是警告车辆驾驶人前方是学校区域。" type="0"></exam>
+  <exam answer="2" answerDesc="注意行人：用以警告车辆驾驶人减速慢行，注意行人。设在行人密集，或不易被驾驶员发现的人行横道线以前适当位置。" id="905" imgName="1369107969941.jpg" option="正确@@错误" question="这个标志的含义是警告车辆驾驶人前方是人行横道。" type="0"></exam>
+  <exam answer="1" answerDesc="双向交通：用以提醒车辆驾驶人注意会车。设在由双向分离行驶，因某种原因出现临时性或永久性的不分离双向行驶的路段，或由单向行驶进人双向行驶的路段以前适当位置。" id="906" imgName="1369107970069.jpg" option="正确@@错误" question="这个标志的含义是提醒前方道路变为不分离双向行驶路段。" type="0"></exam>
+  <exam answer="2" answerDesc="窄桥：用以警告车辆驾驶人注意前方桥面宽度变窄，应谨慎驾驶。设在桥面净宽较两端路面宽度变窄，且桥的净宽小于6 m的桥梁以前适当位置。" id="907" imgName="1369107970185.jpg" option="正确@@错误" question="这个标志的含义是提醒前方两侧行车道或路面变窄。" type="0"></exam>
+  <exam answer="1" answerDesc="左侧变窄：用以警告车辆驾驶人注意前方车行道或路面狭窄情况，遇有来车应予减速避让。设在双车道路面宽度缩减为6 m以下的路段起点前方。" id="908" imgName="1369107970310.jpg" option="正确@@错误" question="这个标志的含义是提醒前方左侧行车道或路面变窄。" type="0"></exam>
+  <exam answer="1" answerDesc="右侧变窄：用以警告车辆驾驶人注意前方车行道或路面狭窄情况，遇有来车应予减速避让。设在双车道路面宽度缩减为6 m以下的路段起点前方。" id="909" imgName="1369107970427.jpg" option="正确@@错误" question="这个标志的含义是提醒前方右侧行车道或路面变窄。" type="0"></exam>
+  <exam answer="2" answerDesc="两侧变窄：用以警告车辆驾驶人注意前方车行道或路面狭窄情况，遇有来车应予减速避让。设在双车道路面宽度缩减为6 m以下的路段起点前方。" id="910" imgName="1369107970553.jpg" option="正确@@错误" question="这个标志的含义是提醒前方桥面宽度变窄。" type="0"></exam>
+  <exam answer="2" answerDesc="连续弯路：用以警告车辆驾驶人减速慢行。设置位置为连续弯路起点的外面，当连续弯路总长度大于500m时，应重复设置。" id="911" imgName="1369107970670.jpg" option="正确@@错误" question="这个标志的含义是警告前方有两个相邻的反向转弯道路。" type="0"></exam>
+  <exam answer="2" answerDesc="反向弯路：用以警告车辆驾驶人减速慢行。设置位置为两反向圆曲线起点的外面，但不应进入相邻的圆曲线内。" id="912" imgName="1369107970787.jpg" option="正确@@错误" question="这个标志的含义是警告前方道路易滑，注意慢行。" type="0"></exam>
+  <exam answer="1" answerDesc="向左急弯路：用以警告车辆驾驶人减速慢行。设置位置为曲线起点的外面，但不应进入相邻的圆曲线内。" id="913" imgName="1369107971173.jpg" option="正确@@错误" question="这个标志的含义是警告前方出现向左的急转弯路。" type="0"></exam>
+  <exam answer="2" answerDesc="向右急弯路：用以警告车辆驾驶人减速慢行。设置位置为曲线起点的外面，但不应进入相邻的圆曲线内。" id="914" imgName="1369107971300.jpg" option="正确@@错误" question="这个标志的含义是警告前方道路有障碍物，车辆减速绕行。" type="0"></exam>
+  <exam answer="2" answerDesc="交叉路口：用以警告车辆驾驶人谨慎慢行，注意横向来车。设在平面交叉路口驶入路段的适当位置。" id="915" imgName="1369107971429.jpg" option="正确@@错误" question="这个标志的含义是前方即将行驶至Y型交叉路口？" type="0"></exam>
+  <exam answer="1" answerDesc="交叉路口：用以警告车辆驾驶人谨慎慢行，注意横向来车。设在平面交叉路口驶入路段的适当位置。" id="916" imgName="1369107971567.jpg" option="正确@@错误" question="这个标志的作用是用以警告车辆驾驶人谨慎慢行，注意横向来车。" type="0"></exam>
+  <exam answer="1" answerDesc="前方这么多状况，要谨慎驾驶。" id="917" imgName="1369107971691.jpg" option="正确@@错误" question="这种标志的作用是警告车辆驾驶人前方有危险，谨慎通行。" type="0"></exam>
+  <exam answer="4" answerDesc="连续下坡：用以提醒车辆驾驶人小心驾驶。当连续下坡总长大于3 km后，应重复设置。" id="918" imgName="1369107972192.jpg" option="提醒车辆驾驶人前方有两个及以上的连续上坡路段@@提醒车辆驾驶人前方有向上的陡坡路段@@提醒车辆驾驶人前方有向下的陡坡路段@@提醒车辆驾驶人前方有两个及以上的连续下坡路段" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="下陡坡：用以提醒车辆驾驶人小心驾驶。" id="919" imgName="1369107972325.jpg" option="提醒车辆驾驶人前方道路沿水库、湖泊、河流@@提醒车辆驾驶人前方有向上的陡坡路段@@提醒车辆驾驶人前方有向下的陡坡路段@@提醒车辆驾驶人前方有两个及以上的连续上坡路段" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="2" answerDesc="上陡坡：用以提醒车辆驾驶人小心驾驶。" id="920" imgName="1369107972456.jpg" option="提醒车辆驾驶人前方道路沿水库、湖泊、河流@@提醒车辆驾驶人前方有向上的陡坡路段@@.提醒车辆驾驶人前方有两个及以上的连续上坡路段@@提醒车辆驾驶人前方有向下的陡坡路段" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="导向箭头：提示前方道路有左弯或需向左合流。" id="921" imgName="1369107972590.jpg" option="提示前方有左弯或需向左合流@@提示前方有右弯或需向右合流@@提示前方右侧有障碍需向左合流@@提示前方有左弯或或许向左绕行" question="这个导向箭头是何含义？" type="1"></exam>
+  <exam answer="1" answerDesc="旅游区方向：设在通往旅游区各连接道路的交叉口处。" id="922" imgName="1369107972716.jpg" option="旅游区标志@@作业区标志@@告示标志@@高速公路标志" question="这属于哪一种标志？" type="1"></exam>
+  <exam answer="4" answerDesc="4M高度，因为超过所以只能绕行。" id="923" imgName="1369107972889.jpg" option="禁止左转@@此路不通@@禁止通行@@超高绕行" question="这个标志是何含义？" type="1"></exam>
+  <exam answer="3" answerDesc="指示标志是交通标志中主要标志的一种，，用以指示车辆和行人按规定方向、地点行驶。 指示标志的颜色为蓝底、白图案；形状分为圆形、长方形和正方形。" id="924" imgName="1369107973063.jpg" option="警告标志@@禁令标志@@指示标志@@指路标志" question="这属于哪一种标志？" type="1"></exam>
+  <exam answer="2" answerDesc="禁令标志是交通标志中主要标志的一种，对车辆加以禁止或限制的标志，如禁止通行、禁止停车、禁止左转弯、禁止鸣喇叭、限制速度、限制重量等。 禁令标志的颜色，除个别标志外，为白底，红圈，红杠，黑图案。图案压杠。" id="925" imgName="1369107973220.jpg" option="警告标志@@禁令标志@@指示标志@@指路标志" question="这属于哪一种标志？" type="1"></exam>
+  <exam answer="3" answerDesc="左侧变窄：用以警告车辆驾驶人注意前方车行道或路面狭窄情况，遇有来车应予减速避让。设在双车道路面宽度缩减为6 m以下的路段起点前方。" id="926" imgName="1369107973385.jpg" option="两侧变窄@@右侧变窄@@左侧变窄@@桥面变窄" question="这是什么交通标志？" type="1"></exam>
+  <exam answer="2" answerDesc="右侧变窄：用以警告车辆驾驶人注意前方车行道或路面狭窄情况，遇有来车应予减速避让。设在双车道路面宽度缩减为6 m以下的路段起点前方。" id="927" imgName="1369107973535.jpg" option="两侧变窄@@右侧变窄@@左侧变窄@@桥面变窄" question="这是什么交通标志？" type="1"></exam>
+  <exam answer="1" answerDesc="两侧变窄：用以警告车辆驾驶人注意前方车行道或路面狭窄情况，遇有来车应予减速避让。设在双车道路面宽度缩减为6 m以下的路段起点前方。" id="928" imgName="1369107973686.jpg" option="两侧变窄@@右侧变窄@@左侧变窄@@桥面变窄" question="这是什么交通标志？" type="1"></exam>
+  <exam answer="4" answerDesc="连续弯路：用以警告车辆驾驶人减速慢行。设置位置为连续弯路起点的外面，当连续弯路总长度大于500m时，应重复设置。" id="929" imgName="1369107973840.jpg" option="易滑路段@@急转弯路@@反向弯路@@连续弯路" question="这是什么交通标志？" type="1"></exam>
+  <exam answer="3" answerDesc="反向弯路：用以警告车辆驾驶人减速慢行。设置位置为两反向圆曲线起点的外面，但不应进入相邻的圆曲线内。" id="930" imgName="1369107974001.jpg" option="易滑路段@@急转弯路@@反向弯路@@连续弯路" question="这是什么交通标志？" type="1"></exam>
+  <exam answer="1" answerDesc="交叉路口：用以警告车辆驾驶人谨慎慢行，注意横向来车。设在平面交叉路口驶入路段的适当位置。" id="931" imgName="1369107974156.jpg" option="警告标志@@指路标志@@指示标志@@禁令标志" question="这属于哪一种标志？" type="1"></exam>
+  <exam answer="3" answerDesc="路口黄灯持续闪烁，警示驾驶人要注意瞭望，确认安全通过。" id="932" imgName="1369107974310.jpg" option="尽快加速通过@@靠边停车等待@@注意瞭望安全通过@@紧急制动" question="驾驶机动车遇到这种信号灯不断闪烁时怎样行驶？" type="1"></exam>
+  <exam answer="1" answerDesc="现在都是违法行为，没有违章，违规行为一说。" id="933" imgName="" option="正确@@错误" question="驾驶机动车在人行横道上临时停车属于违法行为。" type="0"></exam>
+  <exam answer="2" answerDesc="现在都是违法行为，没有违章，违规行为一说。" id="934" imgName="" option="违章行为@@违法行为@@过失行为@@违规行为" question="驾驶机动车跨越双实线行驶属于什么行为？" type="1"></exam>
+  <exam answer="1" answerDesc="这个没有疑问的吧。" id="935" imgName="" option="正确@@错误" question="申请人在考试过程中有贿赂、舞弊行为的，取消考试资格，已经通过考试的其他科目成绩无效。" type="0"></exam>
+  <exam answer="4" answerDesc="" id="936" imgName="" option="6个月@@1年@@2年@@3年" question="申请人以欺骗、贿赂等不正当手段取得机动车驾驶证的（被撤销的），申请人在多长时间内不得再次申领机动车驾驶证。" type="1"></exam>
+  <exam answer="2" answerDesc="准予机动车临时上道路行驶的纸质机动车号牌，也称临时行驶车号牌。" id="937" imgName="" option="合法来源凭证@@临时行驶车号牌@@借用的机动车号牌@@法人单位证明" question="机动车购买后尚未注册登记，需要临时上道路行驶的，可以凭什么临时上道路行驶？" type="1"></exam>
+  <exam answer="2" answerDesc="应当向登记地车辆管理所申请补领、换领。" id="938" imgName="" option="正确@@错误" question="机动车登记证书、号牌、行驶证灭失、丢失或者损毁的，机动车所有人应当向居住地车辆管理所申请补领、换领。" type="0"></exam>
+  <exam answer="3" answerDesc="应当向登记地车辆管理所申请补领、换领。" id="939" imgName="" option="住地交警支队车辆管理所@@驾驶证核发地车辆管理所@@登记地车辆管理所@@当地公安局" question="机动车登记证书、号牌、行驶证灭失、丢失或者损毁的，机动车所有人应当向哪个部门申请补领、换领。" type="1"></exam>
+  <exam answer="1" answerDesc="被查获有吸食、注射毒品后驾驶机动车行为，正在执行社区戒毒、强制隔离戒毒、社区康复措施，或者长期服用依赖性精神药品成瘾尚未戒除的，车辆管理所应当注销其机动车驾驶证。三年内有吸食、注射毒品行为，或者解除强制隔离戒毒措施未满三年，或者长期服用依赖性精神药品成瘾尚未戒除的，不得申请机动车驾驶证。" id="940" imgName="" option="正确@@错误" question="正在执行社区戒毒、强制隔离戒毒、社区康复措施，车辆管理所将注销其驾驶证。" type="0"></exam>
+  <exam answer="2" answerDesc="被查获有吸食、注射毒品后驾驶机动车行为，正在执行社区戒毒、强制隔离戒毒、社区康复措施，或者长期服用依赖性精神药品成瘾尚未戒除的，车辆管理所应当注销其机动车驾驶证。三年内有吸食、注射毒品行为，或者解除强制隔离戒毒措施未满三年，或者长期服用依赖性精神药品成瘾尚未戒除的，不得申请机动车驾驶证。" id="941" imgName="" option="正确@@错误" question="有吸食、注射毒品后驾驶驾车行为的机动车驾驶人，不会被注销驾驶证。" type="0"></exam>
+  <exam answer="1" answerDesc="没有问题，施主牢记吧。" id="942" imgName="" option="正确@@错误" question="机动车驾驶证遗失、损毁无法辨认时，机动车驾驶人应当向机动车驾驶证核发地车辆管理所申请补发。" type="0"></exam>
+  <exam answer="1" answerDesc="2013年新交规第三十六条  申请人因故不能按照预约时间参加考试的，应当提前一日申请取消预约。对申请人未按照预约考试时间参加考试的，判定该次考试不合格。" id="943" imgName="" option="正确@@错误" question="申请人因故不能按照预约时间参加考试的，应当提前一日申请取消预约，对申请人未按照预约考试时间参加考试的，判定该次考试不合格。" type="0"></exam>
+  <exam answer="3" answerDesc="学员报名驾考后，就会获得“准考证”。但是，这张“准考证”的有效期，要从该学员通过科目一考试之日算起。学员通过科目一考试后，三年内都属于准考证明有效期内。如果超过三年，那么公安部门会将该学员学籍取消，学员必须重新报名开始培训。" id="944" imgName="" option="1年@@2年@@3年@@4年" question="驾驶技能准考证明的有效期是多久？" type="1"></exam>
+  <exam answer="3" answerDesc="123号令第三十七条：在驾驶技能准考证明有效期内，科目二和科目三道路驾驶技能考试预约考试的次数不得超过五次。第五次预约考试仍不合格的，已考试合格的其他科目成绩作废。" id="945" imgName="" option="3次@@4次@@5次@@6次" question="在驾驶技能准考证明的有效期内，科目二和科目三道路驾驶技能考试预约次数不得超过多少次？" type="1"></exam>
+  <exam answer="2" answerDesc="应该都为90分。123号令第三十条  各科目考试的合格标准为：（一）科目一考试满分为100分，成绩达到90分的为合格；（三）科目三道路驾驶技能和安全文明驾驶常识考试满分分别为100分，成绩分别达到90分的为合格。" id="946" imgName="" option="正确@@错误" question="科目三道路驾驶技能和安全文明驾驶常识考试满分分别为100分，成绩分别达到80和90分的为合格。" type="0"></exam>
+  <exam answer="1" answerDesc="123号令第二十二条  机动车驾驶人考试内容分为道路交通安全法律、法规和相关知识考试科目（以下简称“科目一”）、场地驾驶技能考试科目（以下简称“科目二”）、道路驾驶技能和安全文明驾驶常识考试科目（以下简称“科目三”）。" id="947" imgName="" option="正确@@错误" question="科目三考试分为道路驾驶技能考试和安全文明驾驶常识考试两部分。" type="0"></exam>
+  <exam answer="1" answerDesc="123号令第二十五条  科目二考试内容包括：小型汽车、小型自动挡汽车、残疾人专用小型自动挡载客汽车和低速载货汽车考试倒车入库、坡道定点停车和起步、侧方停车、曲线行驶、直角转弯；" id="948" imgName="" option="正确@@错误" question="小型汽车科目二考试内容包括倒车入库、坡道定点停车和起步、侧方停车、曲线行驶、直角转弯。" type="0"></exam>
+  <exam answer="1" answerDesc="申请城市公交车、大型货车、无轨电车或者有轨电车准驾车型的，在20周岁以上，50周岁以下；" id="949" imgName="" option="大型货车.@@大型客车@@中型客车@@牵引车" question="年满20周岁，可以初次申请下列哪种准驾车型？" type="1"></exam>
+  <exam answer="3" answerDesc="123号令第十三条  初次申领机动车驾驶证的，可以申请准驾车型为城市公交车、大型货车、小型汽车、小型自动挡汽车、低速载货汽车、三轮汽车、残疾人专用小型自动挡载客汽车、普通三轮摩托车、普通二轮摩托车、轻便摩托车、轮式自行机械车、无轨电车、有轨电车的机动车驾驶证。" id="950" imgName="" option="中型客车@@大型客车@@普通三轮摩托车@@牵引车" question="初次申领机动车驾驶证的，可以申请下列哪种准驾车型？" type="1"></exam>
+  <exam answer="2" answerDesc="123号令第十条  机动车驾驶证有效期分为六年、十年和长期。没有四年一说。" id="951" imgName="" option="正确@@错误" question="初次申领的机动车驾驶证的有效期为4年。" type="0"></exam>
+  <exam answer="1" answerDesc="123号令第四十七条  机动车驾驶人在机动车驾驶证的六年有效期内，每个记分周期均未记满12分的，换发十年有效期的机动车驾驶证；在机动车驾驶证的十年有效期内，每个记分周期均未记满12分的，换发长期有效的机动车驾驶证。" id="952" imgName="" option="正确@@错误" question="初次申领的机动车驾驶证的有效期为6年。" type="0"></exam>
+  <exam answer="2" answerDesc="小型自动挡汽车（C2）准驾车型：小型、微型自动挡载客汽车以及轻型、微型自动挡载货汽车" id="953" imgName="" option="正确@@错误" question="准驾车型为小型自动挡汽车的，可以驾驶低速载货汽车。" type="0"></exam>
+  <exam answer="1" answerDesc="小型汽车（C1）准驾车型：小型、微型载客汽车以及轻型、微型载货汽车；轻型、微型专项作业车，小型、微型自动挡载客汽车以及轻型、微型自动挡载货汽车，低速载货汽车，三轮汽车。" id="954" imgName="" option="正确@@错误" question="准驾车型为小型汽车的，可以驾驶小型自动挡载客汽车。" type="0"></exam>
+  <exam answer="2" answerDesc="123号令第十条：机动车驾驶证有效期分为六年、十年和长期。" id="955" imgName="" option="正确@@错误" question="机动车驾驶证有效期分为6年、10年、20年。" type="0"></exam>
+  <exam answer="1" answerDesc="123号令第四十七条  机动车驾驶人在机动车驾驶证的六年有效期内，每个记分周期均未记满12分的，换发十年有效期的机动车驾驶证；在机动车驾驶证的十年有效期内，每个记分周期均未记满12分的，换发长期有效的机动车驾驶证。" id="956" imgName="" option="正确@@错误" question="驾驶人在机动车驾驶证的6年有效期内，每个记分周期均未达到12分的，换发10年有效期的机动车驾驶证。" type="0"></exam>
+  <exam answer="4" answerDesc="小型自动挡汽车（C2）准驾车型：小型、微型自动挡载客汽车以及轻型、微型自动挡载货汽车" id="957" imgName="" option="低速载货汽车@@小型汽车@@二轮摩托车@@轻型自动挡载货汽车" question="准驾车型为小型自动挡汽车的，可以驾驶以下哪种车型？" type="1"></exam>
+  <exam answer="1" answerDesc="小型汽车（C1）准驾车型：小型、微型载客汽车以及轻型、微型载货汽车；轻型、微型专项作业车，小型、微型自动挡载客汽车以及轻型、微型自动挡载货汽车，低速载货汽车，三轮汽车。" id="958" imgName="" option="低速载货汽车@@中型客车@@三轮摩托车@@轮式自行机械" question="准驾车型为小型汽车的，可以驾驶下列哪种车辆？" type="1"></exam>
+  <exam answer="3" answerDesc="第十条  机动车驾驶证有效期分为六年、十年和长期。" id="959" imgName="" option="3年@@5年@@6年@@12年" question="初次申领的机动车驾驶证的有效期为多少年？" type="1"></exam>
+  <exam answer="2" answerDesc="肯定是门没关好。" id="960" imgName="" option="车窗没关闭@@车门没关闭@@音响没关闭@@顶窗没关闭" question="在什么情况下不得行车？" type="1"></exam>
+  <exam answer="1" answerDesc="右侧有减速让行的标志，故正确。" id="961" imgName="1369107975714.jpg" option="正确@@错误" question="在路口遇这种情形要减速让行。" type="0"></exam>
+  <exam answer="3" answerDesc="和谐第一。" id="962" imgName="1369107975990.jpg" option="交替变换远近光灯提醒路口内车辆让行@@从路口内车辆前迅速插入@@让已在路口内的车辆先行@@鸣喇叭直接进入路口" question="进入这个路口应该怎样做？" type="1"></exam>
+  <exam answer="4" answerDesc="右侧为无人看守的铁路标志，既然是无人看守，您就得悠着点，减速或停车观察一下吧。" id="963" imgName="1369107976336.jpg" option="不减速通过@@加速尽快通过@@空挡滑行通过@@减速或停车观察" question="怎样通过这样的路口？" type="1"></exam>
+  <exam answer="2" answerDesc="夜间会车应当在距相对方向来车150米以外改用近光灯，在窄路、窄桥与非机动车会车时应当使用近光灯。" id="964" imgName="" option="不必变换灯光@@150米以外@@100米以内@@50米以内" question="夜间在道路上会车时，距离对向来车多远将远光灯改用近光灯？" type="1"></exam>
+  <exam answer="2" answerDesc="前方为人行横道并且有人通过路口，要小心驾驶，不可以加速通过人行横道。" id="965" imgName="1369107976678.jpg" option="正确@@错误" question="在这种情况下可以加速通过人行横道。" type="0"></exam>
+  <exam answer="2" answerDesc="亲，人命关天，您就别超了。" id="966" imgName="" option="大型客货车@@执行任务的消防车@@公共汽车@@出租汽车" question="同车道行驶的车辆前方遇到下列哪种车辆不得超车？" type="1"></exam>
+  <exam answer="3" answerDesc="亲，人命关天，您就别超了。" id="967" imgName="" option="大型客货车@@出租汽车@@执行任务的救护车@@公共汽车" question="同车道行驶的车辆前方遇到下列哪种车辆不得超车？" type="1"></exam>
+  <exam answer="1" answerDesc="如果是真的执行任务的警车（此处不好判断），一定要让行。" id="968" imgName="" option="执行任务的警车@@大型客货车@@出租汽车@@城市公交车" question="同车道行驶的车辆前方遇到下列哪种车辆不得超车？" type="1"></exam>
+  <exam answer="1" answerDesc="安全第一，毫无疑问。" id="969" imgName="" option="正确@@错误" question="驾驶机动车遇到沙尘、冰雹、雨、雾、结冰等气象条件时应降低行驶速度。" type="0"></exam>
+  <exam answer="3" answerDesc="开远光会影响前车驾驶员的视线，故不能使用远光灯。" id="970" imgName="1369107977137.jpg" option="使用远光灯@@不能使用近光灯@@不能使用远光灯@@使用雾灯" question="在这种雨天跟车行驶使用灯光，以下做法正确的是？" type="1"></exam>
+  <exam answer="1" answerDesc="一般雪天能见度低，应该注意灯光的正确使用。一是开启近光灯，帮助驾驶员瞭望前方情况，使驾驶员对前方情况看得清楚一些。二是开启示廓灯和前后位灯，示意自己车辆的存在，使前后行驶的车辆，能够看到自己的具体位置及通行情况，方便他们采取相应的措施。" id="971" imgName="1369107977464.jpg" option="使用近光灯@@不使用灯光@@使用远光灯@@使用雾灯" question="在这种天气条件下行车如何使用灯光？" type="1"></exam>
+  <exam answer="2" answerDesc="光盘遮挡号牌，新规直接扣除12分。" id="972" imgName="1369107977770.jpg" option="正确@@错误" question="驾驶这种机动车上路行驶没有违法行为。" type="0"></exam>
+</root>
