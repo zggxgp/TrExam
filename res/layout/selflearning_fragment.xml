@@ -4,6 +4,18 @@
     android:layout_height="match_parent"
     android:orientation="vertical" >
     
+    
+    <ScrollView 
+        android:id="@+id/scrollview_selflearning"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        >
+        
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        >
     <!-- 显示题目 -->
     <TextView 
         android:id="@+id/tv_question_area_selflearning"
@@ -21,8 +33,10 @@
     <!-- 显示题目插图 -->
     <ImageView
         android:id="@+id/iv_question_area_selflearning"
+        android:layout_marginTop="10dp"
         android:layout_height="wrap_content"
         android:layout_width="wrap_content"
+        android:visibility="gone"
         android:layout_gravity="center"
         android:src="@drawable/test"
         ></ImageView>
@@ -33,7 +47,7 @@
         android:id="@+id/option_selflearning"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:layout_margin="10dp"
+        android:layout_margin="15dp"
         >
         
         <RadioButton 
@@ -68,7 +82,7 @@
             android:text="测试按钮2"
             android:padding="5dp"
             android:textSize="25sp"
-            android:visibility="invisible"
+            android:visibility="gone"
             android:button="@null" 	
             android:background="@drawable/btn_radio"
             />
@@ -81,7 +95,7 @@
             android:text="测试按钮3"
             android:padding="5dp"
             android:textSize="25sp"
-            android:visibility="invisible"
+            android:visibility="gone"
             android:button="@null" 	
             android:background="@drawable/btn_radio"
             />
@@ -97,7 +111,10 @@
         android:background="@color/green"
         android:visibility="invisible"
         android:gravity="center"
-        android:textSize="25sp"
+        android:textColor="@color/white"
+        android:textSize="20sp"
         />
-
+    </LinearLayout>
+	</ScrollView>
+	
 </LinearLayout>

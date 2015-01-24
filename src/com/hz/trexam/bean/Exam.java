@@ -1,6 +1,8 @@
 package com.hz.trexam.bean;
 
-public class Exam {
+import java.io.Serializable;
+
+public class Exam implements Serializable{
 	String answer;
 	String answerDesc;
 	String id;

@@ -2,6 +2,7 @@ package com.hz.trexam;
 
 import java.util.List;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
@@ -9,7 +10,10 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v4.view.ViewPager.OnPageChangeListener;
+import android.view.View;
+import android.view.View.OnClickListener;
 import android.view.ViewGroup;
+import android.widget.ImageButton;
 
 import com.hz.trexam.bean.Exam;
 import com.hz.trexam.util.ExamService;
@@ -22,6 +26,8 @@ import com.hz.trexam.util.ExamService;
 public class SelfLearningActivity extends FragmentActivity{
 	private int Num=10;//题目的数目
 	private List<Exam> examInfo;//存放从XML中解析出来的题目数据
+	
+	private ImageButton backBtn;
 	
 	private ViewPager mPager;
 	private MyAdapter mAdapter;
@@ -73,6 +79,18 @@ public class SelfLearningActivity extends FragmentActivity{
 		});
 	
 		
+		
+		//返回主界面按钮
+		backBtn = (ImageButton)findViewById(R.id.backtomain_selflearning);
+		backBtn.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				Intent intentToMain = new Intent(SelfLearningActivity.this, MainActivity.class);
+				startActivity(intentToMain);
+				
+			}
+		});
 		
 	}
 	 

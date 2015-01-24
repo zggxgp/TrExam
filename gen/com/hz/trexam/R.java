@@ -1099,10 +1099,15 @@ containing a value of this type.
         public static final int heart=0x7f02005f;
         public static final int ic_launcher=0x7f020060;
         public static final int ic_list=0x7f020061;
-        public static final int ic_menu_share=0x7f020062;
-        public static final int question_area=0x7f020063;
-        public static final int selflearning=0x7f020064;
-        public static final int test=0x7f020065;
+        public static final int ic_menu_back=0x7f020062;
+        public static final int ic_menu_delete=0x7f020063;
+        public static final int ic_menu_goto=0x7f020064;
+        public static final int ic_menu_info_details=0x7f020065;
+        public static final int ic_menu_share=0x7f020066;
+        public static final int ic_menu_star=0x7f020067;
+        public static final int question_area=0x7f020068;
+        public static final int selflearning=0x7f020069;
+        public static final int test=0x7f02006a;
     }
     public static final class id {
         public static final int action_bar=0x7f05001c;
@@ -1118,6 +1123,7 @@ containing a value of this type.
         public static final int action_mode_close_button=0x7f050024;
         public static final int activity_chooser_view_content=0x7f050025;
         public static final int always=0x7f05000b;
+        public static final int backtomain_selflearning=0x7f05004e;
         public static final int beginning=0x7f050011;
         public static final int checkbox=0x7f05002d;
         public static final int collapseActionView=0x7f05000d;
@@ -1138,7 +1144,7 @@ containing a value of this type.
         public static final int item_icon=0x7f050041;
         public static final int item_parent=0x7f050040;
         public static final int item_title=0x7f050042;
-        public static final int iv_question_area_selflearning=0x7f050045;
+        public static final int iv_question_area_selflearning=0x7f050046;
         public static final int listMode=0x7f050001;
         public static final int list_item=0x7f050029;
         public static final int main_list=0x7f05003f;
@@ -1146,16 +1152,17 @@ containing a value of this type.
         public static final int never=0x7f050009;
         public static final int none=0x7f050010;
         public static final int normal=0x7f050000;
-        public static final int option_0=0x7f050047;
-        public static final int option_1=0x7f050048;
-        public static final int option_2=0x7f050049;
-        public static final int option_3=0x7f05004a;
-        public static final int option_selflearning=0x7f050046;
-        public static final int pager_selflearning=0x7f05004e;
+        public static final int option_0=0x7f050048;
+        public static final int option_1=0x7f050049;
+        public static final int option_2=0x7f05004a;
+        public static final int option_3=0x7f05004b;
+        public static final int option_selflearning=0x7f050047;
+        public static final int pager_selflearning=0x7f050050;
         public static final int progress_circular=0x7f050018;
         public static final int progress_horizontal=0x7f050019;
         public static final int radio=0x7f05002f;
-        public static final int result_selflearning=0x7f05004b;
+        public static final int result_selflearning=0x7f05004c;
+        public static final int scrollview_selflearning=0x7f050044;
         public static final int search_badge=0x7f050032;
         public static final int search_bar=0x7f050031;
         public static final int search_button=0x7f050033;
@@ -1178,9 +1185,9 @@ containing a value of this type.
         public static final int top_bar=0x7f05003c;
         public static final int top_bar_text=0x7f05003d;
         public static final int top_share_btn=0x7f05003e;
-        public static final int topbar_selflearning=0x7f05004c;
-        public static final int topbar_text_selflearning=0x7f05004d;
-        public static final int tv_question_area_selflearning=0x7f050044;
+        public static final int topbar_selflearning=0x7f05004d;
+        public static final int topbar_text_selflearning=0x7f05004f;
+        public static final int tv_question_area_selflearning=0x7f050045;
         public static final int up=0x7f050021;
         public static final int useLogo=0x7f050003;
         public static final int withText=0x7f05000c;
