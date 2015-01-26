@@ -1,6 +1,7 @@
 package com.hz.trexam.util;
 
 import java.io.InputStream;
+
 import java.util.ArrayList;
 import java.util.List;
 
@@ -9,7 +10,12 @@ import org.xmlpull.v1.XmlPullParser;
 import android.util.Xml;
 
 import com.hz.trexam.bean.Exam;
-
+/**
+ * 
+ * @author hz
+ * 解析xml，获得题目数据
+ *
+ */
 public class ExamService {
 	
 	public static List<Exam> getExamList(InputStream is) throws Exception{

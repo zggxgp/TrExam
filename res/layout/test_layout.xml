@@ -1,25 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    android:orientation="vertical" >
-    
+    android:background="@color/mainbackground" >
+
     <!-- 测试模块布局 -->
-	<RelativeLayout 
-	    android:id="@+id/top_bar_test"
-	    android:layout_width="fill_parent"
-	    android:layout_height="@dimen/topbar_height"
-	    android:background="@color/light_blue"
-	    >
-	    
-	    <ImageButton 
+
+    <RelativeLayout
+        android:id="@+id/top_bar_test"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/topbar_height"
+        android:background="@color/light_blue" >
+
+        <ImageButton
             android:id="@+id/backtomain_test"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@color/transparent"
-            android:src="@drawable/ic_menu_back"
-            />
-        
+            android:src="@drawable/ic_menu_back" />
+
         <TextView
             android:id="@+id/topbar_text_test"
             android:layout_width="wrap_content"
@@ -30,5 +29,60 @@
             android:text="@string/test_title"
             android:textColor="@color/white"
             android:textSize="20sp" />
-	</RelativeLayout>
-</LinearLayout>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/content_test"
+        android:layout_marginTop="45dp"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical" >
+    </LinearLayout>
+
+    <RelativeLayout
+        android:id="@+id/bottom_bar_test"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/topbar_height"
+        android:layout_alignParentBottom="true"
+        android:background="@color/light_blue" >
+
+        <Button
+            android:id="@+id/pre_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_change"
+            android:layout_margin="5dp"
+            android:text="上一题" />
+        
+        
+        <Button
+            android:id="@+id/next_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_change"
+            android:layout_margin="5dp"
+            android:layout_alignParentRight="true"
+            android:text="下一题" />
+        
+        
+        <Button
+            android:id="@+id/commit_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_change"
+            android:layout_margin="5dp"
+            android:layout_toRightOf="@id/pre_btn"
+            android:text="提交" />
+        
+         <Button
+         	android:id="@+id/time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_change"
+            android:layout_margin="5dp"
+            android:layout_toRightOf="@id/commit_btn"
+            
+         	    />
+    </RelativeLayout>
+
+</RelativeLayout>

@@ -43,6 +43,11 @@ public class MainActivity extends Activity {
 				Intent intent = new Intent(MainActivity.this, SelfLearningActivity.class);
 				startActivity(intent);
 			}
+			
+			if(position==1){
+				Intent intent = new Intent(MainActivity.this, TestAcivity.class);
+				startActivity(intent);
+			}
 				
 			}
 			
