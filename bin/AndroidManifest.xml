@@ -33,6 +33,14 @@
         <activity 
             android:name="com.hz.trexam.TestAcivity"
             ></activity>
+        
+        <activity 
+            android:name="com.hz.trexam.ErrorActivity"
+            ></activity>
+        
+        <activity 
+            android:name="com.hz.trexam.FavoriteActivity"
+            ></activity>
     </application>
 
 </manifest>

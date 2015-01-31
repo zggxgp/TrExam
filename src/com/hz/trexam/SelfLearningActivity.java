@@ -2,8 +2,10 @@ package com.hz.trexam;
 
 import java.util.List;
 
+import android.content.ContentValues;
 import android.content.Intent;
 import android.os.Bundle;
+import android.renderscript.Script.FieldID;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
@@ -14,8 +16,11 @@ import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.ViewGroup;
 import android.widget.ImageButton;
+import android.widget.TextView;
+import android.widget.Toast;
 
 import com.hz.trexam.bean.Exam;
+import com.hz.trexam.db.ExamDBManger;
 import com.hz.trexam.util.ExamService;
 
 /**
@@ -24,19 +29,27 @@ import com.hz.trexam.util.ExamService;
  * 自学模式的activity
  */
 public class SelfLearningActivity extends FragmentActivity{
-	private int Num=10;//题目的数目
+	private int Num=2;//题目的数目
+	private int nowQuestion=0;
 	private List<Exam> examInfo;//存放从XML中解析出来的题目数据
 	
 	private ImageButton backBtn;
+	private ImageButton favoriteBtn;
 	
 	private ViewPager mPager;
 	private MyAdapter mAdapter;
+	private TextView  examNumView;
+	
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.selflearning_layout);
+		
+		//底部显示当前题目和总题目
+		examNumView = (TextView)findViewById(R.id.bottom_bar_text_selflearning);
+		examNumView.setText("1/973");
 		
 		//解析题目数据XML
 		try {
@@ -46,7 +59,21 @@ public class SelfLearningActivity extends FragmentActivity{
 			e.printStackTrace();
 		}
 		
-		
+		//设置收藏按钮
+		favoriteBtn = (ImageButton)findViewById(R.id.topbar_favorite_selflearning);
+		favoriteBtn.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				ExamDBManger examDBManger = new ExamDBManger(SelfLearningActivity.this);
+				examDBManger.getWriteDataBaseConn();
+				ContentValues values = new ContentValues();
+				values.put("ordernum", nowQuestion);
+				examDBManger.insert("favorite", null, values);
+				
+				Toast.makeText(SelfLearningActivity.this, "添加到收藏", Toast.LENGTH_SHORT).show();
+			}
+		});
 		
 		//viewpager设置adapter
 		mAdapter = new MyAdapter(getSupportFragmentManager());
@@ -57,6 +84,9 @@ public class SelfLearningActivity extends FragmentActivity{
 			
 			@Override
 			public void onPageSelected(int position) {
+				int templc = position+1;
+				nowQuestion = position;
+				examNumView.setText(""+templc+"/973");
 				int temp = Num-position;
 				if(temp<=2){
 					Num++;

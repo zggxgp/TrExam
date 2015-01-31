@@ -6,6 +6,8 @@ public class TrExamApplication extends Application{
 	
 	private int correctNum = 0;
 	
+	
+	
 	@Override
 	public void onCreate() {
 		setCorrectNum(0);

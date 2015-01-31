@@ -2,7 +2,7 @@
 <selector xmlns:android="http://schemas.android.com/apk/res/android" >
     <item android:state_focused="true">
         <shape>
-            <solid android:color="@color/dark_blue"/>
+            <solid android:color="@color/deep_blue"/>
             
              <corners
         		android:bottomLeftRadius="10dp"
@@ -14,7 +14,7 @@
     
     <item android:state_pressed="true">
         <shape>
-            <solid android:color="@color/dark_blue"/>
+            <solid android:color="@color/deep_blue"/>
             
             <corners
         		android:bottomLeftRadius="10dp"

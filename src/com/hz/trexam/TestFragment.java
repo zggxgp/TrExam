@@ -28,7 +28,7 @@ public class TestFragment extends Fragment{
 	private List<Exam> examInfo;//题目信息list;
 	private InputStream is;//题目对应图片输入流
 	private View rootView = null;
-	TrExamApplication trApp;
+	private TrExamApplication trApp;
 	
 	public TestFragment() {
 		super();

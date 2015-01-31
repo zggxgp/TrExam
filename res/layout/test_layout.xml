@@ -74,6 +74,7 @@
             android:layout_toRightOf="@id/pre_btn"
             android:text="提交" />
         
+        
          <Button
          	android:id="@+id/time"
             android:layout_width="wrap_content"
@@ -81,8 +82,18 @@
             android:background="@drawable/btn_change"
             android:layout_margin="5dp"
             android:layout_toRightOf="@id/commit_btn"
-            
          	    />
+         
+         <Button
+         	android:id="@+id/nowquestion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/btn_change"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="3dp"
+
+            android:layout_toRightOf="@id/time"/>
     </RelativeLayout>
 
 </RelativeLayout>

@@ -41,7 +41,8 @@ public class TestAcivity extends FragmentActivity{
 	private Button nextBtn;
 	private Button timeBtn;
 	private Button cmtBtn;
-	
+	private Button nowQuesition;
+	private TrExamApplication trApp;
 	
 	
 	@Override
@@ -50,6 +51,13 @@ public class TestAcivity extends FragmentActivity{
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.test_layout);
 		init();
+		
+		//初始化答对题目
+		trApp = (TrExamApplication)getApplication();
+		trApp.setCorrectNum(0);
+		
+		//初始化题目数量和当前题目编号
+		nowQuesition.setText("1/100");
 		
 		//设置开始考试对话框
 		alertBuilder = new AlertDialog.Builder(this);
@@ -62,7 +70,7 @@ public class TestAcivity extends FragmentActivity{
 				
 				//设置计时器
 				
-				mc = new MyCount(300000, 1000);
+				mc = new MyCount(3000000, 1000);
 				mc.start();
 			}
 		});
@@ -94,6 +102,8 @@ public class TestAcivity extends FragmentActivity{
 			public void onClick(View v) {
 				if(mNum>0){
 					mNum--;
+					int tempNum = mNum+1;
+					nowQuesition.setText(tempNum+"/100");
 				}
 				
 				
@@ -108,6 +118,8 @@ public class TestAcivity extends FragmentActivity{
 			public void onClick(View v) {
 				if(mNum<fragList.size()){
 					mNum++;
+					int tempNum =  mNum+1;
+					nowQuesition.setText(tempNum+"/100");
 				}
 				fragmentManager = getSupportFragmentManager();
 				fragmentTransaction = fragmentManager.beginTransaction();
@@ -163,7 +175,23 @@ public class TestAcivity extends FragmentActivity{
 
 		@Override
 		public void onFinish() {
+			//时间到后弹出对话框显示成绩
+			resultBuilder = new AlertDialog.Builder(TestAcivity.this);
+			resultBuilder.setTitle("您的成绩");
+			TrExamApplication app = (TrExamApplication)getApplication();
+			int grade = app.getCorrectNum();
+			resultBuilder.setMessage("您的得分为： "+grade);
 			
+			resultBuilder.setNegativeButton("返回主菜单", new DialogInterface.OnClickListener() {
+				
+				@Override
+				public void onClick(DialogInterface dialog, int which) {
+					Intent intent = new Intent(TestAcivity.this, MainActivity.class);
+					startActivity(intent);
+					
+				}
+			});
+			resultBuilder.show();
 			
 		}
 		
@@ -174,6 +202,7 @@ public class TestAcivity extends FragmentActivity{
 		nextBtn = (Button)findViewById(R.id.next_btn);
 		timeBtn = (Button)findViewById(R.id.time);
 		cmtBtn = (Button)findViewById(R.id.commit_btn);
+		nowQuesition = (Button)findViewById(R.id.nowquestion);
 	}
 	
 }

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/mainbackground"
+    android:orientation="vertical" >
+
+    <!--错题模式布局 -->
+
+
+    <!-- 错题模式顶栏 -->
+
+    <RelativeLayout
+        android:id="@+id/topbar_favorite"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/topbar_height"
+        android:background="@color/light_blue" >
+		
+        <ImageButton 
+            android:id="@+id/backtomain_favorite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@color/transparent"
+            android:src="@drawable/ic_menu_back"
+            />
+        
+        <TextView
+            android:id="@+id/topbar_text_favorite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="45dp"
+            android:text="@string/favorite_title"
+            android:textColor="@color/white"
+            android:textSize="20sp" />
+
+       
+    </RelativeLayout>
+	
+     <android.support.v4.view.ViewPager
+            android:id="@+id/pager_favorite"
+            android:layout_marginTop="45dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            >
+        </android.support.v4.view.ViewPager>
+        
+     <RelativeLayout 
+         android:id="@+id/bottom_bar_favorite"
+         android:layout_width="fill_parent"
+         android:layout_height="30dp"
+         android:layout_alignParentBottom="true"
+         android:background="@color/light_blue"
+         android:layout_marginTop="10dp"
+         >
+         
+         <TextView 
+             android:id="@+id/bottom_bar_text_favorite"
+             android:layout_width="wrap_content"
+             android:layout_height="wrap_content"
+             android:layout_centerInParent="true"
+             android:textSize="20sp"
+             android:textColor="@color/white"
+             android:text="1/977"
+             />
+     </RelativeLayout>
+</RelativeLayout>

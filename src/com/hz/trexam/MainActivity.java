@@ -48,6 +48,16 @@ public class MainActivity extends Activity {
 				Intent intent = new Intent(MainActivity.this, TestAcivity.class);
 				startActivity(intent);
 			}
+			
+			if(position==2){
+				Intent intent = new Intent(MainActivity.this, ErrorActivity.class);
+				startActivity(intent);
+			}
+			
+			if(position==3){
+				Intent intent = new Intent(MainActivity.this, FavoriteActivity.class);
+				startActivity(intent);
+			}
 				
 			}
 			

@@ -6,6 +6,7 @@ import java.io.InputStream;
 import java.io.Serializable;
 import java.util.List;
 
+import android.content.ContentValues;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.Color;
@@ -22,6 +23,7 @@ import android.widget.RadioGroup.OnCheckedChangeListener;
 import android.widget.TextView;
 
 import com.hz.trexam.bean.Exam;
+import com.hz.trexam.db.ExamDBManger;
 
 public class SelfLearningFragment extends Fragment{
 	
@@ -145,6 +147,13 @@ public class SelfLearningFragment extends Fragment{
 					resultView.setVisibility(View.VISIBLE);
 					resultView.setBackgroundColor(Color.RED);
 					resultView.setText("很遗憾，您答错了。答案是"+answerStr);
+					
+					//操作数据库，将错题存放到错题表中
+					ExamDBManger examDBManger = new ExamDBManger(getActivity());
+					examDBManger.getWriteDataBaseConn();
+					ContentValues values = new ContentValues();
+					values.put("ordernum", tempNum);
+					examDBManger.insert("error", null, values);
 				}
 			}
 		});
