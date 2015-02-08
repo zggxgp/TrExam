@@ -2,6 +2,7 @@ package com.hz.trexam;
 
 import java.util.List;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
@@ -9,7 +10,9 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v4.view.ViewPager.OnPageChangeListener;
+import android.view.View;
 import android.view.ViewGroup;
+import android.view.View.OnClickListener;
 import android.widget.ImageButton;
 import android.widget.TextView;
 
@@ -31,8 +34,7 @@ public class ErrorActivity extends FragmentActivity {
 	private ViewPager mViewPager;
 	private ErrorAdapter errAdapter;
 	private TextView examNumView;
-	
-	
+
 	@Override
 	protected void onCreate(Bundle arg0) {
 
@@ -45,11 +47,11 @@ public class ErrorActivity extends FragmentActivity {
 		// 根据错题列表list长度来调整Num
 		Num = errExamList.size();
 		totalNum = Num;
-		
-		//初始化总题数和当前题号
-		examNumView = (TextView)findViewById(R.id.bottom_bar_text_error);
-		examNumView.setText(""+1+"/"+Num);
-		
+
+		// 初始化总题数和当前题号
+		examNumView = (TextView) findViewById(R.id.bottom_bar_text_error);
+		examNumView.setText("" + 1 + "/" + Num);
+
 		// viewpager设置adapter
 		errAdapter = new ErrorAdapter(getSupportFragmentManager());
 		mViewPager = (ViewPager) findViewById(R.id.pager_error);
@@ -59,11 +61,11 @@ public class ErrorActivity extends FragmentActivity {
 
 			@Override
 			public void onPageSelected(int position) {
-				int templc = position+1;
-				examNumView.setText(""+templc+"/"+Num);
+				int templc = position + 1;
+				examNumView.setText("" + templc + "/" + Num);
 				int temp = Num - position;
-				
-				if (temp <= 2&&(Num+1)<=totalNum) {
+
+				if (temp <= 2 && (Num + 1) <= totalNum) {
 					Num++;
 					errAdapter.notifyDataSetChanged();
 				}
@@ -79,6 +81,19 @@ public class ErrorActivity extends FragmentActivity {
 			@Override
 			public void onPageScrollStateChanged(int arg0) {
 				// TODO Auto-generated method stub
+
+			}
+		});
+
+		// 设置返回按钮
+		backBtn = (ImageButton) findViewById(R.id.backtomain_error);
+		backBtn.setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				Intent intentToMain = new Intent(ErrorActivity.this,
+						MainActivity.class);
+				startActivity(intentToMain);
 
 			}
 		});

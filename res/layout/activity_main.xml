@@ -25,12 +25,16 @@
             android:layout_centerInParent="true"
             />
         
-        <ImageView 
+        <ImageButton
             android:id="@+id/top_share_btn"
             android:layout_height="wrap_content"
             android:layout_width="wrap_content"
             android:layout_alignParentRight="true"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:scaleType="centerInside"
             android:src="@drawable/ic_menu_share"
+            android:background="@drawable/btn_topbar"
             />
     </RelativeLayout>
     
@@ -44,6 +48,8 @@
         android:layout_marginLeft="12.0dip"
         android:layout_marginRight="12.0dip"
         android:divider="@android:color/transparent"
+        android:listSelector="@color/transparent"
+        android:cacheColorHint="@color/transparent"
         >
         
     </ListView>

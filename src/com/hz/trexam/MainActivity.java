@@ -9,8 +9,10 @@ import android.app.Activity;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
+import android.view.View.OnClickListener;
 import android.widget.AdapterView;
 import android.widget.AdapterView.OnItemClickListener;
+import android.widget.ImageButton;
 import android.widget.ListView;
 
 import com.hz.trexam.custom.CustomSimpleAdaper;
@@ -20,12 +22,27 @@ public class MainActivity extends Activity {
 	private ListView mainList;//主菜单功能列表
 	private List<Map<String,Object>> mainDataList;//填充主菜单listview的数据源
 	private CustomSimpleAdaper mainListSimpleAdapter;
+	private ImageButton shareBtn;
+	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_main);
 		init();
 		
+		//设置分享按钮
+		shareBtn.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				Intent intent=new Intent(Intent.ACTION_SEND); 
+				intent.setType("image/*");    
+				intent.putExtra(Intent.EXTRA_SUBJECT, "Share");    
+	            intent.putExtra(Intent.EXTRA_TEXT, "我的app");
+	            intent.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);    
+                startActivity(Intent.createChooser(intent, getTitle()));   
+			}
+		});
 		
 		//主菜单功能列表Adapter设置
 		mainListSimpleAdapter = new CustomSimpleAdaper(this, getData(), R.layout.main_list_item
@@ -66,6 +83,7 @@ public class MainActivity extends Activity {
 	
 	private void init(){
 		mainList = (ListView)findViewById(R.id.main_list);
+		shareBtn = (ImageButton)findViewById(R.id.top_share_btn);
 	}
 	
 	//生成主菜单listview数据源

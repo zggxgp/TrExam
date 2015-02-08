@@ -7,6 +7,7 @@ import java.util.List;
 
 import android.app.AlertDialog;
 import android.app.Application;
+import android.app.AlertDialog.Builder;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
@@ -16,9 +17,13 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
+import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.widget.Button;
+import android.widget.EditText;
+import android.widget.ImageButton;
+import android.widget.ImageView;
 
 import com.hz.trexam.util.CreateFragmentList;
 
@@ -43,7 +48,10 @@ public class TestAcivity extends FragmentActivity{
 	private Button cmtBtn;
 	private Button nowQuesition;
 	private TrExamApplication trApp;
+	private ImageButton backBtn;
 	
+	private AlertDialog.Builder gotoDialog;
+	private AlertDialog.Builder errorDialog;
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
@@ -129,7 +137,92 @@ public class TestAcivity extends FragmentActivity{
 			}
 		});
 		
+		//设置题号跳转按钮
+		nowQuesition.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				gotoDialog = new AlertDialog.Builder(TestAcivity.this);
+				gotoDialog.setTitle("请输入你想跳转到的题号");
+				final View view = LayoutInflater.from(TestAcivity.this).inflate(R.layout.editdialog, null);
+				gotoDialog.setView(view);//给对话框添加输入栏;
+				final EditText mEditText = (EditText)view.findViewById(R.id.edit_dialog); 
+				
+				
+				
+				gotoDialog.setPositiveButton("确定", new DialogInterface.OnClickListener() {
+					
+					@Override
+					public void onClick(DialogInterface dialog, int which) {
+						
+						try{
+							int num = Integer.valueOf(mEditText.getText().toString());
+							System.out.println("---------------------->"+num);
+							if(num>973||num<1){
+								System.out.println("inside---------------------->"+num);
+								errorDialog = new AlertDialog.Builder(TestAcivity.this);
+								errorDialog.setTitle("错误的输入");
+								errorDialog.setMessage("请输入1~973之间的数字");
+								errorDialog.setNegativeButton("确定", new DialogInterface.OnClickListener() {
+									
+									@Override
+									public void onClick(DialogInterface dialog, int which) {
+										
+										
+									}
+								});
+								
+								errorDialog.show();
+							}else if(num>=1&&num<=973){
+								String numStr = mEditText.getText().toString();
+								int num2 = Integer.valueOf(numStr);
+								fragmentManager = getSupportFragmentManager();
+								fragmentTransaction = fragmentManager.beginTransaction();
+								
+								fragmentTransaction.replace(R.id.content_test, fragList.get(num2));
+								fragmentTransaction.commit();
+								
+								nowQuesition.setText(num2+"/100");
+							}
+						}catch(Exception e){
+							errorDialog = new AlertDialog.Builder(TestAcivity.this);
+							errorDialog.setTitle("错误的输入");
+							errorDialog.setMessage("请输入1~973之间的数字");
+							errorDialog.setNegativeButton("确定", new DialogInterface.OnClickListener() {
+								
+								@Override
+								public void onClick(DialogInterface dialog, int which) {
+									
+									
+								}
+							});
+							errorDialog.show();
+						}
+						
+						
+						
+						
+					}
+				});
+				
+				gotoDialog.show();
+				
+			}
 		
+		});
+			
+		//设置返回按钮
+		backBtn = (ImageButton)findViewById(R.id.backtomain_test);
+		backBtn.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				Intent intentToMain = new Intent(TestAcivity.this, MainActivity.class);
+				startActivity(intentToMain);
+				
+			}
+		});
+
 		
 		//设置提交按钮
 		cmtBtn.setOnClickListener(new OnClickListener() {

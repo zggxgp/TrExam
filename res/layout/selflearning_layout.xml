@@ -20,7 +20,10 @@
             android:id="@+id/backtomain_selflearning"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@color/transparent"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:scaleType="centerInside"
+            android:background="@drawable/btn_topbar"
             android:src="@drawable/ic_menu_back" />
 
         <TextView
@@ -39,11 +42,11 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="5dp"
-            android:layout_marginLeft="60dp"
             android:layout_marginTop="5dp"
-            android:layout_toRightOf="@id/topbar_text_selflearning"
-            android:background="@color/transparent"
             android:scaleType="centerInside"
+            android:layout_marginLeft="60dp"  
+            android:layout_toRightOf="@id/topbar_text_selflearning"
+            android:background="@drawable/btn_topbar"
             android:src="@drawable/ic_menu_info_details" />
 
         <ImageButton
@@ -53,30 +56,25 @@
             android:layout_marginBottom="5dp"
             android:layout_marginTop="5dp"
             android:layout_toRightOf="@id/topbar_info_selflearning"
-            android:background="@color/transparent"
+            android:background="@drawable/btn_topbar"
             android:layout_marginLeft="7dp"
             android:scaleType="centerInside"
             android:src="@drawable/ic_menu_star" />
         
         <ImageButton
-            android:id="@+id/tobar_goto_selflearning"
+            android:id="@+id/topbar_goto_selflearning"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="5dp"
             android:layout_marginTop="5dp"
             android:layout_toRightOf="@id/topbar_favorite_selflearning"
-            android:background="@color/transparent"
+            android:background="@drawable/btn_topbar"
             android:layout_marginLeft="7dp"
             android:scaleType="centerInside"
             android:src="@drawable/ic_menu_goto" />
     </RelativeLayout>
-
-    <android.support.v4.view.ViewPager
-        android:id="@+id/pager_selflearning"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_marginTop="45dp" >
-    </android.support.v4.view.ViewPager>
+	
+	 
 
     <RelativeLayout
         android:id="@+id/bottom_bar_selflearning"
@@ -95,5 +93,15 @@
             android:textColor="@color/white"
             android:textSize="20sp" />
     </RelativeLayout>
-
+	
+    <!-- 题目区域 -->
+	    <android.support.v4.view.ViewPager
+	        android:id="@+id/pager_selflearning"
+	        android:layout_width="match_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginBottom="5dp"
+	        android:layout_above="@id/bottom_bar_selflearning"
+	        android:layout_marginTop="45dp" >
+	    </android.support.v4.view.ViewPager>   
+    
 </RelativeLayout>

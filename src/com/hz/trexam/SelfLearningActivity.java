@@ -2,7 +2,11 @@ package com.hz.trexam;
 
 import java.util.List;
 
+import android.R.integer;
+import android.app.AlertDialog;
+import android.app.AlertDialog.Builder;
 import android.content.ContentValues;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.renderscript.Script.FieldID;
@@ -12,9 +16,11 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v4.view.ViewPager.OnPageChangeListener;
+import android.view.LayoutInflater;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.ViewGroup;
+import android.widget.EditText;
 import android.widget.ImageButton;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -29,18 +35,23 @@ import com.hz.trexam.util.ExamService;
  * 自学模式的activity
  */
 public class SelfLearningActivity extends FragmentActivity{
-	private int Num=2;//题目的数目
+	private int Num=973;//题目的数目
 	private int nowQuestion=0;
 	private List<Exam> examInfo;//存放从XML中解析出来的题目数据
 	
 	private ImageButton backBtn;
 	private ImageButton favoriteBtn;
+	private ImageButton infoBtn;
+	private ImageButton gotoBtn;
 	
 	private ViewPager mPager;
 	private MyAdapter mAdapter;
 	private TextView  examNumView;
 	
 	
+	private AlertDialog.Builder infoDialog;
+	private AlertDialog.Builder gotoDialog;
+	private AlertDialog.Builder errorDialog;
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		
@@ -118,6 +129,100 @@ public class SelfLearningActivity extends FragmentActivity{
 			public void onClick(View v) {
 				Intent intentToMain = new Intent(SelfLearningActivity.this, MainActivity.class);
 				startActivity(intentToMain);
+				
+			}
+		});
+		
+		
+		//帮助信息按钮
+		infoBtn = (ImageButton)findViewById(R.id.topbar_info_selflearning);
+		infoBtn.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				infoDialog = new AlertDialog.Builder(SelfLearningActivity.this);
+				infoDialog.setTitle("解答提示");
+				infoDialog.setMessage(examInfo.get(nowQuestion).getAnswerDesc());
+				infoDialog.setNegativeButton("取消", new DialogInterface.OnClickListener() {
+					
+					@Override
+					public void onClick(DialogInterface dialog, int which) {
+						// TODO Auto-generated method stub
+						
+					}
+				});
+				
+				infoDialog.show();
+			}
+		});
+		
+		
+		//跳转按钮设置
+		gotoBtn = (ImageButton)findViewById(R.id.topbar_goto_selflearning);
+		//final EditText queNum = new EditText(this);
+		
+		gotoBtn.setOnClickListener(new OnClickListener() {
+			
+			@Override
+			public void onClick(View v) {
+				gotoDialog = new AlertDialog.Builder(SelfLearningActivity.this);
+				gotoDialog.setTitle("输入你想跳转到的题号");
+				final View view = LayoutInflater.from(SelfLearningActivity.this).inflate(R.layout.editdialog, null);
+				gotoDialog.setView(view);//给对话框添加输入栏;
+				final EditText mEditText = (EditText)view.findViewById(R.id.edit_dialog); 
+				
+				
+				
+				gotoDialog.setPositiveButton("确定", new DialogInterface.OnClickListener() {
+					
+					@Override
+					public void onClick(DialogInterface dialog, int which) {
+						
+						try{
+							int num = Integer.valueOf(mEditText.getText().toString());
+							System.out.println("---------------------->"+num);
+							if(num>973||num<1){
+								System.out.println("inside---------------------->"+num);
+								errorDialog = new AlertDialog.Builder(SelfLearningActivity.this);
+								errorDialog.setTitle("错误的输入");
+								errorDialog.setMessage("请输入1~973之间的数字");
+								errorDialog.setNegativeButton("确定", new DialogInterface.OnClickListener() {
+									
+									@Override
+									public void onClick(DialogInterface dialog, int which) {
+										
+										
+									}
+								});
+								
+								errorDialog.show();
+							}else if(num>=1&&num<=973){
+								String numStr = mEditText.getText().toString();
+								int num2 = Integer.valueOf(numStr);
+								mPager.setCurrentItem(num2-1);
+							}
+						}catch(Exception e){
+							errorDialog = new AlertDialog.Builder(SelfLearningActivity.this);
+							errorDialog.setTitle("错误的输入");
+							errorDialog.setMessage("请输入1~973之间的数字");
+							errorDialog.setNegativeButton("确定", new DialogInterface.OnClickListener() {
+								
+								@Override
+								public void onClick(DialogInterface dialog, int which) {
+									
+									
+								}
+							});
+							errorDialog.show();
+						}
+						
+						
+						
+						
+					}
+				});
+				
+				gotoDialog.show();
 				
 			}
 		});

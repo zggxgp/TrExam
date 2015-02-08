@@ -16,7 +16,10 @@
             android:id="@+id/backtomain_test"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:background="@color/transparent"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:scaleType="centerInside"
+            android:background="@drawable/btn_topbar"
             android:src="@drawable/ic_menu_back" />
 
         <TextView
@@ -30,14 +33,8 @@
             android:textColor="@color/white"
             android:textSize="20sp" />
     </RelativeLayout>
-
-    <LinearLayout
-        android:id="@+id/content_test"
-        android:layout_marginTop="45dp"
-        android:layout_width="fill_parent"
-        android:layout_height="wrap_content"
-        android:orientation="vertical" >
-    </LinearLayout>
+	
+    
 
     <RelativeLayout
         android:id="@+id/bottom_bar_test"
@@ -51,7 +48,10 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/btn_change"
-            android:layout_margin="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
             android:text="上一题" />
         
         
@@ -60,7 +60,10 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/btn_change"
-            android:layout_margin="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="3dp"
+            android:layout_marginRight="3dp"
             android:layout_alignParentRight="true"
             android:text="下一题" />
         
@@ -70,7 +73,10 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/btn_change"
-            android:layout_margin="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
             android:layout_toRightOf="@id/pre_btn"
             android:text="提交" />
         
@@ -80,7 +86,10 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:background="@drawable/btn_change"
-            android:layout_margin="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginBottom="5dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
             android:layout_toRightOf="@id/commit_btn"
          	    />
          
@@ -91,9 +100,21 @@
             android:background="@drawable/btn_change"
             android:layout_marginTop="5dp"
             android:layout_marginBottom="5dp"
-            android:layout_marginLeft="3dp"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
 
             android:layout_toRightOf="@id/time"/>
     </RelativeLayout>
+    
+    <!-- 题目区域 -->
+    <LinearLayout
+        android:id="@+id/content_test"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="5dp"
+        android:layout_above="@id/bottom_bar_test"
+        android:layout_marginTop="45dp"
+        android:orientation="vertical" >
+    </LinearLayout>
 
 </RelativeLayout>

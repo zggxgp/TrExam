@@ -2,6 +2,7 @@ package com.hz.trexam;
 
 import java.util.List;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
@@ -9,7 +10,9 @@ import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentStatePagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v4.view.ViewPager.OnPageChangeListener;
+import android.view.View;
 import android.view.ViewGroup;
+import android.view.View.OnClickListener;
 import android.widget.ImageButton;
 import android.widget.TextView;
 
@@ -45,6 +48,19 @@ public class FavoriteActivity extends FragmentActivity {
 		// 初始化当前题号和总题目数
 		examNumView = (TextView) findViewById(R.id.bottom_bar_text_favorite);
 		examNumView.setText("" + 1 + "/" + totalNum);
+
+		// 设置返回按钮
+		backBtn = (ImageButton) findViewById(R.id.backtomain_favorite);
+		backBtn.setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				Intent intentToMain = new Intent(FavoriteActivity.this,
+						MainActivity.class);
+				startActivity(intentToMain);
+
+			}
+		});
 
 		// viewpager设置adapter
 		favAdapter = new FavAdapter(getSupportFragmentManager());
