@@ -70,7 +70,8 @@ public class TestAcivity extends FragmentActivity{
 		//设置开始考试对话框
 		alertBuilder = new AlertDialog.Builder(this);
 		alertBuilder.setTitle("注意");
-		alertBuilder.setMessage("即将开始考试，考试时间持续45分钟");
+		alertBuilder.setCancelable(false);
+		alertBuilder.setMessage("即将开始考试，考试时间持续50分钟");
 		alertBuilder.setPositiveButton("开始", new DialogInterface.OnClickListener() {
 			
 			@Override

@@ -16,6 +16,8 @@ import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.view.animation.Animation;
+import android.view.animation.AnimationUtils;
 import android.widget.ImageView;
 import android.widget.RadioButton;
 import android.widget.RadioGroup;
@@ -141,12 +143,16 @@ public class SelfLearningFragment extends Fragment{
 					resultView.setVisibility(View.VISIBLE);
 					resultView.setBackgroundColor(Color.GREEN);
 					resultView.setText("恭喜您回答正确！");
+					Animation shake = AnimationUtils.loadAnimation(getActivity(), R.anim.shake);
+					 resultView.startAnimation(shake);
 					
 				}else{
 					TextView resultView = (TextView)v.findViewById(R.id.result_selflearning);
 					resultView.setVisibility(View.VISIBLE);
 					resultView.setBackgroundColor(Color.RED);
 					resultView.setText("很遗憾，您答错了。答案是"+answerStr);
+					Animation shake = AnimationUtils.loadAnimation(getActivity(), R.anim.shake);
+					resultView.startAnimation(shake);
 					
 					//操作数据库，将错题存放到错题表中
 					ExamDBManger examDBManger = new ExamDBManger(getActivity());

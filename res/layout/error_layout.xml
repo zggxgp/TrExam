@@ -38,7 +38,17 @@
             android:textColor="@color/white"
             android:textSize="20sp" />
 
-       
+       <ImageButton
+            android:id="@+id/topbar_delete_favorite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="5dp"
+            android:layout_marginTop="5dp"
+            android:scaleType="centerInside"
+            android:layout_marginLeft="60dp"  
+            android:layout_toRightOf="@id/topbar_text_error"
+            android:background="@drawable/btn_topbar"
+            android:src="@android:drawable/ic_menu_delete" />
     </RelativeLayout>
 	
    
@@ -73,4 +83,12 @@
             android:layout_marginBottom="5dp"
             >
         </android.support.v4.view.ViewPager>
+        
+     <TextView 
+         android:id="@+id/noerror"
+         android:layout_width="wrap_content"
+         android:layout_height="wrap_content"
+         android:layout_centerInParent="true"
+         android:visibility="gone"
+         />
 </RelativeLayout>

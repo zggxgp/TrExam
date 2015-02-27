@@ -38,12 +38,26 @@
             />
     </RelativeLayout>
     
+    <com.hz.trexam.custom.FocusedTextView
+	        android:id="@+id/info_home"
+	        android:marqueeRepeatLimit="marquee_forever"
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:gravity="center"
+	        android:singleLine="true"
+	        android:layout_marginTop="10dp"
+	        android:ellipsize="marquee"
+	        android:textSize="18sp"
+	        android:textColor="#ffffff"
+	        android:text="交规考试平台   develop by hz         交规考试平台   develop by hz"
+	        />
+    
     <!-- 功能选项列表 -->
     <ListView
         android:id="@+id/main_list"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="25dp"
+        android:layout_marginTop="15dp"
         android:layout_marginBottom="12.0dip"
         android:layout_marginLeft="12.0dip"
         android:layout_marginRight="12.0dip"

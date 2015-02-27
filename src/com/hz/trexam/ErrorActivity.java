@@ -2,6 +2,8 @@ package com.hz.trexam;
 
 import java.util.List;
 
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
@@ -17,6 +19,7 @@ import android.widget.ImageButton;
 import android.widget.TextView;
 
 import com.hz.trexam.bean.Exam;
+import com.hz.trexam.db.ExamDBManger;
 import com.hz.trexam.util.GetTheErrorList;
 
 /**
@@ -34,6 +37,11 @@ public class ErrorActivity extends FragmentActivity {
 	private ViewPager mViewPager;
 	private ErrorAdapter errAdapter;
 	private TextView examNumView;
+	private TextView noError;
+	
+	private int nowQue = 0;
+	private ImageButton btnDelete;
+	private AlertDialog.Builder alertDialog;
 
 	@Override
 	protected void onCreate(Bundle arg0) {
@@ -50,7 +58,69 @@ public class ErrorActivity extends FragmentActivity {
 
 		// 初始化总题数和当前题号
 		examNumView = (TextView) findViewById(R.id.bottom_bar_text_error);
-		examNumView.setText("" + 1 + "/" + Num);
+		noError = (TextView) findViewById(R.id.noerror);
+
+		if (totalNum >=1) {
+			examNumView.setText("" + 1 + "/" + totalNum);
+		} else {
+			examNumView.setText("" + 0 + "/" + totalNum);
+			noError.setText("您还没做错过题目，错题会自动收录进这个模块");
+			noError.setVisibility(View.VISIBLE);
+		}
+
+		// 设置删除题目按钮
+		// 设置删除当前题目按钮
+		btnDelete = (ImageButton) findViewById(R.id.topbar_delete_favorite);
+		btnDelete.setOnClickListener(new OnClickListener() {
+
+			@Override
+			public void onClick(View v) {
+				alertDialog = new AlertDialog.Builder(ErrorActivity.this);
+				alertDialog.setTitle("注意");
+				alertDialog.setMessage("确定要删除当前题目吗？");
+
+				alertDialog.setNegativeButton("取消",
+						new DialogInterface.OnClickListener() {
+
+							@Override
+							public void onClick(DialogInterface dialog,
+									int which) {
+
+							}
+						});
+
+				alertDialog.setPositiveButton("确定",
+						new DialogInterface.OnClickListener() {
+
+							@Override
+							public void onClick(DialogInterface dialog,
+									int which) {
+								ExamDBManger examDBManger = new ExamDBManger(
+										ErrorActivity.this);
+								examDBManger.getWriteDataBaseConn();
+								String nowQueStr = String.valueOf(nowQue);
+								examDBManger.delete("error", "ordernum=?",
+										new String[] { nowQueStr });
+								totalNum--;
+								
+								errExamList.remove(nowQue);
+								errAdapter.notifyDataSetChanged();
+								if ((nowQue + 1) >totalNum) {
+									examNumView.setText("" + nowQue + "/"
+											+ totalNum);
+									nowQue--;
+								}else{
+									examNumView.setText("" + (nowQue+1) + "/"
+											+ totalNum);
+									nowQue--;
+								}
+								
+							}
+						});
+
+				alertDialog.show();
+			}
+		});
 
 		// viewpager设置adapter
 		errAdapter = new ErrorAdapter(getSupportFragmentManager());
@@ -64,12 +134,15 @@ public class ErrorActivity extends FragmentActivity {
 				int templc = position + 1;
 				examNumView.setText("" + templc + "/" + Num);
 				int temp = Num - position;
-
+				nowQue = position;
+				
+				
+				/*
 				if (temp <= 2 && (Num + 1) <= totalNum) {
 					Num++;
 					errAdapter.notifyDataSetChanged();
 				}
-
+				*/
 			}
 
 			@Override
@@ -109,7 +182,7 @@ public class ErrorActivity extends FragmentActivity {
 		@Override
 		public int getCount() {
 
-			return Num;
+			return totalNum;
 		}
 
 		@Override
